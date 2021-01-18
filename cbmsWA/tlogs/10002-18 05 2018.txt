@@ -1,0 +1,24 @@
+Customer ID: 110136301 Customer Name: KWAME AJEI Receipt No: 10002-494394 Transaction Amount: 1000 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 4:33:52 PM Cashier ID: 10002
+
+Customer ID: 110222709 Customer Name: ERIC BEDIAKO Receipt No: 10002-532230 Transaction Amount: 142 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 4:51:08 PM Cashier ID: 10002
+
+Customer ID: 110222709 Customer Name: ERIC BEDIAKO Receipt No: 10002-219328 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 4:52:33 PM Cashier ID: 10002
+
+Customer ID: 110195585 Customer Name: VICTOR FERKA Receipt No: 10002-176771 Transaction Amount: 31 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:09:16 PM Cashier ID: 10002
+
+Customer ID: 110074248 Customer Name: CHARLES OPPONG Receipt No: 10002-485035 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:15:48 PM Cashier ID: 10002
+
+Customer ID: 110145178 Customer Name: PASTOR THE Receipt No: 10002-655372 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:22:41 PM Cashier ID: 10002
+
+Customer ID: 110086959 Customer Name: CECILIA ASIMA Receipt No: 10002-259848 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:23:45 PM Cashier ID: 10002
+
+Customer ID: 110213991 Customer Name: TAMEA ABEUA Receipt No: 10002-870662 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:31:29 PM Cashier ID: 10002
+
+Customer ID: 110062118 Customer Name: HAWAH KWARTENG Receipt No: 10002-282308 Transaction Amount: 495 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:53:27 PM Cashier ID: 10002
+
+Customer ID: 110218226 Customer Name: HAWA KWARTENG  Receipt No: 10002-524018 Transaction Amount: 165 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:54:42 PM Cashier ID: 10002
+
+Customer ID: 110029484 Customer Name: ADAMA ADINKRA Receipt No: 10002-555796 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:57:07 PM Cashier ID: 10002
+
+Customer ID: 110009134 Customer Name: GYABAAH BOSEA Receipt No: 10002-807619 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 5:58:18 PM Cashier ID: 10002
+

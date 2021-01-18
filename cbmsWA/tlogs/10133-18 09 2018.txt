@@ -1,0 +1,6 @@
+Customer ID: 101116973 Customer Name: ALEXANDER KORANG Receipt No: 10133-865530 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/18/2018 9:56:54 AM Cashier ID: 10133
+
+Customer ID: 101181025 Customer Name: KWABENA DARKU TABURY Receipt No: 10133-884268 Transaction Amount: 273 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/18/2018 10:08:30 AM Cashier ID: 10133
+
+Customer ID: 101166396 Customer Name: MERCY GYAMFI Receipt No: 10133-745392 Transaction Amount: 80 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/18/2018 10:57:00 AM Cashier ID: 10133
+

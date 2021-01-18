@@ -1,0 +1,6 @@
+Customer ID: 102168212 Customer Name: ANINAKWA JULIANA Receipt No: 1006-290950 Transaction Amount: 2644 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/9/2018 3:16:03 PM Cashier ID: 1006
+
+Customer ID: 102111866 Customer Name: KYERE STEPHEN Receipt No: 1006-870925 Transaction Amount: 4 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/9/2018 3:17:39 PM Cashier ID: 1006
+
+Customer ID: 102017787 Customer Name: KOFI BEDIAKO, Receipt No: 1006-636027 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/9/2018 3:22:49 PM Cashier ID: 1006
+

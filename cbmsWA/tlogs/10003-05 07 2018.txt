@@ -1,0 +1,8 @@
+Customer ID: 110144258 Customer Name: HEADMASTER THE Receipt No: 10003-754020 Transaction Amount: 166 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 3:40:31 PM Cashier ID: 10003
+
+Customer ID: 110045767 Customer Name: KRAH MADAM  Receipt No: 10003-779411 Transaction Amount: 110 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 3:56:30 PM Cashier ID: 10003
+
+Customer ID: 110036881 Customer Name: FOFIE THOMAS  Receipt No: 10003-557832 Transaction Amount: 83 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 4:28:11 PM Cashier ID: 10003
+
+Customer ID: 110125785 Customer Name: LOVIS KYERE Receipt No: 10003-757719 Transaction Amount: 40.5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 4:45:10 PM Cashier ID: 10003
+

@@ -1,0 +1,8 @@
+Customer ID: 110222729 Customer Name: KOFI TAKYI Receipt No: 10002-30978 Transaction Amount: 158 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/24/2018 4:30:35 PM Cashier ID: 10002
+
+Customer ID: 110222729 Customer Name: KOFI TAKYI Receipt No: 10002-750324 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/24/2018 4:33:19 PM Cashier ID: 10002
+
+Customer ID: 110222733 Customer Name: OMAR WATARA Receipt No: 10002-368581 Transaction Amount: 142 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/24/2018 5:01:20 PM Cashier ID: 10002
+
+Customer ID: 110222733 Customer Name: OMAR WATARA Receipt No: 10002-460694 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/24/2018 5:02:28 PM Cashier ID: 10002
+

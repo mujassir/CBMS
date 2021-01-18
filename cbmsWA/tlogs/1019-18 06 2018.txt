@@ -1,0 +1,6 @@
+Customer ID: 111119517 Customer Name:  NSIAH JOHNSON Receipt No: 1019-159081 Transaction Amount: 20 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 11:57:32 AM Cashier ID: 1019
+
+Customer ID: 101217868 Customer Name: BOADI KWAME Receipt No: 1019-939952 Transaction Amount: 35 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 1:31:37 PM Cashier ID: 1019
+
+Customer ID: 101117342 Customer Name: SIMON  ANANE GYAU Receipt No: 1019-560642 Transaction Amount: 30 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 3:21:02 PM Cashier ID: 1019
+

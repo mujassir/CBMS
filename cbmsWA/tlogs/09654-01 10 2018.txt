@@ -1,0 +1,4 @@
+Customer ID: 107190375 Customer Name: ESTHER  ADOFO Receipt No: 09654-903452 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 12:09:33 PM Cashier ID: 09654
+
+Customer ID: 107007329 Customer Name: AKPLU JOHN Receipt No: 09654-200103 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 12:10:48 PM Cashier ID: 09654
+

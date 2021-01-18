@@ -1,0 +1,2 @@
+Customer ID: 101141003 Customer Name: BADU JOSEPH BOATENG, Receipt No: 1009-453973 Transaction Amount: 110 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/27/2018 9:01:44 AM Cashier ID: 1009
+

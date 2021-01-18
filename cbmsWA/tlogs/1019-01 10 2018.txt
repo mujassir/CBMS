@@ -1,0 +1,12 @@
+Customer ID: 101096835 Customer Name: ABRAHAM TAKYI,  Receipt No: 1019-940332 Transaction Amount: 90 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 12:07:27 PM Cashier ID: 1019
+
+Customer ID: 101207698 Customer Name: AGNES FOSUAH Receipt No: 1019-833892 Transaction Amount: 120 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 12:33:11 PM Cashier ID: 1019
+
+Customer ID: 101007643 Customer Name: EMELIA MUSAH Receipt No: 1019-551714 Transaction Amount: 220 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 12:38:40 PM Cashier ID: 1019
+
+Customer ID: 101145896 Customer Name: GYAU MARFO JOHN  Receipt No: 1019-276449 Transaction Amount: 32 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 1:19:51 PM Cashier ID: 1019
+
+Customer ID: 101033675 Customer Name: ANTHONY OPPONG Receipt No: 1019-321627 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 3:37:49 PM Cashier ID: 1019
+
+Customer ID: 101205840 Customer Name: MENSAH ABRAMPAH OWUSU  Receipt No: 1019-204142 Transaction Amount: 260 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/1/2018 4:22:00 PM Cashier ID: 1019
+

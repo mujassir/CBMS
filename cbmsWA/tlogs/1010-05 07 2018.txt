@@ -1,0 +1,10 @@
+Customer ID: 101121350 Customer Name: EDWARD ASANTE Receipt No: 1010-784197 Transaction Amount: 270 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 8:28:56 AM Cashier ID: 1010
+
+Customer ID: 101211920 Customer Name: ALI ISSIFU Receipt No: 1010-479749 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 10:33:14 AM Cashier ID: 1010
+
+Customer ID: 101087369 Customer Name: DANIEL AGGREY  Receipt No: 1010-104228 Transaction Amount: 118 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 1:32:45 PM Cashier ID: 1010
+
+Customer ID: 101149610 Customer Name: BAFFOUR KUSI Receipt No: 1010-695901 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 2:49:47 PM Cashier ID: 1010
+
+Customer ID: 101173730 Customer Name: ASARE BAFFOUR T  Receipt No: 1010-543934 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 3:58:08 PM Cashier ID: 1010
+

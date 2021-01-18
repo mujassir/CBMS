@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\About.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\About.aspx" />
+  <event action="Analyze" type="Success" name="About.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\About.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accessrules.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accessrules.aspx" />
+  <event action="Analyze" type="Success" name="accessrules.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accessrules.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountgeneration.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountgeneration.aspx" />
+  <event action="Analyze" type="Success" name="accountgeneration.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountgeneration.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountstatus.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountstatus.aspx" />
+  <event action="Analyze" type="Success" name="accountstatus.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\accountstatus.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\acometervetting.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\acometervetting.aspx" />
+  <event action="Analyze" type="Success" name="acometervetting.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\acometervetting.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addarea.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addarea.aspx" />
+  <event action="Analyze" type="Success" name="addarea.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addarea.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addcycle.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addcycle.aspx" />
+  <event action="Analyze" type="Success" name="addcycle.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addcycle.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adddepartment.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adddepartment.aspx" />
+  <event action="Analyze" type="Success" name="adddepartment.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adddepartment.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addemployee.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addemployee.aspx" />
+  <event action="Analyze" type="Success" name="addemployee.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addemployee.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addestimates.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addestimates.aspx" />
+  <event action="Analyze" type="Success" name="addestimates.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addestimates.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addload.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addload.aspx" />
+  <event action="Analyze" type="Success" name="addload.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addload.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addrank.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addrank.aspx" />
+  <event action="Analyze" type="Success" name="addrank.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addrank.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroles.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroles.aspx" />
+  <event action="Analyze" type="Success" name="addroles.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroles.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroute.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroute.aspx" />
+  <event action="Analyze" type="Success" name="addroute.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addroute.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addstation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addstation.aspx" />
+  <event action="Analyze" type="Success" name="addstation.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addstation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addtarrif.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addtarrif.aspx" />
+  <event action="Analyze" type="Success" name="addtarrif.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\addtarrif.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\AddUsers.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\AddUsers.aspx" />
+  <event action="Analyze" type="Success" name="AddUsers.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\AddUsers.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adjustmnts.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adjustmnts.aspx" />
+  <event action="Analyze" type="Success" name="adjustmnts.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\adjustmnts.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assignmeter.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assignmeter.aspx" />
+  <event action="Analyze" type="Success" name="assignmeter.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assignmeter.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assigntocust.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assigntocust.aspx" />
+  <event action="Analyze" type="Success" name="assigntocust.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\assigntocust.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bands.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bands.aspx" />
+  <event action="Analyze" type="Success" name="bands.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bands.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bandsgovt.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bandsgovt.aspx" />
+  <event action="Analyze" type="Success" name="bandsgovt.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bandsgovt.aspx" />
+  <event action="Analyze" type="Success" name="Binary References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bin\" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Bundle.config" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtranstype.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtranstype.aspx" />
+  <event action="Analyze" type="Success" name="cashtranstype.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtranstype.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtrantoday.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtrantoday.aspx" />
+  <event action="Analyze" type="Success" name="cashtrantoday.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cashtrantoday.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cbs.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cbs.master" />
+  <event action="Analyze" type="Success" name="cbs.master" path="C:\Users\selorm\Desktop\mylaptop\CBMS\cbs.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Contact.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Contact.aspx" />
+  <event action="Analyze" type="Success" name="Contact.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Contact.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Default.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\deinstallmeter.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\deinstallmeter.aspx" />
+  <event action="Analyze" type="Success" name="deinstallmeter.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\deinstallmeter.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\editbatches.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\editbatches.aspx" />
+  <event action="Analyze" type="Success" name="editbatches.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\editbatches.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\EditUser.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\EditUser.aspx" />
+  <event action="Analyze" type="Success" name="EditUser.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\EditUser.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\groups.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\groups.aspx" />
+  <event action="Analyze" type="Success" name="groups.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\groups.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\loadmatsetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\loadmatsetup.aspx" />
+  <event action="Analyze" type="Success" name="loadmatsetup.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\loadmatsetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualreceipts.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualreceipts.aspx" />
+  <event action="Analyze" type="Success" name="manualreceipts.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualreceipts.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualtrans.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualtrans.aspx" />
+  <event action="Analyze" type="Success" name="manualtrans.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\manualtrans.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\matsetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\matsetup.aspx" />
+  <event action="Analyze" type="Success" name="matsetup.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\matsetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterapproval.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterapproval.aspx" />
+  <event action="Analyze" type="Success" name="meterapproval.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterapproval.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterinstallation.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterinstallation.aspx" />
+  <event action="Analyze" type="Success" name="meterinstallation.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterinstallation.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metersetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metersetup.aspx" />
+  <event action="Analyze" type="Success" name="metersetup.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metersetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstat.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstat.aspx" />
+  <event action="Analyze" type="Success" name="meterstat.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstat.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstore.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstore.aspx" />
+  <event action="Analyze" type="Success" name="meterstore.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\meterstore.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metertype.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metertype.aspx" />
+  <event action="Analyze" type="Success" name="metertype.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metertype.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metervetting.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metervetting.aspx" />
+  <event action="Analyze" type="Success" name="metervetting.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\metervetting.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newaccount.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newaccount.aspx" />
+  <event action="Analyze" type="Success" name="newaccount.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newaccount.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newcustomer.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newcustomer.aspx" />
+  <event action="Analyze" type="Success" name="newcustomer.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\newcustomer.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\selorm\Desktop\mylaptop\CBMS\packages.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\purposesetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\purposesetup.aspx" />
+  <event action="Analyze" type="Success" name="purposesetup.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\purposesetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignmeter.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignmeter.aspx" />
+  <event action="Analyze" type="Success" name="reassignmeter.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignmeter.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignrptbooks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignrptbooks.aspx" />
+  <event action="Analyze" type="Success" name="reassignrptbooks.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reassignrptbooks.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\report.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\report.master" />
+  <event action="Analyze" type="Success" name="report.master" path="C:\Users\selorm\Desktop\mylaptop\CBMS\report.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Reports\TransactionsByCashier.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Reports\TransactionsByCashier.aspx" />
+  <event action="Analyze" type="Success" name="TransactionsByCashier.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Reports\TransactionsByCashier.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\requestmeter.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\requestmeter.aspx" />
+  <event action="Analyze" type="Success" name="requestmeter.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\requestmeter.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reversetrans.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reversetrans.aspx" />
+  <event action="Analyze" type="Success" name="reversetrans.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\reversetrans.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\rptbooks.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\rptbooks.aspx" />
+  <event action="Analyze" type="Success" name="rptbooks.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\rptbooks.aspx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconapp.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconapp.aspx" />
+  <event action="Analyze" type="Success" name="serconapp.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconapp.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconsetup.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconsetup.aspx" />
+  <event action="Analyze" type="Success" name="serconsetup.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serconsetup.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serviceapps.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serviceapps.aspx" />
+  <event action="Analyze" type="Success" name="serviceapps.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\serviceapps.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\servicetype.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\servicetype.aspx" />
+  <event action="Analyze" type="Success" name="servicetype.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\servicetype.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Site.master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Site.master" />
+  <event action="Analyze" type="Success" name="Site.master" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Site.master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\stationmeterassignment.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\stationmeterassignment.aspx" />
+  <event action="Analyze" type="Success" name="stationmeterassignment.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\stationmeterassignment.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tariffgovt.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tariffgovt.aspx" />
+  <event action="Analyze" type="Success" name="tariffgovt.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tariffgovt.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\test.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\test.aspx" />
+  <event action="Analyze" type="Success" name="test.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\test.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\testreport.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\testreport.aspx" />
+  <event action="Analyze" type="Success" name="testreport.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\testreport.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tranbycashier.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tranbycashier.aspx" />
+  <event action="Analyze" type="Success" name="tranbycashier.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\tranbycashier.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transactions.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transactions.aspx" />
+  <event action="Analyze" type="Success" name="transactions.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transactions.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyallcash.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyallcash.aspx" />
+  <event action="Analyze" type="Success" name="transbyallcash.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyallcash.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyperiod.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyperiod.aspx" />
+  <event action="Analyze" type="Success" name="transbyperiod.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\transbyperiod.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\AddUser.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\AddUser.ascx" />
+  <event action="Analyze" type="Success" name="AddUser.ascx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\AddUser.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\customerdetails.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\customerdetails.ascx" />
+  <event action="Analyze" type="Success" name="customerdetails.ascx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\customerdetails.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\StationDetails.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\StationDetails.ascx" />
+  <event action="Analyze" type="Success" name="StationDetails.ascx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\StationDetails.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\Users.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\Users.ascx" />
+  <event action="Analyze" type="Success" name="Users.ascx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\UserControls\Users.ascx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\users.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\users.aspx" />
+  <event action="Analyze" type="Success" name="users.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\users.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="web.config" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Analyze" type="Success" name="C:\...\CBMS\" path="C:\Users\selorm\Desktop\mylaptop\CBMS" />
+  <event action="Analyze" type="Success" name="Solution" path="Solution" />
+  <event action="Upgrade" type="Success" name="Binary References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\bin\" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Reports\TransactionsByCashier.aspx" />
+  <event action="Upgrade" type="Success" name="TransactionsByCashier.aspx" path="C:\Users\selorm\Desktop\mylaptop\CBMS\Reports\TransactionsByCashier.aspx" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Upgrade" type="Success" name="Http Handlers" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Upgrade" type="Success" name="Handlers (IIS7+)" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Upgrade" type="Success" name="web.config" path="C:\Users\selorm\Desktop\mylaptop\CBMS\web.config" />
+  <event action="Upgrade" type="Success" name="C:\...\CBMS\" path="C:\Users\selorm\Desktop\mylaptop\CBMS" />
+  <event action="Upgrade" type="Success" name="Solution" path="Solution" />
+</log>

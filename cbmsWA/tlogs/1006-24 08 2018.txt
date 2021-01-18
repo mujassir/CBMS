@@ -1,0 +1,4 @@
+Customer ID: 102053562 Customer Name: J. E. K. AMANKONA, Receipt No: 1006-219553 Transaction Amount: 300 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/24/2018 11:47:47 AM Cashier ID: 1006
+
+Customer ID: 102026119 Customer Name: J. E. K. AMANKONA, Receipt No: 1006-715478 Transaction Amount: 1200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/24/2018 11:51:15 AM Cashier ID: 1006
+

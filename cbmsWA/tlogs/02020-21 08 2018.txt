@@ -1,0 +1,24 @@
+Customer ID: 106221442 Customer Name: DARKOWAA MAVIS Receipt No: 02020-835266 Transaction Amount: 125 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 8:28:39 AM Cashier ID: 02020
+
+Customer ID: 106018932 Customer Name: KWADWO OWUSU,  Receipt No: 02020-12529 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 9:31:58 AM Cashier ID: 02020
+
+Customer ID: 106100763 Customer Name: ODURO  STEPHEN MR. Receipt No: 02020-800459 Transaction Amount: 3 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 9:35:46 AM Cashier ID: 02020
+
+Customer ID: 106189411 Customer Name: SAKODIE KINGSLEY  Receipt No: 02020-145141 Transaction Amount: 310 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 10:24:05 AM Cashier ID: 02020
+
+Customer ID: 106043195 Customer Name: KONADU MARGARET  Receipt No: 02020-968703 Transaction Amount: 63 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 10:49:43 AM Cashier ID: 02020
+
+Customer ID: 106186277 Customer Name: APPIAH ROSEMOND  Receipt No: 02020-769779 Transaction Amount: 98 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 10:53:27 AM Cashier ID: 02020
+
+Customer ID: 106138075 Customer Name: AGYEMANG OSEI Receipt No: 02020-636128 Transaction Amount: 5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 12:25:35 PM Cashier ID: 02020
+
+Customer ID: 106018455 Customer Name: BOATEMAA ABENA Receipt No: 02020-975205 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 12:37:20 PM Cashier ID: 02020
+
+Customer ID: 106007777 Customer Name: Amankwah Ruth Receipt No: 02020-660828 Transaction Amount: 78 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 1:49:25 PM Cashier ID: 02020
+
+Customer ID: 106192966 Customer Name:  PETER ASARE Receipt No: 02020-85313 Transaction Amount: 110 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 2:10:50 PM Cashier ID: 02020
+
+Customer ID: 106163749 Customer Name: BAAH-BOFAH ALEX  Receipt No: 02020-801938 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 2:39:27 PM Cashier ID: 02020
+
+Customer ID: 106140133 Customer Name: BAAH-BOFAH ALEX  Receipt No: 02020-559618 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/21/2018 2:41:27 PM Cashier ID: 02020
+

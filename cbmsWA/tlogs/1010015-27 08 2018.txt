@@ -1,0 +1,6 @@
+Customer ID: 101013262 Customer Name: YAW MENSAH, Receipt No: 1010015-518574 Transaction Amount: 726 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 1:46:07 PM Cashier ID: 1010015
+
+Customer ID: 101013262 Customer Name: YAW MENSAH, Receipt No: 1010015-147969 Transaction Amount: 4 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 1:47:12 PM Cashier ID: 1010015
+
+Customer ID: 101001997 Customer Name: OBENG JOSEPH  Receipt No: 1010015-379454 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 2:28:41 PM Cashier ID: 1010015
+

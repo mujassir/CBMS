@@ -1,0 +1,2 @@
+Customer ID: 101099569 Customer Name: ESIFO MORO Receipt No: 1010-77944 Transaction Amount: 90 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 1:47:01 PM Cashier ID: 1010
+

@@ -1,0 +1,4 @@
+Customer ID: 101094976 Customer Name: VERONICA ABRAFI,  Receipt No: 1010017-99988 Transaction Amount: 400 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/3/2018 8:44:59 AM Cashier ID: 1010017
+
+Customer ID: 101000564 Customer Name: BEN LUCKY KUWODOR Receipt No: 1010017-531468 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/3/2018 9:05:24 AM Cashier ID: 1010017
+

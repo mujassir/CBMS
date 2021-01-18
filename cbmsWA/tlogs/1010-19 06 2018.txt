@@ -1,0 +1,28 @@
+Customer ID: 101066095 Customer Name: YAKUBU AMAL Receipt No: 1010-599077 Transaction Amount: 60 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 9:17:58 AM Cashier ID: 1010
+
+Customer ID: 101016779 Customer Name: BISMARK SAKYI Receipt No: 1010-994254 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 9:40:03 AM Cashier ID: 1010
+
+Customer ID: 101091111 Customer Name: OPHELIA AMPONSAA Receipt No: 1010-159816 Transaction Amount: 20 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 9:41:26 AM Cashier ID: 1010
+
+Customer ID: 101123442 Customer Name: ROSE SERWAA VIDA Receipt No: 1010-570999 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 9:56:52 AM Cashier ID: 1010
+
+Customer ID: 101032263 Customer Name: DANIEL AGYEMANG Receipt No: 1010-591428 Transaction Amount: 17 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 10:30:54 AM Cashier ID: 1010
+
+Customer ID: 101207896 Customer Name: YAW ADJEI  JOSEPH  Receipt No: 1010-530939 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 11:30:41 AM Cashier ID: 1010
+
+Customer ID: 101166515 Customer Name: AMPONSAH ANTHONY Receipt No: 1010-257030 Transaction Amount: 98 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 11:41:35 AM Cashier ID: 1010
+
+Customer ID: 101157805 Customer Name: KWADWO SAMUEL KYERE Receipt No: 1010-957725 Transaction Amount: 65 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 11:45:27 AM Cashier ID: 1010
+
+Customer ID: 101175982 Customer Name: KYEREH KONADU  Receipt No: 1010-253223 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 1:12:51 PM Cashier ID: 1010
+
+Customer ID: 101164847 Customer Name: ADU ASANTE FRANK Receipt No: 1010-94293 Transaction Amount: 500 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 2:32:05 PM Cashier ID: 1010
+
+Customer ID: 101207698 Customer Name: AGNES FOSUAH Receipt No: 1010-290338 Transaction Amount: 3 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 2:39:46 PM Cashier ID: 1010
+
+Customer ID: 101022996 Customer Name: AWUAH  PHILIP Receipt No: 1010-527400 Transaction Amount: 273 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 2:42:59 PM Cashier ID: 1010
+
+Customer ID: 101155828 Customer Name: Z. PETERS P.  Receipt No: 1010-902405 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 3:06:12 PM Cashier ID: 1010
+
+Customer ID: 101053565 Customer Name: COLLINS KYEREMEH  Receipt No: 1010-254318 Transaction Amount: 262 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 3:40:58 PM Cashier ID: 1010
+

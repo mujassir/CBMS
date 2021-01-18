@@ -1,0 +1,22 @@
+Customer ID: 110212073 Customer Name: David Owusu Receipt No: 10001-517251 Transaction Amount: 165 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:05:33 PM Cashier ID: 10001
+
+Customer ID: 110156538 Customer Name: YAA AGNES ADWOBI Receipt No: 10001-802702 Transaction Amount: 120 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:06:43 PM Cashier ID: 10001
+
+Customer ID: 110007794 Customer Name: ANKAMAH P..Y.  Receipt No: 10001-454262 Transaction Amount: 70 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:07:56 PM Cashier ID: 10001
+
+Customer ID: 110203872 Customer Name: MERI ADAMS Receipt No: 10001-198685 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:10:15 PM Cashier ID: 10001
+
+Customer ID: 110222869 Customer Name: AGYEI MANU Receipt No: 10001-942002 Transaction Amount: 114 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:11:36 PM Cashier ID: 10001
+
+Customer ID: 110222869 Customer Name: AGYEI MANU Receipt No: 10001-377047 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:12:23 PM Cashier ID: 10001
+
+Customer ID: 110222869 Customer Name: AGYEI MANU Receipt No: 10001-335517 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:12:56 PM Cashier ID: 10001
+
+Customer ID: 110084737 Customer Name:  FERKA RICHARD Receipt No: 10001-939936 Transaction Amount: 150 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:16:09 PM Cashier ID: 10001
+
+Customer ID: 110153036 Customer Name: JONES AMOAH  Receipt No: 10001-280381 Transaction Amount: 140 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:52:00 PM Cashier ID: 10001
+
+Customer ID: 110023165 Customer Name: TWENE AHMED  Receipt No: 10001-97797 Transaction Amount: 147 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 3:54:22 PM Cashier ID: 10001
+
+Customer ID: 110171422 Customer Name: NTIWAA AFUA Receipt No: 10001-292103 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/6/2018 5:04:46 PM Cashier ID: 10001
+

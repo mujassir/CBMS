@@ -1,0 +1,2 @@
+Customer ID: 101138729 Customer Name:  ANSU  ANDREWS Receipt No: 1011-686370 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/11/2018 8:37:02 AM Cashier ID: 1011
+

@@ -1,0 +1,14 @@
+Customer ID: 101177792 Customer Name: NKETIA GYEDU Receipt No: 1009-557940 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:41:55 AM Cashier ID: 1009
+
+Customer ID: 101100205 Customer Name: NKETIA GYEDU Receipt No: 1009-165208 Transaction Amount: 70 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:43:16 AM Cashier ID: 1009
+
+Customer ID: 101148897 Customer Name: YAW AFR. Receipt No: 1009-235135 Transaction Amount: 400 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:45:06 AM Cashier ID: 1009
+
+Customer ID: 101164756 Customer Name: NSIAH KWABENA  Receipt No: 1009-545040 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:55:47 AM Cashier ID: 1009
+
+Customer ID: 101192801 Customer Name:  AMPONSA CECILIA Receipt No: 1009-232564 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:57:50 AM Cashier ID: 1009
+
+Customer ID: 101164756 Customer Name: NSIAH KWABENA  Receipt No: 1009-266534 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 11:59:51 AM Cashier ID: 1009
+
+Customer ID: 101008546 Customer Name: KWAKU MANU AFFUL Receipt No: 1009-99818 Transaction Amount: 13.6 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/13/2018 12:42:07 PM Cashier ID: 1009
+

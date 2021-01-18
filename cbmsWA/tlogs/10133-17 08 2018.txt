@@ -1,0 +1,10 @@
+Customer ID: 101026205 Customer Name: K  GYABAA STEPHEN  Receipt No: 10133-421687 Transaction Amount: 34 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/17/2018 11:17:28 AM Cashier ID: 10133
+
+Customer ID: 101123442 Customer Name: ROSE SERWAA VIDA Receipt No: 10133-176903 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/17/2018 11:19:23 AM Cashier ID: 10133
+
+Customer ID: 101062393 Customer Name: ANSU-ADJEI NANA Receipt No: 10133-135034 Transaction Amount: 300 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/17/2018 11:24:00 AM Cashier ID: 10133
+
+Customer ID: 101066095 Customer Name: YAKUBU AMAL Receipt No: 10133-586353 Transaction Amount: 55 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/17/2018 12:36:12 PM Cashier ID: 10133
+
+Customer ID: 101003224 Customer Name: J. D ASARE,  Receipt No: 10133-804420 Transaction Amount: 140 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/17/2018 3:10:47 PM Cashier ID: 10133
+

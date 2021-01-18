@@ -1,0 +1,64 @@
+Customer ID: 114153566 Customer Name: DENNIS ANING Receipt No: 02022-511583 Transaction Amount: 48 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:18:13 AM Cashier ID: 02022
+
+Customer ID: 114081596 Customer Name: KYEREMAA ADWOA Receipt No: 02022-266072 Transaction Amount: 2 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:38:16 AM Cashier ID: 02022
+
+Customer ID: 114110218 Customer Name: KWAME ASARE Receipt No: 02022-3984 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:39:48 AM Cashier ID: 02022
+
+Customer ID: 114213835 Customer Name: FOSU YEBOAH STEPHEN Receipt No: 02022-995579 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:44:55 AM Cashier ID: 02022
+
+Customer ID: 114222330 Customer Name: JAMES YEBOAH Receipt No: 02022-474450 Transaction Amount: 7 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:51:54 AM Cashier ID: 02022
+
+Customer ID: 114110247 Customer Name: KWASI  MUSTPHA Receipt No: 02022-120275 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:09:59 AM Cashier ID: 02022
+
+Customer ID: 114141066 Customer Name: ADAMA SAFURA Receipt No: 02022-643899 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:19:42 AM Cashier ID: 02022
+
+Customer ID: 114133321 Customer Name: KRAMO ABUU Receipt No: 02022-177520 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:27:30 AM Cashier ID: 02022
+
+Customer ID: 114200961 Customer Name: FURCHIO GEORGINA Receipt No: 02022-386321 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:49:49 AM Cashier ID: 02022
+
+Customer ID: 114222135 Customer Name: ABANNE KARIM Receipt No: 02022-862334 Transaction Amount: 9 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:55:30 AM Cashier ID: 02022
+
+Customer ID: 114220708 Customer Name: ABU KARIM MARIAMA Receipt No: 02022-560511 Transaction Amount: 27 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:58:04 AM Cashier ID: 02022
+
+Customer ID: 114077643 Customer Name: ANSUAA ADWOA Receipt No: 02022-380725 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 10:11:02 AM Cashier ID: 02022
+
+Customer ID: 114213864 Customer Name: OPPONG ASAMOAH DINA Receipt No: 02022-657208 Transaction Amount: 3000 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 10:58:08 AM Cashier ID: 02022
+
+Customer ID: 114222186 Customer Name: SUSANA DONKOR Receipt No: 02022-924972 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 11:17:41 AM Cashier ID: 02022
+
+Customer ID: 114033664 Customer Name: ADOMA PHILOMENA Receipt No: 02022-935446 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 11:34:35 AM Cashier ID: 02022
+
+Customer ID: 114003062 Customer Name: ANIMA AFIA Receipt No: 02022-202439 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 11:49:15 AM Cashier ID: 02022
+
+Customer ID: 114141686 Customer Name: HELENA OBUOR Receipt No: 02022-201432 Transaction Amount: 3 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:38:47 PM Cashier ID: 02022
+
+Customer ID: 114222219 Customer Name: KWADWO AGYEI Receipt No: 02022-261284 Transaction Amount: 12 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:44:19 PM Cashier ID: 02022
+
+Customer ID: 114088792 Customer Name: KWABENA NYAMEKYE Receipt No: 02022-932518 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:46:05 PM Cashier ID: 02022
+
+Customer ID: 114058036 Customer Name: FATI IDDRISU Receipt No: 02022-636525 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:59:26 PM Cashier ID: 02022
+
+Customer ID: 114012843 Customer Name: CHURCH GHANA METHODIST Receipt No: 02022-8318 Transaction Amount: 45 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:20:20 PM Cashier ID: 02022
+
+Customer ID: 114000081 Customer Name: CHURCH GHANA METHODIST Receipt No: 02022-435131 Transaction Amount: 37 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:23:11 PM Cashier ID: 02022
+
+Customer ID: 114130112 Customer Name: DONKOR MUNKAILA Receipt No: 02022-56082 Transaction Amount: 6 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:48:37 PM Cashier ID: 02022
+
+Customer ID: 114167546 Customer Name: ABDALLA IBRAHIM Receipt No: 02022-688553 Transaction Amount: 80 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:50:09 PM Cashier ID: 02022
+
+Customer ID: 114220637 Customer Name: ADAMS MEMUNATUS Receipt No: 02022-922191 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:51:22 PM Cashier ID: 02022
+
+Customer ID: 114109061 Customer Name: ABDALLAH IBRAHIM Receipt No: 02022-975088 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:52:58 PM Cashier ID: 02022
+
+Customer ID: 114122219 Customer Name: ALI AMARA Receipt No: 02022-185205 Transaction Amount: 12 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 2:03:55 PM Cashier ID: 02022
+
+Customer ID: 114094549 Customer Name: KRAMO SIRIKYE Receipt No: 02022-3643 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 2:09:07 PM Cashier ID: 02022
+
+Customer ID: 114071281 Customer Name: G. BERNIKE ADDAI Receipt No: 02022-959339 Transaction Amount: 3 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 2:11:29 PM Cashier ID: 02022
+
+Customer ID: 114012373 Customer Name: AMARTEY ISAAC Receipt No: 02022-549938 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 2:51:31 PM Cashier ID: 02022
+
+Customer ID: 114113389 Customer Name: ABIGAIL POMAA Receipt No: 02022-968400 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 2:57:38 PM Cashier ID: 02022
+
+Customer ID: 114203489 Customer Name: LOBI NANA Receipt No: 02022-543543 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:02:42 PM Cashier ID: 02022
+

@@ -1,0 +1,8 @@
+Customer ID: 101187064 Customer Name: OPOKU AGARTHA AMEYAA Receipt No: 10133-741698 Transaction Amount: 101 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/9/2018 9:15:09 AM Cashier ID: 10133
+
+Customer ID: 101208090 Customer Name: DWUMFOUR THOMAS  Receipt No: 10133-647664 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/9/2018 11:34:52 AM Cashier ID: 10133
+
+Customer ID: 101025383 Customer Name: NIYAA MAHAMADU Receipt No: 10133-727013 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/9/2018 1:59:52 PM Cashier ID: 10133
+
+Customer ID: 101174669 Customer Name:  FATI ALHASSAN Receipt No: 10133-424339 Transaction Amount: 84 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/9/2018 3:22:33 PM Cashier ID: 10133
+

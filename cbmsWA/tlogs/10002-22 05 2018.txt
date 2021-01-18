@@ -1,0 +1,10 @@
+Customer ID: 110222726 Customer Name: FRANCIS NKETIAH Receipt No: 10002-531721 Transaction Amount: 213 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 3:46:07 PM Cashier ID: 10002
+
+Customer ID: 110222726 Customer Name: FRANCIS NKETIAH Receipt No: 10002-198385 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 3:47:25 PM Cashier ID: 10002
+
+Customer ID: 110143547 Customer Name: FRANKLIN YEBOAH Receipt No: 10002-309318 Transaction Amount: 120 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 4:02:39 PM Cashier ID: 10002
+
+Customer ID: 110141897 Customer Name: TANO KWAKU  Receipt No: 10002-811986 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 4:07:11 PM Cashier ID: 10002
+
+Customer ID: 110033147 Customer Name: LAWRENCE YEBOAH Receipt No: 10002-286262 Transaction Amount: 31 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 4:25:25 PM Cashier ID: 10002
+

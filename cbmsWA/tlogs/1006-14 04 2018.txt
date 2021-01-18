@@ -1,0 +1,10 @@
+Customer ID: 102164391 Customer Name: FUSTINA  AGYEIWAA MD.  Receipt No: 1006-342688 Transaction Amount: 54 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/14/2018 11:06:16 AM Cashier ID: 1006
+
+Customer ID: 102170073 Customer Name: AMMA COMFORT KYERAA  Receipt No: 1006-523903 Transaction Amount: 25 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/14/2018 12:08:50 PM Cashier ID: 1006
+
+Customer ID: 102074046 Customer Name: ASARE AMOS Receipt No: 1006-960175 Transaction Amount: 80 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/14/2018 2:02:20 PM Cashier ID: 1006
+
+Customer ID: 102074046 Customer Name: ASARE AMOS Receipt No: 1006-990233 Transaction Amount: 1 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/14/2018 2:05:18 PM Cashier ID: 1006
+
+Customer ID: 102074046 Customer Name: ASARE AMOS Receipt No: 1006-903492 Transaction Amount: 4 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/14/2018 2:06:04 PM Cashier ID: 1006
+

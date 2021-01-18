@@ -1,0 +1,6 @@
+Customer ID: 102149529 Customer Name: OF GHANA CATH.UNIVERSITY  Receipt No: 1010015-682124 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/28/2018 2:21:22 PM Cashier ID: 1010015
+
+Customer ID: 101129352 Customer Name: AMANKWAH CHARLES  Receipt No: 1010015-987166 Transaction Amount: 80 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/28/2018 2:30:47 PM Cashier ID: 1010015
+
+Customer ID: 101005582 Customer Name: Owusuwaa Afia Receipt No: 1010015-87765 Transaction Amount: 140 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/28/2018 2:42:49 PM Cashier ID: 1010015
+

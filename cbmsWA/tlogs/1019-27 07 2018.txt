@@ -1,0 +1,10 @@
+Customer ID: 101129352 Customer Name: AMANKWAH CHARLES  Receipt No: 1019-950536 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 9:56:43 AM Cashier ID: 1019
+
+Customer ID: 101196446 Customer Name: CHURCH METHODIST  Receipt No: 1019-34959 Transaction Amount: 148 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:50:54 PM Cashier ID: 1019
+
+Customer ID: 101030534 Customer Name: E A DEBRAH Receipt No: 1019-164832 Transaction Amount: 99 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:52:58 PM Cashier ID: 1019
+
+Customer ID: 101002014 Customer Name: CATECHIST THE  Receipt No: 1019-563855 Transaction Amount: 185 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:54:16 PM Cashier ID: 1019
+
+Customer ID: 102207119 Customer Name: YAW OPPONG PETER  Receipt No: 1019-916970 Transaction Amount: 147 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:58:39 PM Cashier ID: 1019
+

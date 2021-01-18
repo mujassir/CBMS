@@ -1,0 +1,176 @@
+Customer ID: 106171307 Customer Name: BOADI AKWASI Receipt No: 02020-242864 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 8:56:55 AM Cashier ID: 02020
+
+Customer ID: 106137313 Customer Name: KUFFOUR DICKSON ANING Receipt No: 02020-829871 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 8:59:56 AM Cashier ID: 02020
+
+Customer ID: 106215405 Customer Name: OKYEAME KYEI,  Receipt No: 02020-437073 Transaction Amount: 3 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:01:04 AM Cashier ID: 02020
+
+Customer ID: 106206558 Customer Name: KYEI KWAKU  Receipt No: 02020-402842 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:05:11 AM Cashier ID: 02020
+
+Customer ID: 106098462 Customer Name: ATTAH BOFAH,  Receipt No: 02020-661778 Transaction Amount: 25 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:06:25 AM Cashier ID: 02020
+
+Customer ID: 106155824 Customer Name:  AYANGA EMMA Receipt No: 02020-291468 Transaction Amount: 90 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:08:23 AM Cashier ID: 02020
+
+Customer ID: 106017786 Customer Name:  JENNIFER DELALI Receipt No: 02020-949710 Transaction Amount: 58 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:09:46 AM Cashier ID: 02020
+
+Customer ID: 106146566 Customer Name: EDWARD MANU, Receipt No: 02020-188489 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:11:06 AM Cashier ID: 02020
+
+Customer ID: 106002723 Customer Name: KUMI  JOSEPH Receipt No: 02020-761325 Transaction Amount: 7 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:40:48 AM Cashier ID: 02020
+
+Customer ID: 106043334 Customer Name: KWAME OHENE  Receipt No: 02020-961819 Transaction Amount: 158 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:42:40 AM Cashier ID: 02020
+
+Customer ID: 106089416 Customer Name: DARKOWAAH ABENA Receipt No: 02020-37672 Transaction Amount: 46 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:45:33 AM Cashier ID: 02020
+
+Customer ID: 106174183 Customer Name: NSIAH AFIAH Receipt No: 02020-847969 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:58:28 AM Cashier ID: 02020
+
+Customer ID: 106072878 Customer Name: AMOAKO ALEX Receipt No: 02020-599996 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 9:59:42 AM Cashier ID: 02020
+
+Customer ID: 106115086 Customer Name: AKOSUA NSIAH,  Receipt No: 02020-276460 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:04:01 AM Cashier ID: 02020
+
+Customer ID: 106150789 Customer Name: ALHAJI BRIMAH,  Receipt No: 02020-574982 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:05:22 AM Cashier ID: 02020
+
+Customer ID: 106012000 Customer Name: KWADWO BERKO  SAMUEL Receipt No: 02020-728328 Transaction Amount: 145 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:08:48 AM Cashier ID: 02020
+
+Customer ID: 106061233 Customer Name: ARTHUR JANE  Receipt No: 02020-830008 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:11:27 AM Cashier ID: 02020
+
+Customer ID: 106086551 Customer Name:  ADJEI   BEKOE NMIOH Receipt No: 02020-466499 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:13:06 AM Cashier ID: 02020
+
+Customer ID: 106150788 Customer Name: CECILIA BOFAH,  Receipt No: 02020-324152 Transaction Amount: 80 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:17:52 AM Cashier ID: 02020
+
+Customer ID: 106013088 Customer Name: KABAKA JOSEPH Receipt No: 02020-72217 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:19:01 AM Cashier ID: 02020
+
+Customer ID: 106076815 Customer Name:  KAWIAH COMFORT Receipt No: 02020-468520 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:20:12 AM Cashier ID: 02020
+
+Customer ID: 106125338 Customer Name: AGYEMANG AMA Receipt No: 02020-163085 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:24:19 AM Cashier ID: 02020
+
+Customer ID: 106008071 Customer Name: NYARKO AKUA Receipt No: 02020-663442 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:25:46 AM Cashier ID: 02020
+
+Customer ID: 106163557 Customer Name: YAW OSEI  Receipt No: 02020-5064 Transaction Amount: 52.5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:29:28 AM Cashier ID: 02020
+
+Customer ID: 106028487 Customer Name: AGYEIWAA MAD.AFIA  Receipt No: 02020-576161 Transaction Amount: 21 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:34:52 AM Cashier ID: 02020
+
+Customer ID: 106037615 Customer Name: AMANKWA MICHEAL Receipt No: 02020-894110 Transaction Amount: 54 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:45:17 AM Cashier ID: 02020
+
+Customer ID: 106016981 Customer Name: FORDJOUR ERIC  Receipt No: 02020-295667 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:53:10 AM Cashier ID: 02020
+
+Customer ID: 106017797 Customer Name: A. NANTIA MARY  Receipt No: 02020-78179 Transaction Amount: 120 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 10:56:08 AM Cashier ID: 02020
+
+Customer ID: 106134671 Customer Name: ANKRAH YAW Receipt No: 02020-524909 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:11:31 AM Cashier ID: 02020
+
+Customer ID: 106185281 Customer Name: OSEI ESTHER Receipt No: 02020-798949 Transaction Amount: 52 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:15:51 AM Cashier ID: 02020
+
+Customer ID: 106117507 Customer Name: APOSTLES CONTINUATION THE  Receipt No: 02020-761362 Transaction Amount: 140 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:18:11 AM Cashier ID: 02020
+
+Customer ID: 106170817 Customer Name: FRAFRA ABONGO  Receipt No: 02020-478201 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:30:40 AM Cashier ID: 02020
+
+Customer ID: 106111220 Customer Name: AYAMA KWAKU  Receipt No: 02020-151196 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:32:09 AM Cashier ID: 02020
+
+Customer ID: 106067393 Customer Name: ADURE AYAMA  Receipt No: 02020-938874 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:33:18 AM Cashier ID: 02020
+
+Customer ID: 106041629 Customer Name: ADJEI DICKSON  Receipt No: 02020-981785 Transaction Amount: 107 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:36:52 AM Cashier ID: 02020
+
+Customer ID: 106074844 Customer Name: FRIMPONG ESTHER  Receipt No: 02020-484175 Transaction Amount: 900 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:39:22 AM Cashier ID: 02020
+
+Customer ID: 106040480 Customer Name: AGYEI COMFORT  Receipt No: 02020-989834 Transaction Amount: 350 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:43:44 AM Cashier ID: 02020
+
+Customer ID: 106182043 Customer Name: ADJEI KWADWO Receipt No: 02020-251859 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 11:45:38 AM Cashier ID: 02020
+
+Customer ID: 106176026 Customer Name:  AFFRIM COMFORT Receipt No: 02020-231454 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 12:03:42 PM Cashier ID: 02020
+
+Customer ID: 106039475 Customer Name: CHURCH SAVIOUR  Receipt No: 02020-490769 Transaction Amount: 55 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 12:05:14 PM Cashier ID: 02020
+
+Customer ID: 106001355 Customer Name: CHARLOTTE (MRS) AMANKWAAH Receipt No: 02020-952012 Transaction Amount: 318 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:09:57 PM Cashier ID: 02020
+
+Customer ID: 106163995 Customer Name: ADDAE GEORGINA  Receipt No: 02020-855112 Transaction Amount: 217 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:11:50 PM Cashier ID: 02020
+
+Customer ID: 106037081 Customer Name: GYAMFUAH AUGUSTINA Receipt No: 02020-678286 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:18:57 PM Cashier ID: 02020
+
+Customer ID: 106059589 Customer Name: PARTOR-IN-CHARG  Receipt No: 02020-747518 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:27:59 PM Cashier ID: 02020
+
+Customer ID: 106119047 Customer Name: OTU DANIEL Receipt No: 02020-728483 Transaction Amount: 31 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:29:26 PM Cashier ID: 02020
+
+Customer ID: 106067689 Customer Name: BEKOE KWASI  Receipt No: 02020-876398 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:43:29 PM Cashier ID: 02020
+
+Customer ID: 106016733 Customer Name: GBENU JOSEPH  Receipt No: 02020-824803 Transaction Amount: 130 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:44:47 PM Cashier ID: 02020
+
+Customer ID: 106019140 Customer Name: Agnes  Boateng  Receipt No: 02020-213320 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:46:06 PM Cashier ID: 02020
+
+Customer ID: 106028176 Customer Name: GYAMFI KUMANING NANA Receipt No: 02020-210133 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:49:37 PM Cashier ID: 02020
+
+Customer ID: 106150499 Customer Name: STELLA MANU Receipt No: 02020-997065 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:51:41 PM Cashier ID: 02020
+
+Customer ID: 106101099 Customer Name: BEN HOLDBROOKE RICHARD Receipt No: 02020-213777 Transaction Amount: 80 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:53:09 PM Cashier ID: 02020
+
+Customer ID: 106086540 Customer Name: B. ARTHUR JAMES  Receipt No: 02020-359499 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:54:15 PM Cashier ID: 02020
+
+Customer ID: 106093596 Customer Name: YEBOAH KOFI Receipt No: 02020-367160 Transaction Amount: 27 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 1:57:37 PM Cashier ID: 02020
+
+Customer ID: 106064935 Customer Name: OPOKU KWABENA  Receipt No: 02020-799075 Transaction Amount: 52 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:08:28 PM Cashier ID: 02020
+
+Customer ID: 106001086 Customer Name: MUSAH BRAIMAH  Receipt No: 02020-243508 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:09:44 PM Cashier ID: 02020
+
+Customer ID: 106197771 Customer Name: PATRICK APPAU  Receipt No: 02020-815077 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:10:52 PM Cashier ID: 02020
+
+Customer ID: 106110923 Customer Name: NSIAH AKUA Receipt No: 02020-363045 Transaction Amount: 25 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:13:23 PM Cashier ID: 02020
+
+Customer ID: 106129592 Customer Name: LAAH ASARE Receipt No: 02020-754934 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:17:54 PM Cashier ID: 02020
+
+Customer ID: 106185669 Customer Name: KUKUAH AMA Receipt No: 02020-185576 Transaction Amount: 11 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:23:38 PM Cashier ID: 02020
+
+Customer ID: 106014260 Customer Name: OPPONG BRAYRE FAUSTINA  Receipt No: 02020-118534 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 2:29:27 PM Cashier ID: 02020
+
+Customer ID: 106129704 Customer Name: ROLAND BREFO Receipt No: 02020-712588 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:04:42 PM Cashier ID: 02020
+
+Customer ID: 106168607 Customer Name: MISADZIE PHILOMINA Receipt No: 02020-611894 Transaction Amount: 18 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:11:27 PM Cashier ID: 02020
+
+Customer ID: 106077773 Customer Name: MOHAMMED SEIDU  Receipt No: 02020-182657 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:18:10 PM Cashier ID: 02020
+
+Customer ID: 106107643 Customer Name: MALIK YINISAH  Receipt No: 02020-700190 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:19:31 PM Cashier ID: 02020
+
+Customer ID: 106007781 Customer Name: AUGUSTINA KYEI Receipt No: 02020-812901 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:37:49 PM Cashier ID: 02020
+
+Customer ID: 106117786 Customer Name: SEKYERE OWUSU Receipt No: 02020-206845 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:39:45 PM Cashier ID: 02020
+
+Customer ID: 106183561 Customer Name: POBI AMA Receipt No: 02020-699077 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:41:36 PM Cashier ID: 02020
+
+Customer ID: 106168854 Customer Name: K. YEBOAH E.  Receipt No: 02020-708123 Transaction Amount: 77 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:47:12 PM Cashier ID: 02020
+
+Customer ID: 106114989 Customer Name: KWADWO  THOMAS ANANE  Receipt No: 02020-121775 Transaction Amount: 145 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:55:32 PM Cashier ID: 02020
+
+Customer ID: 106171618 Customer Name: IN CHARGE PASTOR Receipt No: 02020-525028 Transaction Amount: 745 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 3:59:28 PM Cashier ID: 02020
+
+Customer ID: 106053489 Customer Name: IN CHARGE PASTOR  Receipt No: 02020-760821 Transaction Amount: 365 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:00:55 PM Cashier ID: 02020
+
+Customer ID: 106059782 Customer Name: ANKRAH J. TWUMASI Receipt No: 02020-809417 Transaction Amount: 22 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:02:22 PM Cashier ID: 02020
+
+Customer ID: 106119407 Customer Name: KWABENA ASANTE  Receipt No: 02020-610808 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:03:47 PM Cashier ID: 02020
+
+Customer ID: 106165716 Customer Name: BIMOBA SALIFU  Receipt No: 02020-447095 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:08:46 PM Cashier ID: 02020
+
+Customer ID: 106175124 Customer Name: DUKU BONIFACE Receipt No: 02020-828345 Transaction Amount: 65 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:17:58 PM Cashier ID: 02020
+
+Customer ID: 106164435 Customer Name: ABDUL MOHAMMED Receipt No: 02020-795691 Transaction Amount: 4 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:28:22 PM Cashier ID: 02020
+
+Customer ID: 106145552 Customer Name: AGYAPONG CHARITY  Receipt No: 02020-739471 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:30:13 PM Cashier ID: 02020
+
+Customer ID: 106151070 Customer Name:  KWARTENG VIVIAN Receipt No: 02020-108615 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:36:24 PM Cashier ID: 02020
+
+Customer ID: 106051114 Customer Name: VINYO DAVID Receipt No: 02020-790225 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:42:08 PM Cashier ID: 02020
+
+Customer ID: 106000926 Customer Name: BABA MUSAH  Receipt No: 02020-197608 Transaction Amount: 56 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 4:58:51 PM Cashier ID: 02020
+
+Customer ID: 106124228 Customer Name: NSIAH YAA  Receipt No: 02020-284902 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:00:35 PM Cashier ID: 02020
+
+Customer ID: 106065516 Customer Name: AKUA AFRAH  Receipt No: 02020-34590 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:06:20 PM Cashier ID: 02020
+
+Customer ID: 106144534 Customer Name: AMPONSAH LUCY Receipt No: 02020-644578 Transaction Amount: 80 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:07:40 PM Cashier ID: 02020
+
+Customer ID: 106198766 Customer Name: METHODIST J. S. S MIM  Receipt No: 02020-686915 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:31:38 PM Cashier ID: 02020
+
+Customer ID: 106216533 Customer Name: M EMMANUEL OWUSU Receipt No: 02020-244372 Transaction Amount: 102 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:35:53 PM Cashier ID: 02020
+
+Customer ID: 106071863 Customer Name: BADU AGYEMANG,  Receipt No: 02020-505346 Transaction Amount: 70 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 5:49:35 PM Cashier ID: 02020
+
+Customer ID: 106141778 Customer Name: OWUSU KUFFOUR AUGUSTINE  Receipt No: 02020-24156 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 6:01:32 PM Cashier ID: 02020
+
+Customer ID: 106030048 Customer Name: MOSI DRAMANI  Receipt No: 02020-148437 Transaction Amount: 70 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/7/2018 6:06:04 PM Cashier ID: 02020
+

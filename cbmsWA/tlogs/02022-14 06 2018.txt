@@ -1,0 +1,26 @@
+Customer ID: 114012206 Customer Name: DESMOND OLU Receipt No: 02022-979355 Transaction Amount: 12 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:25:41 AM Cashier ID: 02022
+
+Customer ID: 114077561 Customer Name: YEBOAH PATRICIA Receipt No: 02022-177998 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:28:37 AM Cashier ID: 02022
+
+Customer ID: 114077561 Customer Name: YEBOAH PATRICIA Receipt No: 02022-21619 Transaction Amount: 4 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:33:41 AM Cashier ID: 02022
+
+Customer ID: 114157896 Customer Name: COMFORT KWATEMAA Receipt No: 02022-236707 Transaction Amount: 60 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:50:40 AM Cashier ID: 02022
+
+Customer ID: 114101972 Customer Name: PATRICK KYEREMEH Receipt No: 02022-765575 Transaction Amount: 20 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:55:25 AM Cashier ID: 02022
+
+Customer ID: 114185963 Customer Name: SADIQ ISHMAEL Receipt No: 02022-312755 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 11:12:26 AM Cashier ID: 02022
+
+Customer ID: 114103426 Customer Name: KWADWO REMOND Receipt No: 02022-158703 Transaction Amount: 150 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 11:25:12 AM Cashier ID: 02022
+
+Customer ID: 114127890 Customer Name: MENSAH AGRO Receipt No: 02022-565714 Transaction Amount: 20 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 11:35:50 AM Cashier ID: 02022
+
+Customer ID: 114058878 Customer Name: K. DANIEL TWENEBOAH Receipt No: 02022-668854 Transaction Amount: 11 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 12:07:35 PM Cashier ID: 02022
+
+Customer ID: 114068734 Customer Name: TWENEBOAH  DANIEL Receipt No: 02022-96736 Transaction Amount: 24 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 12:09:23 PM Cashier ID: 02022
+
+Customer ID: 114146297 Customer Name: ISSAKA HAWA Receipt No: 02022-344162 Transaction Amount: 300 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 1:36:23 PM Cashier ID: 02022
+
+Customer ID: 114186159 Customer Name: THOMAS YAW Receipt No: 02022-324129 Transaction Amount: 86 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 2:29:17 PM Cashier ID: 02022
+
+Customer ID: 114093055 Customer Name: EDWARD ASEMIAH Receipt No: 02022-651485 Transaction Amount: 200 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 3:35:36 PM Cashier ID: 02022
+

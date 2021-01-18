@@ -1,0 +1,16 @@
+Customer ID: 110168792 Customer Name:  OFFICE CEPS Receipt No: 10001-576114 Transaction Amount: 600 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:01:03 PM Cashier ID: 10001
+
+Customer ID: 110211544 Customer Name: C.E.P.S  Receipt No: 10001-400441 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:02:13 PM Cashier ID: 10001
+
+Customer ID: 110222930 Customer Name: COMFORT AGYEIWAA Receipt No: 10001-886781 Transaction Amount: 102 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:03:17 PM Cashier ID: 10001
+
+Customer ID: 110222930 Customer Name: COMFORT AGYEIWAA Receipt No: 10001-928496 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:03:54 PM Cashier ID: 10001
+
+Customer ID: 110222930 Customer Name: COMFORT AGYEIWAA Receipt No: 10001-48426 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:04:45 PM Cashier ID: 10001
+
+Customer ID: 110222931 Customer Name: SAMUEL YAW DAMOAH  Receipt No: 10001-906612 Transaction Amount: 117 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:43:01 PM Cashier ID: 10001
+
+Customer ID: 110222931 Customer Name: SAMUEL YAW DAMOAH  Receipt No: 10001-176783 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:45:33 PM Cashier ID: 10001
+
+Customer ID: 110222931 Customer Name: SAMUEL YAW DAMOAH  Receipt No: 10001-60781 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 4:46:21 PM Cashier ID: 10001
+

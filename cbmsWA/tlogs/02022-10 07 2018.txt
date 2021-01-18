@@ -1,0 +1,30 @@
+Customer ID: 114149924 Customer Name: HIGH SCH SENOIR Receipt No: 02022-764721 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 8:31:35 AM Cashier ID: 02022
+
+Customer ID: 114168521 Customer Name: AMMA MANSA Receipt No: 02022-545735 Transaction Amount: 400 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 9:21:20 AM Cashier ID: 02022
+
+Customer ID: 114156409 Customer Name: AMMA MANSA Receipt No: 02022-159638 Transaction Amount: 300 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 9:23:43 AM Cashier ID: 02022
+
+Customer ID: 114072132 Customer Name:  YAHAYA KASUM Receipt No: 02022-885775 Transaction Amount: 17 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 9:49:38 AM Cashier ID: 02022
+
+Customer ID: 114218610 Customer Name: MORRISON DANIEL APPIAH Receipt No: 02022-967547 Transaction Amount: 45 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 10:23:10 AM Cashier ID: 02022
+
+Customer ID: 114013518 Customer Name: GEORGE TAWIAH Receipt No: 02022-972592 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 10:52:31 AM Cashier ID: 02022
+
+Customer ID: 114083521 Customer Name: MENSAH KRAPA DAVID Receipt No: 02022-738163 Transaction Amount: 70 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 11:00:25 AM Cashier ID: 02022
+
+Customer ID: 114121509 Customer Name: R.C.  Receipt No: 02022-595503 Transaction Amount: 69 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 11:34:02 AM Cashier ID: 02022
+
+Customer ID: 114068280 Customer Name: HEADMASTER THE Receipt No: 02022-277343 Transaction Amount: 12 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 11:35:43 AM Cashier ID: 02022
+
+Customer ID: 114067075 Customer Name: R.C.M.  Receipt No: 02022-609671 Transaction Amount: 197 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 11:38:47 AM Cashier ID: 02022
+
+Customer ID: 114159001 Customer Name: HEMAA NANA Receipt No: 02022-166340 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 11:46:53 AM Cashier ID: 02022
+
+Customer ID: 114112673 Customer Name: BRONI THOMAS Receipt No: 02022-142804 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 1:16:08 PM Cashier ID: 02022
+
+Customer ID: 114197714 Customer Name: K BRONI THOMAS Receipt No: 02022-640901 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 1:17:42 PM Cashier ID: 02022
+
+Customer ID: 114169712 Customer Name: SHABA KWABENA Receipt No: 02022-839000 Transaction Amount: 9 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 2:33:05 PM Cashier ID: 02022
+
+Customer ID: 114070479 Customer Name: DATCC  Receipt No: 02022-252880 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/10/2018 2:54:28 PM Cashier ID: 02022
+

@@ -1,0 +1,4 @@
+Customer ID: 101137449 Customer Name: JOYCE ADU Receipt No: 1010-198375 Transaction Amount: 125 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 12:10:43 PM Cashier ID: 1010
+
+Customer ID: 101046980 Customer Name: TAKYIE KWASI Receipt No: 1010-137965 Transaction Amount: 17 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 1:17:17 PM Cashier ID: 1010
+

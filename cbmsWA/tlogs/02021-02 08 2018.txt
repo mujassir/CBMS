@@ -1,0 +1,42 @@
+Customer ID: 114180037 Customer Name: KWADWO BAAH Receipt No: 02021-595665 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 8:08:09 AM Cashier ID: 02021
+
+Customer ID: 114014126 Customer Name: BAAH KWADWO Receipt No: 02021-765180 Transaction Amount: 7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 8:10:04 AM Cashier ID: 02021
+
+Customer ID: 114053895 Customer Name: A AGYEI BENJAMIN Receipt No: 02021-83130 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 8:45:01 AM Cashier ID: 02021
+
+Customer ID: 114161362 Customer Name: BOATENG KWAKU OFORI Receipt No: 02021-252677 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 8:46:39 AM Cashier ID: 02021
+
+Customer ID: 114104219 Customer Name: YAW ASARE NANA Receipt No: 02021-567735 Transaction Amount: 400 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 9:10:16 AM Cashier ID: 02021
+
+Customer ID: 114169444 Customer Name: ADWAO MANSAH REGINA Receipt No: 02021-52683 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 9:21:08 AM Cashier ID: 02021
+
+Customer ID: 114134313 Customer Name: ISAAC YAW KUBO Receipt No: 02021-694784 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 9:39:07 AM Cashier ID: 02021
+
+Customer ID: 114212461 Customer Name: JOHN ASARE Receipt No: 02021-829863 Transaction Amount: 53 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 10:07:40 AM Cashier ID: 02021
+
+Customer ID: 114135486 Customer Name: JACOB BAE Receipt No: 02021-196934 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 10:13:29 AM Cashier ID: 02021
+
+Customer ID: 114067674 Customer Name: BRAIMA HAWA Receipt No: 02021-895959 Transaction Amount: 12 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 10:16:50 AM Cashier ID: 02021
+
+Customer ID: 114000081 Customer Name: CHURCH GHANA METHODIST Receipt No: 02021-262360 Transaction Amount: 13 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 10:43:12 AM Cashier ID: 02021
+
+Customer ID: 114012843 Customer Name: CHURCH GHANA METHODIST Receipt No: 02021-209737 Transaction Amount: 14 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 10:44:19 AM Cashier ID: 02021
+
+Customer ID: 114026371 Customer Name: DORA YEBOAH Receipt No: 02021-912977 Transaction Amount: 34 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 11:05:06 AM Cashier ID: 02021
+
+Customer ID: 114026371 Customer Name: DORA YEBOAH Receipt No: 02021-196890 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 11:07:10 AM Cashier ID: 02021
+
+Customer ID: 114198836 Customer Name: EBENEZER TUTU Receipt No: 02021-761589 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 12:48:49 PM Cashier ID: 02021
+
+Customer ID: 114222404 Customer Name: THE PASTOR Receipt No: 02021-75660 Transaction Amount: 256 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 1:07:16 PM Cashier ID: 02021
+
+Customer ID: 114222404 Customer Name: THE PASTOR Receipt No: 02021-165234 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 1:08:43 PM Cashier ID: 02021
+
+Customer ID: 114066089 Customer Name: MINTA ABIGAIL  BAAH Receipt No: 02021-599859 Transaction Amount: 21 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 3:31:24 PM Cashier ID: 02021
+
+Customer ID: 114143414 Customer Name: AGYEMANG PHILLIP Receipt No: 02021-325635 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 3:33:12 PM Cashier ID: 02021
+
+Customer ID: 114222403 Customer Name: DAVID SIAW Receipt No: 02021-637280 Transaction Amount: 323 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 4:01:52 PM Cashier ID: 02021
+
+Customer ID: 114222403 Customer Name: DAVID SIAW Receipt No: 02021-380085 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/2/2018 4:03:36 PM Cashier ID: 02021
+

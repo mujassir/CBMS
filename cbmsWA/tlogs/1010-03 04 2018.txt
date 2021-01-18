@@ -1,0 +1,8 @@
+Customer ID: 101172262 Customer Name: MENSAH ASAMOAH Receipt No: 1010-464617 Transaction Amount: 220 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 2:34:14 PM Cashier ID: 1010
+
+Customer ID: 101192321 Customer Name: BARTHELS MANFO Receipt No: 1010-540895 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 3:33:37 PM Cashier ID: 1010
+
+Customer ID: 101057561 Customer Name: A/G CHURCH LIBERTY Receipt No: 1010-42484 Transaction Amount: 209 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:22:43 PM Cashier ID: 1010
+
+Customer ID: 101154002 Customer Name: JOSEPH KONADU  Receipt No: 1010-557258 Transaction Amount: 171 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:25:30 PM Cashier ID: 1010
+

@@ -1,0 +1,4 @@
+Customer ID: 101118706 Customer Name: ATTA  YEBOAH SHADRACK Receipt No: 1009-356262 Transaction Amount: 184 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/9/2018 1:17:27 PM Cashier ID: 1009
+
+Customer ID: 101143114 Customer Name: FRANCIS  FOSAH Receipt No: 1009-708559 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/9/2018 3:14:21 PM Cashier ID: 1009
+

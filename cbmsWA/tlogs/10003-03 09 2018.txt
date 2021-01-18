@@ -1,0 +1,10 @@
+Customer ID: 110036086 Customer Name: JAMES KWARTENG,  Receipt No: 10003-921683 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/3/2018 3:59:51 PM Cashier ID: 10003
+
+Customer ID: 110172755 Customer Name: WILLIAMS YEBOAH Receipt No: 10003-26927 Transaction Amount: 29 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/3/2018 4:00:53 PM Cashier ID: 10003
+
+Customer ID: 110193277 Customer Name: LYDIA  KISSWAA Receipt No: 10003-62684 Transaction Amount: 180 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/3/2018 4:03:29 PM Cashier ID: 10003
+
+Customer ID: 110125336 Customer Name: DOMINIC OBENG Receipt No: 10003-9880 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/3/2018 4:30:58 PM Cashier ID: 10003
+
+Customer ID: 110166451 Customer Name: FLORENCE  AVAINA Receipt No: 10003-509933 Transaction Amount: 65 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/3/2018 4:32:18 PM Cashier ID: 10003
+

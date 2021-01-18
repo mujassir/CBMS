@@ -1,0 +1,238 @@
+Customer ID: 109167932 Customer Name: YOUTH FELLOWSHIP METHODIST Receipt No: 102002-278901 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 7:57:59 AM Cashier ID: 102002
+
+Customer ID: 109176657 Customer Name:   ABUBAKARI ZAKAKIRA Receipt No: 102002-401667 Transaction Amount: 24 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:06:57 AM Cashier ID: 102002
+
+Customer ID: 109060995 Customer Name: BONSU SERWAA Receipt No: 102002-648354 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:12:47 AM Cashier ID: 102002
+
+Customer ID: 109102810 Customer Name: FRIMPONG NSIAH  Receipt No: 102002-876498 Transaction Amount: 212 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:17:54 AM Cashier ID: 102002
+
+Customer ID: 109064531 Customer Name: AMANFO OLIVER CHARLES Receipt No: 102002-748681 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:19:48 AM Cashier ID: 102002
+
+Customer ID: 109108430 Customer Name:  STEPHEN OMENYO Receipt No: 102002-78905 Transaction Amount: 31 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:25:29 AM Cashier ID: 102002
+
+Customer ID: 109191475 Customer Name: FOSU THERESAH Receipt No: 102002-45605 Transaction Amount: 54 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:33:57 AM Cashier ID: 102002
+
+Customer ID: 109069356 Customer Name: MARGARET SERWAA Receipt No: 102002-842666 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:35:08 AM Cashier ID: 102002
+
+Customer ID: 109103256 Customer Name: IDDRISU SAFIATU Receipt No: 102002-74835 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:36:21 AM Cashier ID: 102002
+
+Customer ID: 109189130 Customer Name: MAGEED ABDUL Receipt No: 102002-629669 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:37:40 AM Cashier ID: 102002
+
+Customer ID: 109084623 Customer Name: PASTOR THE  Receipt No: 102002-13413 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:40:16 AM Cashier ID: 102002
+
+Customer ID: 109133757 Customer Name: MARY BOUR  Receipt No: 102002-379656 Transaction Amount: 16 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:46:22 AM Cashier ID: 102002
+
+Customer ID: 109031620 Customer Name: GAUSO ABUBAKARI,  Receipt No: 102002-908251 Transaction Amount: 29 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:49:19 AM Cashier ID: 102002
+
+Customer ID: 109191315 Customer Name: Cliff Kyeremanteng Receipt No: 102002-485516 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:53:05 AM Cashier ID: 102002
+
+Customer ID: 109191315 Customer Name: Cliff Kyeremanteng Receipt No: 102002-649612 Transaction Amount: 23 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:55:40 AM Cashier ID: 102002
+
+Customer ID: 109167518 Customer Name: OMANE ELIZABETH  Receipt No: 102002-697972 Transaction Amount: 87 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 8:56:55 AM Cashier ID: 102002
+
+Customer ID: 109003252 Customer Name:  VICTORIA OSEI Receipt No: 102002-860844 Transaction Amount: 120 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:09:40 AM Cashier ID: 102002
+
+Customer ID: 109199744 Customer Name: FORKUO LYDIA Receipt No: 102002-892370 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:10:43 AM Cashier ID: 102002
+
+Customer ID: 109189834 Customer Name: KOFI FOFIE  Receipt No: 102002-590309 Transaction Amount: 175 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:12:18 AM Cashier ID: 102002
+
+Customer ID: 109194372 Customer Name:  ACHIAA  ALICE NANA Receipt No: 102002-574371 Transaction Amount: 186 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:17:34 AM Cashier ID: 102002
+
+Customer ID: 109010800 Customer Name: Salifu Mahama Receipt No: 102002-228374 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:28:45 AM Cashier ID: 102002
+
+Customer ID: 109089236 Customer Name: BEATRICE SERWAA  Receipt No: 102002-915320 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:35:38 AM Cashier ID: 102002
+
+Customer ID: 109196858 Customer Name: Adjei Frimpong Alex Receipt No: 102002-143469 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 9:59:39 AM Cashier ID: 102002
+
+Customer ID: 109199061 Customer Name: AGYEI FRIMPONG ALEX Receipt No: 102002-672596 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:01:28 AM Cashier ID: 102002
+
+Customer ID: 109148074 Customer Name: SAUMA IBRAHIM  Receipt No: 102002-77770 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:02:32 AM Cashier ID: 102002
+
+Customer ID: 109070858 Customer Name: AMPONSAH JANET ABRAFI Receipt No: 102002-767139 Transaction Amount: 43 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:04:51 AM Cashier ID: 102002
+
+Customer ID: 109001926 Customer Name: KONADU FLORENCE KONTOR Receipt No: 102002-753121 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:06:02 AM Cashier ID: 102002
+
+Customer ID: 109210404 Customer Name: Mosque Central Receipt No: 102002-482324 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:07:14 AM Cashier ID: 102002
+
+Customer ID: 109166612 Customer Name: DAPAA ABENA Receipt No: 102002-628284 Transaction Amount: 68 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:08:54 AM Cashier ID: 102002
+
+Customer ID: 109006972 Customer Name: Eric Mensah Receipt No: 102002-658079 Transaction Amount: 120 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:13:40 AM Cashier ID: 102002
+
+Customer ID: 109014925 Customer Name: PATRICIA AMOAKOWAA Receipt No: 102002-535654 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:15:58 AM Cashier ID: 102002
+
+Customer ID: 109031494 Customer Name: Yahaya Aflalu Receipt No: 102002-881053 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:18:03 AM Cashier ID: 102002
+
+Customer ID: 109035402 Customer Name: Kwadwo Batale Issaka Receipt No: 102002-218076 Transaction Amount: 220 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:19:45 AM Cashier ID: 102002
+
+Customer ID: 109035402 Customer Name: Kwadwo Batale Issaka Receipt No: 102002-86972 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:21:06 AM Cashier ID: 102002
+
+Customer ID: 109178505 Customer Name: JOSEPH ADIYIAH  Receipt No: 102002-929189 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:26:42 AM Cashier ID: 102002
+
+Customer ID: 109092373 Customer Name: ELIZABETH ANTWIWAA Receipt No: 102002-723822 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:31:42 AM Cashier ID: 102002
+
+Customer ID: 109040227 Customer Name: SMART YAKUBU  Receipt No: 102002-450435 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:33:39 AM Cashier ID: 102002
+
+Customer ID: 109063100 Customer Name: PHILIP PIIRKUO Receipt No: 102002-800169 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:38:20 AM Cashier ID: 102002
+
+Customer ID: 109114243 Customer Name: KUSASI TABIRI Receipt No: 102002-483364 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:41:33 AM Cashier ID: 102002
+
+Customer ID: 109149570 Customer Name: GEROGE DORSU Receipt No: 102002-699643 Transaction Amount: 25 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:43:28 AM Cashier ID: 102002
+
+Customer ID: 109022814 Customer Name: Mensah John Donkor Receipt No: 102002-404729 Transaction Amount: 37 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:45:58 AM Cashier ID: 102002
+
+Customer ID: 109193268 Customer Name: ATTA AFIA Receipt No: 102002-841328 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:47:21 AM Cashier ID: 102002
+
+Customer ID: 109187832 Customer Name: AUGUSTINE ANIM Receipt No: 102002-300258 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 10:53:39 AM Cashier ID: 102002
+
+Customer ID: 109032455 Customer Name: DADZIE BISMARK Receipt No: 102002-171847 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:20:53 AM Cashier ID: 102002
+
+Customer ID: 109154665 Customer Name: KWABENA BOATENG OP.  Receipt No: 102002-27670 Transaction Amount: 55.3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:23:02 AM Cashier ID: 102002
+
+Customer ID: 109017934 Customer Name: DONKOR OPOKU  Receipt No: 102002-853725 Transaction Amount: 12 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:28:50 AM Cashier ID: 102002
+
+Customer ID: 109160718 Customer Name: ELIZABETH KONADU Receipt No: 102002-669804 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:31:53 AM Cashier ID: 102002
+
+Customer ID: 109150444 Customer Name: APPIAH V. KWAKYE  Receipt No: 102002-617765 Transaction Amount: 128 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:35:11 AM Cashier ID: 102002
+
+Customer ID: 109160749 Customer Name: OPPONG S.Y.  Receipt No: 102002-169247 Transaction Amount: 39 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:36:53 AM Cashier ID: 102002
+
+Customer ID: 109028842 Customer Name: KUMA ESTHER  Receipt No: 102002-586770 Transaction Amount: 116 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:38:24 AM Cashier ID: 102002
+
+Customer ID: 109153453 Customer Name: OPOKU AGYEMANG OKYEAME Receipt No: 102002-892052 Transaction Amount: 34 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:40:22 AM Cashier ID: 102002
+
+Customer ID: 109211027 Customer Name: JOHN ALEX TANDOH Receipt No: 102002-628383 Transaction Amount: 64 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:42:08 AM Cashier ID: 102002
+
+Customer ID: 109096971 Customer Name: Mohammed Yaya Receipt No: 102002-14448 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:49:00 AM Cashier ID: 102002
+
+Customer ID: 109178128 Customer Name: K. ASAMOAH THOMAS Receipt No: 102002-212153 Transaction Amount: 119 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:50:41 AM Cashier ID: 102002
+
+Customer ID: 109080929 Customer Name: OSEI KUFFOUR LYDIA Receipt No: 102002-776978 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:53:07 AM Cashier ID: 102002
+
+Customer ID: 109121890 Customer Name: Afriyie Akua Receipt No: 102002-164297 Transaction Amount: 101 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:56:04 AM Cashier ID: 102002
+
+Customer ID: 109001143 Customer Name: S. K. TAWIAH,  Receipt No: 102002-402309 Transaction Amount: 300 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 11:59:56 AM Cashier ID: 102002
+
+Customer ID: 109186391 Customer Name: OFEE VIDA  Receipt No: 102002-248431 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:01:41 PM Cashier ID: 102002
+
+Customer ID: 109121890 Customer Name: Afriyie Akua Receipt No: 102002-322716 Transaction Amount: 17 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:03:05 PM Cashier ID: 102002
+
+Customer ID: 109191851 Customer Name: Mohammed Fuseini Receipt No: 102002-166579 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:04:21 PM Cashier ID: 102002
+
+Customer ID: 109173744 Customer Name: YEBOAH OWUSU Receipt No: 102002-81990 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:05:28 PM Cashier ID: 102002
+
+Customer ID: 109001288 Customer Name: FRIMPONG YAW Receipt No: 102002-438099 Transaction Amount: 250 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:14:19 PM Cashier ID: 102002
+
+Customer ID: 109140245 Customer Name: SARFO STEPHEN Receipt No: 102002-726718 Transaction Amount: 38 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:18:57 PM Cashier ID: 102002
+
+Customer ID: 109071357 Customer Name: KORANTEMAA AFIA Receipt No: 102002-620399 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:28:58 PM Cashier ID: 102002
+
+Customer ID: 109176877 Customer Name: KWARTENG VICTORIA Receipt No: 102002-271475 Transaction Amount: 42 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 12:46:44 PM Cashier ID: 102002
+
+Customer ID: 109151480 Customer Name: I.K.YEBOA  Receipt No: 102002-1258 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:00:20 PM Cashier ID: 102002
+
+Customer ID: 109081259 Customer Name: ANAN GIFTY Receipt No: 102002-189006 Transaction Amount: 36 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:05:11 PM Cashier ID: 102002
+
+Customer ID: 109195906 Customer Name: Cecilia Achiama Receipt No: 102002-550584 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:07:12 PM Cashier ID: 102002
+
+Customer ID: 109180186 Customer Name: AGNES SARPONG Receipt No: 102002-953025 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:18:04 PM Cashier ID: 102002
+
+Customer ID: 109101466 Customer Name: BOATENG COLLINS Receipt No: 102002-577296 Transaction Amount: 62 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:20:37 PM Cashier ID: 102002
+
+Customer ID: 109056369 Customer Name: AGNES AGYEMANG,  Receipt No: 102002-820531 Transaction Amount: 45 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:21:49 PM Cashier ID: 102002
+
+Customer ID: 109173403 Customer Name: YAA ABA  Receipt No: 102002-35511 Transaction Amount: 8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:25:20 PM Cashier ID: 102002
+
+Customer ID: 109183350 Customer Name: MARY AMPRETWIM  Receipt No: 102002-649344 Transaction Amount: 123 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:30:49 PM Cashier ID: 102002
+
+Customer ID: 109039795 Customer Name: AGYAAN AMMA Receipt No: 102002-616363 Transaction Amount: 7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:33:13 PM Cashier ID: 102002
+
+Customer ID: 109208416 Customer Name: PETER KWASI  Receipt No: 102002-617854 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:52:23 PM Cashier ID: 102002
+
+Customer ID: 109028584 Customer Name: MENSAH MARY  Receipt No: 102002-334739 Transaction Amount: 180 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:53:54 PM Cashier ID: 102002
+
+Customer ID: 109107752 Customer Name: Dominic Osei Receipt No: 102002-955358 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 1:55:51 PM Cashier ID: 102002
+
+Customer ID: 109145711 Customer Name:  JONES  PAUL DONKOR Receipt No: 102002-404692 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:09:43 PM Cashier ID: 102002
+
+Customer ID: 109079429 Customer Name: APPIAH EMMANUEL Receipt No: 102002-866953 Transaction Amount: 70 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:11:12 PM Cashier ID: 102002
+
+Customer ID: 109048305 Customer Name: COLLINS ATTA Receipt No: 102002-81449 Transaction Amount: 48 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:13:03 PM Cashier ID: 102002
+
+Customer ID: 109069723 Customer Name: Fosu Juliana Receipt No: 102002-735798 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:14:24 PM Cashier ID: 102002
+
+Customer ID: 109079429 Customer Name: APPIAH EMMANUEL Receipt No: 102002-762124 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:16:35 PM Cashier ID: 102002
+
+Customer ID: 109035106 Customer Name: SERWAA CECILIA Receipt No: 102002-845130 Transaction Amount: 36 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:18:14 PM Cashier ID: 102002
+
+Customer ID: 109100626 Customer Name: Lovia Obeng Receipt No: 102002-923917 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:20:16 PM Cashier ID: 102002
+
+Customer ID: 109100626 Customer Name: Lovia Obeng Receipt No: 102002-589685 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:22:44 PM Cashier ID: 102002
+
+Customer ID: 109151043 Customer Name: Bekye Dery Evans Receipt No: 102002-400722 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:24:46 PM Cashier ID: 102002
+
+Customer ID: 109190681 Customer Name: M. O. M. DUODU,  Receipt No: 102002-413617 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:27:20 PM Cashier ID: 102002
+
+Customer ID: 109190681 Customer Name: M. O. M. DUODU,  Receipt No: 102002-433659 Transaction Amount: 25 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:28:52 PM Cashier ID: 102002
+
+Customer ID: 109018555 Customer Name: MAAUU AMMA  Receipt No: 102002-53195 Transaction Amount: 111 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:30:21 PM Cashier ID: 102002
+
+Customer ID: 109018555 Customer Name: MAAUU AMMA  Receipt No: 102002-222025 Transaction Amount: 8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:32:39 PM Cashier ID: 102002
+
+Customer ID: 109191475 Customer Name: FOSU THERESAH Receipt No: 102002-984524 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:35:55 PM Cashier ID: 102002
+
+Customer ID: 109210423 Customer Name:  DABANKA YAW Receipt No: 102002-958092 Transaction Amount: 85 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:38:14 PM Cashier ID: 102002
+
+Customer ID: 109191475 Customer Name: FOSU THERESAH Receipt No: 102002-446956 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:41:19 PM Cashier ID: 102002
+
+Customer ID: 109105957 Customer Name: ODURO KOFI Receipt No: 102002-648784 Transaction Amount: 110 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:43:31 PM Cashier ID: 102002
+
+Customer ID: 109149062 Customer Name: KWAKYE GEORGINA  Receipt No: 102002-440328 Transaction Amount: 143.1 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:45:29 PM Cashier ID: 102002
+
+Customer ID: 109083591 Customer Name: ABDULAI ABDUL-RAMAN Receipt No: 102002-19901 Transaction Amount: 160 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:50:55 PM Cashier ID: 102002
+
+Customer ID: 109063885 Customer Name: MANU GRACE  Receipt No: 102002-363814 Transaction Amount: 45 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:54:01 PM Cashier ID: 102002
+
+Customer ID: 109070886 Customer Name: PORTORBU AKWASI Receipt No: 102002-87192 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:56:14 PM Cashier ID: 102002
+
+Customer ID: 109177362 Customer Name: AGYAPONG AGNES Receipt No: 102002-622331 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 2:58:34 PM Cashier ID: 102002
+
+Customer ID: 109121551 Customer Name: IBRAHIM YAKUBU Receipt No: 102002-813692 Transaction Amount: 92 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:16:30 PM Cashier ID: 102002
+
+Customer ID: 109129494 Customer Name: ISSAKA ISSA  Receipt No: 102002-460545 Transaction Amount: 120 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:18:52 PM Cashier ID: 102002
+
+Customer ID: 109027688 Customer Name: PASTOR THE  Receipt No: 102002-849648 Transaction Amount: 110.7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:25:07 PM Cashier ID: 102002
+
+Customer ID: 109185343 Customer Name: MOHAMMED ISSAH Receipt No: 102002-371217 Transaction Amount: 14 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:34:16 PM Cashier ID: 102002
+
+Customer ID: 109210014 Customer Name: KYEREWA  CECILIA Receipt No: 102002-634865 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:36:39 PM Cashier ID: 102002
+
+Customer ID: 109076091 Customer Name: FELICIA OMANYO  Receipt No: 102002-357052 Transaction Amount: 73 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:44:44 PM Cashier ID: 102002
+
+Customer ID: 109013036 Customer Name: OMENYO  LARTEY STEPHEN  Receipt No: 102002-194658 Transaction Amount: 53 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:46:54 PM Cashier ID: 102002
+
+Customer ID: 109147026 Customer Name: COLLINGS BEKOM Receipt No: 102002-195780 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:49:15 PM Cashier ID: 102002
+
+Customer ID: 109057316 Customer Name: BOAMA COLLINS  Receipt No: 102002-862433 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:54:49 PM Cashier ID: 102002
+
+Customer ID: 109004760 Customer Name: PENAMAN ELIZABETH  Receipt No: 102002-244599 Transaction Amount: 13 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 3:58:09 PM Cashier ID: 102002
+
+Customer ID: 109112499 Customer Name: JOSEPH YAWSON,  Receipt No: 102002-174707 Transaction Amount: 162 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:07:18 PM Cashier ID: 102002
+
+Customer ID: 109109825 Customer Name: TAKYIWAA ABENA  Receipt No: 102002-11299 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:09:36 PM Cashier ID: 102002
+
+Customer ID: 109002987 Customer Name: MOSQUE MOSLEM  Receipt No: 102002-329373 Transaction Amount: 600 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:19:32 PM Cashier ID: 102002
+
+Customer ID: 109160432 Customer Name: SEIDU ABDULAI  Receipt No: 102002-473248 Transaction Amount: 170 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:25:10 PM Cashier ID: 102002
+
+Customer ID: 109035374 Customer Name: CHOKOSI AYISHETU  Receipt No: 102002-541912 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:29:58 PM Cashier ID: 102002
+
+Customer ID: 109072290 Customer Name: DERI STEPHEN Receipt No: 102002-177391 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:38:15 PM Cashier ID: 102002
+
+Customer ID: 109175866 Customer Name: MENSAH MARGARET APPIAH Receipt No: 102002-544514 Transaction Amount: 117 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 4:45:04 PM Cashier ID: 102002
+
+Customer ID: 109209179 Customer Name: NIMO KWADWO Receipt No: 102002-287695 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 5:22:53 PM Cashier ID: 102002
+
+Customer ID: 109113606 Customer Name:  KWABENA ATTA Receipt No: 102002-10186 Transaction Amount: 25 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 5:27:37 PM Cashier ID: 102002
+
+Customer ID: 109125598 Customer Name: PASTOR THE Receipt No: 102002-10515 Transaction Amount: 22 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/17/2018 5:30:19 PM Cashier ID: 102002
+

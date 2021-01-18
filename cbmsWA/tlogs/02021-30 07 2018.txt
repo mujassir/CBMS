@@ -1,0 +1,44 @@
+Customer ID: 114155391 Customer Name: BENEWAA AMA Receipt No: 02021-597538 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 8:39:50 AM Cashier ID: 02021
+
+Customer ID: 114019900 Customer Name: AUGUSTINA AFIA Receipt No: 02021-720523 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 8:45:06 AM Cashier ID: 02021
+
+Customer ID: 114082558 Customer Name: KWABENA NYAMEKYE Receipt No: 02021-689220 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 9:30:50 AM Cashier ID: 02021
+
+Customer ID: 114206662 Customer Name: ANDREWS KYEREMEH Receipt No: 02021-234617 Transaction Amount: 250 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 9:34:36 AM Cashier ID: 02021
+
+Customer ID: 114155450 Customer Name: ABRAHAM PEPRAH Receipt No: 02021-143910 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 9:37:48 AM Cashier ID: 02021
+
+Customer ID: 114206662 Customer Name: ANDREWS KYEREMEH Receipt No: 02021-65481 Transaction Amount: 4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 9:42:47 AM Cashier ID: 02021
+
+Customer ID: 114171137 Customer Name: EMMANUEL ACHIAW MR. Receipt No: 02021-172485 Transaction Amount: 6 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 10:22:52 AM Cashier ID: 02021
+
+Customer ID: 114078677 Customer Name: COMFORT ADOMA Receipt No: 02021-464871 Transaction Amount: 195.6 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 10:25:07 AM Cashier ID: 02021
+
+Customer ID: 114194138 Customer Name: MENSAH ABIGAIL Receipt No: 02021-344629 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 10:55:43 AM Cashier ID: 02021
+
+Customer ID: 114088792 Customer Name: KWABENA NYAMEKYE Receipt No: 02021-399374 Transaction Amount: 132.5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 11:24:27 AM Cashier ID: 02021
+
+Customer ID: 114026607 Customer Name: GYAMFUAA LINDA Receipt No: 02021-844308 Transaction Amount: 120 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 11:34:27 AM Cashier ID: 02021
+
+Customer ID: 114082731 Customer Name: BASOMAH ISSIFU Receipt No: 02021-316312 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 11:55:22 AM Cashier ID: 02021
+
+Customer ID: 114006293 Customer Name: SALAMATA ADWOA Receipt No: 02021-824035 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 12:13:11 PM Cashier ID: 02021
+
+Customer ID: 114222224 Customer Name: MASAWUDU KARIM IBRAHIM Receipt No: 02021-709898 Transaction Amount: 232 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 1:32:07 PM Cashier ID: 02021
+
+Customer ID: 114222224 Customer Name: MASAWUDU KARIM IBRAHIM Receipt No: 02021-751015 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 1:37:21 PM Cashier ID: 02021
+
+Customer ID: 114102067 Customer Name: SOLOMON ASOMAH Receipt No: 02021-455366 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 1:43:43 PM Cashier ID: 02021
+
+Customer ID: 114004107 Customer Name: ADJEI KWADWO Receipt No: 02021-993798 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 2:38:41 PM Cashier ID: 02021
+
+Customer ID: 114089603 Customer Name: ONPHILA DA Receipt No: 02021-293853 Transaction Amount: 400 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 2:44:16 PM Cashier ID: 02021
+
+Customer ID: 114189312 Customer Name: DA-ONPHIL  Receipt No: 02021-429476 Transaction Amount: 65 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 2:48:16 PM Cashier ID: 02021
+
+Customer ID: 114194625 Customer Name: DA-ONPHIL  Receipt No: 02021-622371 Transaction Amount: 160 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 2:55:23 PM Cashier ID: 02021
+
+Customer ID: 114012373 Customer Name: AMARTEY ISAAC Receipt No: 02021-547441 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 3:38:26 PM Cashier ID: 02021
+
+Customer ID: 114215252 Customer Name: FIRST QUALITY Receipt No: 02021-866257 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 3:40:18 PM Cashier ID: 02021
+

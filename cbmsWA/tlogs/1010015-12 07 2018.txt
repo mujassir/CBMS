@@ -1,0 +1,6 @@
+Customer ID: 101121517 Customer Name: NYARKO DANIEL Receipt No: 1010015-546555 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/12/2018 10:09:20 AM Cashier ID: 1010015
+
+Customer ID: 101111083 Customer Name: ALHAJI SULEMANA SEIDU Receipt No: 1010015-501174 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/12/2018 11:11:44 AM Cashier ID: 1010015
+
+Customer ID: 101003666 Customer Name:  MUSAH IBRAHIM Receipt No: 1010015-436541 Transaction Amount: 520 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/12/2018 11:47:25 AM Cashier ID: 1010015
+

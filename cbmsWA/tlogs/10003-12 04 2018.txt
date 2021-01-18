@@ -1,0 +1,8 @@
+Customer ID: 110180773 Customer Name: KWAKU EDWARD ADU Receipt No: 10003-299338 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 4:11:18 PM Cashier ID: 10003
+
+Customer ID: 110160423 Customer Name: ANKAMAH ANSU  Receipt No: 10003-522949 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 4:13:18 PM Cashier ID: 10003
+
+Customer ID: 110219136 Customer Name: JOSEPH GYAASE Receipt No: 10003-328147 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 5:06:05 PM Cashier ID: 10003
+
+Customer ID: 110136184 Customer Name:  ROBERT YEBOAH Receipt No: 10003-306772 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 6:06:02 PM Cashier ID: 10003
+

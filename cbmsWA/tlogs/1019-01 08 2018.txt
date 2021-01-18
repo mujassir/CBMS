@@ -1,0 +1,8 @@
+Customer ID: 101039830 Customer Name: ABORAA YAA THERESA Receipt No: 1019-885330 Transaction Amount: 120 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 10:02:35 AM Cashier ID: 1019
+
+Customer ID: 101066482 Customer Name:  NYINAH KWAKU Receipt No: 1019-961687 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 10:47:18 AM Cashier ID: 1019
+
+Customer ID: 101023974 Customer Name: GEORGINA AGYEIWAA Receipt No: 1019-838057 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 12:06:02 PM Cashier ID: 1019
+
+Customer ID: 101110774 Customer Name: EVANS KOFI AMOAKO Receipt No: 1019-773058 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 3:53:36 PM Cashier ID: 1019
+

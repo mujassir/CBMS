@@ -1,0 +1,4 @@
+Customer ID: 101003825 Customer Name: MENSAH PAULINA AMOH Receipt No: 1009-279591 Transaction Amount: 55 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/14/2018 9:38:07 AM Cashier ID: 1009
+
+Customer ID: 101113349 Customer Name: ASAMOAH MATHEW Receipt No: 1009-705346 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/14/2018 12:09:03 PM Cashier ID: 1009
+

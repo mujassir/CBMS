@@ -1,0 +1,8 @@
+Customer ID: 110222741 Customer Name: AGARTHA FERKAA Receipt No: 10002-406790 Transaction Amount: 152 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 6/2/2018 10:22:17 AM Cashier ID: 10002
+
+Customer ID: 110222741 Customer Name: AGARTHA FERKAA Receipt No: 10002-634783 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 6/2/2018 10:23:37 AM Cashier ID: 10002
+
+Customer ID: 110145178 Customer Name: PASTOR THE Receipt No: 10002-459171 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 6/2/2018 10:35:49 AM Cashier ID: 10002
+
+Customer ID: 110147546 Customer Name: TAKYIWAA ESTHER Receipt No: 10002-935129 Transaction Amount: 220 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 6/2/2018 10:48:14 AM Cashier ID: 10002
+

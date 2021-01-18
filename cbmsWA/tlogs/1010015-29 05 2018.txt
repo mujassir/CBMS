@@ -1,0 +1,22 @@
+Customer ID: 101070665 Customer Name: DWOMO  AGYEMANG  BADU NANA Receipt No: 1010015-321189 Transaction Amount: 70 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 9:01:34 AM Cashier ID: 1010015
+
+Customer ID: 101087105 Customer Name: KYENTEY ROSE Receipt No: 1010015-3566 Transaction Amount: 148.5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 9:58:12 AM Cashier ID: 1010015
+
+Customer ID: 101024337 Customer Name: POKU NANA Receipt No: 1010015-323693 Transaction Amount: 250 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 9:59:56 AM Cashier ID: 1010015
+
+Customer ID: 101020812 Customer Name: GYAN ASAMOAH Receipt No: 1010015-145100 Transaction Amount: 12 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 10:29:53 AM Cashier ID: 1010015
+
+Customer ID: 101183634 Customer Name: AFRAKOMAH  ADWOA  Receipt No: 1010015-660098 Transaction Amount: 120 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 11:50:21 AM Cashier ID: 1010015
+
+Customer ID: 101161348 Customer Name: OBENG MANU JULIANA Receipt No: 1010015-478661 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 12:38:17 PM Cashier ID: 1010015
+
+Customer ID: 101166978 Customer Name: ADU YAW NANA Receipt No: 1010015-961565 Transaction Amount: 252 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 1:38:18 PM Cashier ID: 1010015
+
+Customer ID: 101009273 Customer Name: KWAME TETTEH Receipt No: 1010015-68568 Transaction Amount: 25 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 1:59:13 PM Cashier ID: 1010015
+
+Customer ID: 101008546 Customer Name: KWAKU MANU AFFUL Receipt No: 1010015-248808 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 2:39:10 PM Cashier ID: 1010015
+
+Customer ID: 101018782 Customer Name: KYEREMAA ABENAA Receipt No: 1010015-73064 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 2:45:51 PM Cashier ID: 1010015
+
+Customer ID: 101082461 Customer Name: OFORI THOMAS  Receipt No: 1010015-45862 Transaction Amount: 300 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/29/2018 4:01:32 PM Cashier ID: 1010015
+

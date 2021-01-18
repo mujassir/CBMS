@@ -1,0 +1,14 @@
+Customer ID: 114153566 Customer Name: DENNIS ANING Receipt No: 02021-766442 Transaction Amount: 42 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 9:22:54 AM Cashier ID: 02021
+
+Customer ID: 114153566 Customer Name: DENNIS ANING Receipt No: 02021-658513 Transaction Amount: 5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 9:26:03 AM Cashier ID: 02021
+
+Customer ID: 114072260 Customer Name: THOMAS ANSU Receipt No: 02021-504283 Transaction Amount: 600 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 9:40:41 AM Cashier ID: 02021
+
+Customer ID: 114016091 Customer Name: ABOAGYEWAA AMMA Receipt No: 02021-975628 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 10:40:49 AM Cashier ID: 02021
+
+Customer ID: 114097889 Customer Name: ABDULAI KWAME Receipt No: 02021-752426 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 12:01:07 PM Cashier ID: 02021
+
+Customer ID: 114006293 Customer Name: SALAMATA ADWOA Receipt No: 02021-725742 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 1:22:48 PM Cashier ID: 02021
+
+Customer ID: 114167151 Customer Name: GRUNSHIE KWASI Receipt No: 02021-111937 Transaction Amount: 5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 2:16:38 PM Cashier ID: 02021
+

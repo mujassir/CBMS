@@ -1,0 +1,6 @@
+Customer ID: 101165282 Customer Name: ADOMA ROSE Receipt No: 10133-157296 Transaction Amount: 15 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/16/2018 1:17:43 PM Cashier ID: 10133
+
+Customer ID: 101018597 Customer Name: KYERE OSCAR Receipt No: 10133-571141 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/16/2018 1:48:12 PM Cashier ID: 10133
+
+Customer ID: 111159643 Customer Name:  TWAA  ELIZABETH AFIA Receipt No: 10133-744784 Transaction Amount: 300 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/16/2018 2:18:21 PM Cashier ID: 10133
+

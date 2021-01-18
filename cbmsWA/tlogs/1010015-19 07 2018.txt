@@ -1,0 +1,6 @@
+Customer ID: 101207896 Customer Name: YAW ADJEI  JOSEPH  Receipt No: 1010015-355914 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 9:13:14 AM Cashier ID: 1010015
+
+Customer ID: 101211747 Customer Name: REBECCA AGYARKWAA Receipt No: 1010015-391211 Transaction Amount: 110 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 11:05:50 AM Cashier ID: 1010015
+
+Customer ID: 101183634 Customer Name: AFRAKOMAH  ADWOA  Receipt No: 1010015-235383 Transaction Amount: 180 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 12:28:40 PM Cashier ID: 1010015
+

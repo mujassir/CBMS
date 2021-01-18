@@ -1,0 +1,10 @@
+Customer ID: 114207312 Customer Name: ACHIAW STEPHEN KUMI Receipt No: 02021-298609 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/14/2018 7:08:11 AM Cashier ID: 02021
+
+Customer ID: 114146297 Customer Name: ISSAKA HAWA Receipt No: 02021-11056 Transaction Amount: 80 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/14/2018 7:53:08 AM Cashier ID: 02021
+
+Customer ID: 114220673 Customer Name: KWAKU OPOKU Receipt No: 02021-309651 Transaction Amount: 51 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/14/2018 9:41:24 AM Cashier ID: 02021
+
+Customer ID: 114215489 Customer Name: P. YEBOAH ERNESTINA Receipt No: 02021-301533 Transaction Amount: 300 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/14/2018 12:32:49 PM Cashier ID: 02021
+
+Customer ID: 114006552 Customer Name: EMMANUEL ABOGODAGO Receipt No: 02021-961966 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/14/2018 12:39:32 PM Cashier ID: 02021
+

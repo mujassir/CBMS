@@ -1,0 +1,6 @@
+Customer ID: 102027982 Customer Name: AKOSUA EFFAH,  Receipt No: 1006-925841 Transaction Amount: 30 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/9/2018 8:53:29 AM Cashier ID: 1006
+
+Customer ID: 102202740 Customer Name: ABINA  ALHAJI Receipt No: 1006-913656 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/9/2018 10:24:26 AM Cashier ID: 1006
+
+Customer ID: 102166416 Customer Name: OWUSUAA YAA Receipt No: 1006-943230 Transaction Amount: 10 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/9/2018 1:11:46 PM Cashier ID: 1006
+

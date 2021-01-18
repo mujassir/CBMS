@@ -1,0 +1,4 @@
+Customer ID: 101208105 Customer Name: KWAKU KANKAM OWUSU Receipt No: 1010015-985813 Transaction Amount: 70 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 11:11:08 AM Cashier ID: 1010015
+
+Customer ID: 101204722 Customer Name: KWAME JOSEPH ADJEI Receipt No: 1010015-977817 Transaction Amount: 22 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:35:23 PM Cashier ID: 1010015
+

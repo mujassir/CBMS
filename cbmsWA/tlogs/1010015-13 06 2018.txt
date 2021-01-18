@@ -1,0 +1,14 @@
+Customer ID: 101196059 Customer Name:  AMADU MUNIRU Receipt No: 1010015-662034 Transaction Amount: 140 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 9:52:04 AM Cashier ID: 1010015
+
+Customer ID: 101150544 Customer Name: SEIDU IMORO Receipt No: 1010015-405438 Transaction Amount: 185 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 11:09:50 AM Cashier ID: 1010015
+
+Customer ID: 101003466 Customer Name: KOJO AFAKANYO FRANK Receipt No: 1010015-144084 Transaction Amount: 60 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 11:29:13 AM Cashier ID: 1010015
+
+Customer ID: 101173704 Customer Name: ISAAC-KINGDOM HALL OF JW BONSU  Receipt No: 1010015-283640 Transaction Amount: 60 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 11:31:05 AM Cashier ID: 1010015
+
+Customer ID: 101136017 Customer Name: ROBERT ALIRA Receipt No: 1010015-515040 Transaction Amount: 30 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 11:46:05 AM Cashier ID: 1010015
+
+Customer ID: 101029486 Customer Name: YHERBIN JANET BONYENE Receipt No: 1010015-681257 Transaction Amount: 110 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 1:19:16 PM Cashier ID: 1010015
+
+Customer ID: 101146446 Customer Name: AMeyaw Samuel Ofosu Receipt No: 1010015-673573 Transaction Amount: 150 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/13/2018 2:56:19 PM Cashier ID: 1010015
+

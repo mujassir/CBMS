@@ -1,0 +1,8 @@
+Customer ID: 110059327 Customer Name: TAWIAH GRACE Receipt No: 10003-830916 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/7/2018 3:59:05 PM Cashier ID: 10003
+
+Customer ID: 110071875 Customer Name: MATHEW KOFI Receipt No: 10003-207949 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/7/2018 4:15:52 PM Cashier ID: 10003
+
+Customer ID: 110168730 Customer Name: ACHIEW GRACE  Receipt No: 10003-263957 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/7/2018 4:24:13 PM Cashier ID: 10003
+
+Customer ID: 110079379 Customer Name: KWADWO DARTEY Receipt No: 10003-372973 Transaction Amount: 47 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/7/2018 5:03:26 PM Cashier ID: 10003
+

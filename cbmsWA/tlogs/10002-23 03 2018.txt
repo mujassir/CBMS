@@ -1,0 +1,66 @@
+Customer ID: 110193337 Customer Name: ALHASA GEORGE  Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:26:22 AM Cashier ID: 10002
+
+Customer ID: 110137119 Customer Name: KOFI BISMARK TAKYI Transaction Amount: 61 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:27:40 AM Cashier ID: 10002
+
+Customer ID: 110057072 Customer Name: TIA ADWOA  Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:41:43 AM Cashier ID: 10002
+
+Customer ID: 110064812 Customer Name: ABENA YEBOAA MARY  Transaction Amount: 97 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:43:43 AM Cashier ID: 10002
+
+Customer ID: 110205762 Customer Name: WISDOM DABIE Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:55:47 AM Cashier ID: 10002
+
+Customer ID: 110216252 Customer Name: PHILIP ADINKRAH  Transaction Amount: 130 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:03:34 AM Cashier ID: 10002
+
+Customer ID: 110144098 Customer Name: NKETIA MRS AGYEMAN Transaction Amount: 64 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:04:53 AM Cashier ID: 10002
+
+Customer ID: 110008250 Customer Name: TAKYI ABABIO II NANA Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:13:04 AM Cashier ID: 10002
+
+Customer ID: 110045130 Customer Name: BENJAMIN FORSON Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:23:01 AM Cashier ID: 10002
+
+Customer ID: 110211583 Customer Name: KUSI FELICIA  APPIAH Transaction Amount: 110 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:31:27 AM Cashier ID: 10002
+
+Customer ID: 110110409 Customer Name: CHIRAA ADWOA  Transaction Amount: 800 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:41:50 AM Cashier ID: 10002
+
+Customer ID: 110143047 Customer Name:  GYAM  THOMAS TWENE Transaction Amount: 12 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:00:09 AM Cashier ID: 10002
+
+Customer ID: 110029982 Customer Name: YOMAH AUGUSTINE  Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:01:53 AM Cashier ID: 10002
+
+Customer ID: 110029438 Customer Name: KWAYIE KWASI Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:04:19 AM Cashier ID: 10002
+
+Customer ID: 110214676 Customer Name: KYEI  BAFFOUR NANA  Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:09:38 AM Cashier ID: 10002
+
+Customer ID: 110214676 Customer Name: KYEI  BAFFOUR NANA  Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:13:22 AM Cashier ID: 10002
+
+Customer ID: 110005781 Customer Name: MOHAMMED AMADU  Transaction Amount: 180 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:17:58 AM Cashier ID: 10002
+
+Customer ID: 110171422 Customer Name: NTIWAA AFUA Transaction Amount: 70 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:31:03 AM Cashier ID: 10002
+
+Customer ID: 110034038 Customer Name: MAVIS SEKYERE Transaction Amount: 25 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:39:52 AM Cashier ID: 10002
+
+Customer ID: 110214676 Customer Name: KYEI  BAFFOUR NANA  Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:48:21 AM Cashier ID: 10002
+
+Customer ID: 110142487 Customer Name: AKWAS  Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:09:48 PM Cashier ID: 10002
+
+Customer ID: 110031477 Customer Name: CHURCH K.T.K. PRESBY  Transaction Amount: 300 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:11:11 PM Cashier ID: 10002
+
+Customer ID: 110142463 Customer Name: EMMANUEL II ADJEI Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:59:17 PM Cashier ID: 10002
+
+Customer ID: 110157394 Customer Name: FOSUAA VIDA Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:01:28 PM Cashier ID: 10002
+
+Customer ID: 110152087 Customer Name: FEIKA BEILA Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:13:07 PM Cashier ID: 10002
+
+Customer ID: 110090582 Customer Name: COMFORT ABENA Transaction Amount: 155 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:45:38 PM Cashier ID: 10002
+
+Customer ID: 110048357 Customer Name: SAMPSON GYABAA Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:53:22 PM Cashier ID: 10002
+
+Customer ID: 110084345 Customer Name: MAMATA DABIA MADAM Transaction Amount: 68 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:57:54 PM Cashier ID: 10002
+
+Customer ID: 110213420 Customer Name: ADJEI AMA Transaction Amount: 22 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:10:00 PM Cashier ID: 10002
+
+Customer ID: 110011804 Customer Name: KWAKU ANTHONY  YEBOAH Transaction Amount: 200 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:18:03 PM Cashier ID: 10002
+
+Customer ID: 110168950 Customer Name:  AGNES MAD.YEBOAH Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:38:42 PM Cashier ID: 10002
+
+Customer ID: 110165964 Customer Name: NTOBEA ADWOA  Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:49:25 PM Cashier ID: 10002
+
+Customer ID: 110115988 Customer Name: JULIANA AFRA  Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:57:50 PM Cashier ID: 10002
+

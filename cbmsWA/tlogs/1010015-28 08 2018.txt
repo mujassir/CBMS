@@ -1,0 +1,6 @@
+Customer ID: 101217919 Customer Name: MENSAH EMMANUEL ADUBOFOUR Receipt No: 1010015-934426 Transaction Amount: 291 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/28/2018 10:02:46 AM Cashier ID: 1010015
+
+Customer ID: 101129059 Customer Name: MARTHA AGYEIWAA Receipt No: 1010015-927529 Transaction Amount: 40 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/28/2018 10:38:20 AM Cashier ID: 1010015
+
+Customer ID: 101217868 Customer Name: BOADI KWAME Receipt No: 1010015-36509 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/28/2018 1:29:17 PM Cashier ID: 1010015
+

@@ -1,0 +1,8 @@
+Customer ID: 102094963 Customer Name: ANTO  ISAAC Receipt No: 1006-913660 Transaction Amount: 5 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 11:49:52 AM Cashier ID: 1006
+
+Customer ID: 102059774 Customer Name: AFRAMA SIFAH GLADYS  Receipt No: 1006-767257 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 12:55:53 PM Cashier ID: 1006
+
+Customer ID: 102178429 Customer Name:  KWADWO DJAN Receipt No: 1006-414418 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 2:58:06 PM Cashier ID: 1006
+
+Customer ID: 102037848 Customer Name: KWAKU ASANTE,  Receipt No: 1006-793792 Transaction Amount: 34 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 2:59:01 PM Cashier ID: 1006
+

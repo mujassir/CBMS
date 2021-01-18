@@ -1,0 +1,26 @@
+Customer ID: 114201082 Customer Name: BEDIAKO OSEI Receipt No: 02022-334002 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 12:12:39 PM Cashier ID: 02022
+
+Customer ID: 114061188 Customer Name: KWADWO AZUMANA Receipt No: 02022-270086 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 12:21:09 PM Cashier ID: 02022
+
+Customer ID: 103000954 Customer Name: TWENEWAA LETICIA Receipt No: 02022-211185 Transaction Amount: 8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 12:23:16 PM Cashier ID: 02022
+
+Customer ID: 114054877 Customer Name: KUMI YAW Receipt No: 02022-609149 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 1:14:13 PM Cashier ID: 02022
+
+Customer ID: 114207893 Customer Name: AKOKORABA ALHAJI Receipt No: 02022-102265 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 1:17:59 PM Cashier ID: 02022
+
+Customer ID: 103192328 Customer Name: ISAAC  AMEYAW Receipt No: 02022-151811 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 1:47:40 PM Cashier ID: 02022
+
+Customer ID: 114130448 Customer Name: EMMANUEL AFARI Receipt No: 02022-577120 Transaction Amount: 220 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 2:41:12 PM Cashier ID: 02022
+
+Customer ID: 114068264 Customer Name:  KWABENA  NYAMEKYE Receipt No: 02022-662173 Transaction Amount: 28 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 2:46:57 PM Cashier ID: 02022
+
+Customer ID: 114043804 Customer Name: COULIBALY ABDULAI Receipt No: 02022-795828 Transaction Amount: 27 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 2:58:49 PM Cashier ID: 02022
+
+Customer ID: 114057711 Customer Name: DATCC  Receipt No: 02022-554951 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 3:23:09 PM Cashier ID: 02022
+
+Customer ID: 114214513 Customer Name: YEBOAH ELIZABETH Receipt No: 02022-635430 Transaction Amount: 55 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 3:34:09 PM Cashier ID: 02022
+
+Customer ID: 114057711 Customer Name: DATCC  Receipt No: 02022-169390 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 3:42:27 PM Cashier ID: 02022
+
+Customer ID: 114216787 Customer Name: REBECCA SAKYIWAA Receipt No: 02022-979569 Transaction Amount: 24 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/11/2018 3:50:22 PM Cashier ID: 02022
+

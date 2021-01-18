@@ -1,0 +1,6 @@
+Customer ID: 101178761 Customer Name: ELIZABETH DUROWAA Receipt No: 1010015-596854 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 10:33:26 AM Cashier ID: 1010015
+
+Customer ID: 101101635 Customer Name: ANIM DANIEL  Receipt No: 1010015-232406 Transaction Amount: 160 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 12:22:33 PM Cashier ID: 1010015
+
+Customer ID: 101170812 Customer Name: SALIA HARUNA Receipt No: 1010015-780636 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/30/2018 12:54:26 PM Cashier ID: 1010015
+

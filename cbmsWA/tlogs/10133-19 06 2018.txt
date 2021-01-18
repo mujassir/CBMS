@@ -1,0 +1,8 @@
+Customer ID: 101189279 Customer Name: DAVID DAAWEN ASAGMI Receipt No: 10133-640828 Transaction Amount: 115 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 8:55:08 AM Cashier ID: 10133
+
+Customer ID: 101188696 Customer Name: CHARLES OPPONG Receipt No: 10133-140438 Transaction Amount: 150 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 10:23:32 AM Cashier ID: 10133
+
+Customer ID: 101157887 Customer Name: FURDJOUR KARIKARI  Receipt No: 10133-521669 Transaction Amount: 150 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 11:34:55 AM Cashier ID: 10133
+
+Customer ID: 101196515 Customer Name: DENNIS MENSAH Receipt No: 10133-774003 Transaction Amount: 24 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/19/2018 11:35:41 AM Cashier ID: 10133
+

@@ -1,0 +1,4 @@
+Customer ID: 110222718 Customer Name: SAMPSON ASARE Receipt No: 10002-49571 Transaction Amount: 122 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 6:04:48 PM Cashier ID: 10002
+
+Customer ID: 110222718 Customer Name: SAMPSON ASARE Receipt No: 10002-576521 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 6:06:18 PM Cashier ID: 10002
+

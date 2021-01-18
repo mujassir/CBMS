@@ -1,0 +1,4 @@
+Customer ID: 114222342 Customer Name: ABUBAKARI SUHUDU Receipt No: 02021-771637 Transaction Amount: 10715 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/4/2018 8:44:57 AM Cashier ID: 02021
+
+Customer ID: 114222342 Customer Name: ABUBAKARI SUHUDU Receipt No: 02021-78084 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/4/2018 8:47:23 AM Cashier ID: 02021
+

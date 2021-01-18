@@ -1,0 +1,8 @@
+Customer ID: 110188994 Customer Name: SOLOMON TWUMASI Receipt No: 10001-203461 Transaction Amount: 250 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/28/2018 3:55:35 PM Cashier ID: 10001
+
+Customer ID: 110173223 Customer Name: YEBOAH KOFI Receipt No: 10001-116872 Transaction Amount: 108.7 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/28/2018 3:57:57 PM Cashier ID: 10001
+
+Customer ID: 110119486 Customer Name: CHURCH METHODIST Receipt No: 10001-266747 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/28/2018 4:08:41 PM Cashier ID: 10001
+
+Customer ID: 110081148 Customer Name: NKETIA THOMAS BENSON Receipt No: 10001-993579 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/28/2018 4:22:23 PM Cashier ID: 10001
+

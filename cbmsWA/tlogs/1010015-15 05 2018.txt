@@ -1,0 +1,12 @@
+Customer ID: 101201777 Customer Name: KYERE PETER Receipt No: 1010015-941046 Transaction Amount: 68 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 10:38:57 AM Cashier ID: 1010015
+
+Customer ID: 101058323 Customer Name: ELIZABETH AGYAPOMAA Receipt No: 1010015-488774 Transaction Amount: 400 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 12:09:14 PM Cashier ID: 1010015
+
+Customer ID: 101220103 Customer Name: AMOAKOH KYEREMEH PHILIP Receipt No: 1010015-643419 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 12:33:03 PM Cashier ID: 1010015
+
+Customer ID: 101068164 Customer Name: KLOVE BLESSING Receipt No: 1010015-795026 Transaction Amount: 201 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 1:51:28 PM Cashier ID: 1010015
+
+Customer ID: 101177195 Customer Name: APARE BABA Receipt No: 1010015-600461 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 2:07:09 PM Cashier ID: 1010015
+
+Customer ID: 101062542 Customer Name: AGBILLA BRIGHT Receipt No: 1010015-877277 Transaction Amount: 22.7 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/15/2018 5:18:25 PM Cashier ID: 1010015
+

@@ -1,0 +1,18 @@
+Customer ID: 101171020 Customer Name: DAMPTEY MR. Receipt No: 1011-320383 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 9:44:06 AM Cashier ID: 1011
+
+Customer ID: 101208877 Customer Name: P.W.D  Receipt No: 1011-785744 Transaction Amount: 580 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 11:21:46 AM Cashier ID: 1011
+
+Customer ID: 101072404 Customer Name:  FIRI ADUBEA DIANA Receipt No: 1011-229827 Transaction Amount: 400 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 12:13:25 PM Cashier ID: 1011
+
+Customer ID: 101171470 Customer Name: ATO KWAME Receipt No: 1011-986250 Transaction Amount: 310 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 12:16:45 PM Cashier ID: 1011
+
+Customer ID: 101057147 Customer Name: AMPONSAH CECILIA  Receipt No: 1011-297615 Transaction Amount: 362 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 12:18:25 PM Cashier ID: 1011
+
+Customer ID: 101062896 Customer Name: ATO KWAME Receipt No: 1011-512877 Transaction Amount: 124 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 12:28:29 PM Cashier ID: 1011
+
+Customer ID: 101162256 Customer Name: D.K. GYAU  Receipt No: 1011-573752 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 1:24:19 PM Cashier ID: 1011
+
+Customer ID: 101048680 Customer Name: AMPONSAH TAWIAH Receipt No: 1011-711659 Transaction Amount: 405 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 1:44:53 PM Cashier ID: 1011
+
+Customer ID: 101177116 Customer Name: AMPONSAH TAWIAH Receipt No: 1011-139089 Transaction Amount: 400 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/18/2018 2:22:36 PM Cashier ID: 1011
+

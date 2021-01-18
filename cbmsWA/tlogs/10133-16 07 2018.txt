@@ -1,0 +1,24 @@
+Customer ID: 101182637 Customer Name: SAKYIWAA AKOSUA Receipt No: 10133-250531 Transaction Amount: 430 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 9:13:59 AM Cashier ID: 10133
+
+Customer ID: 113138539 Customer Name: CON.DIVISSION QUALITY Receipt No: 10133-299052 Transaction Amount: 460 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:14:13 AM Cashier ID: 10133
+
+Customer ID: 113141378 Customer Name: CONTROL COMP QUALITY Receipt No: 10133-706585 Transaction Amount: 52 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:15:28 AM Cashier ID: 10133
+
+Customer ID: 101017960 Customer Name: PRODUCE INSPECTION OFFICE CMB  Receipt No: 10133-142934 Transaction Amount: 700 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:17:07 AM Cashier ID: 10133
+
+Customer ID: 107123145 Customer Name: CONTROL COMP.LTD QUALITY Receipt No: 10133-520938 Transaction Amount: 370 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:17:59 AM Cashier ID: 10133
+
+Customer ID: 106019798 Customer Name: ITY CONTROL DIVISION QUAL  Receipt No: 10133-149800 Transaction Amount: 456 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:18:54 AM Cashier ID: 10133
+
+Customer ID: 101067504 Customer Name: GYAMFI GEORGINA Receipt No: 10133-671839 Transaction Amount: 160 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 10:37:54 AM Cashier ID: 10133
+
+Customer ID: 101114680 Customer Name: YEBOAH DORAH Receipt No: 10133-940970 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 11:09:50 AM Cashier ID: 10133
+
+Customer ID: 101026127 Customer Name: SALAMI MAD.  Receipt No: 10133-677426 Transaction Amount: 47 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 11:53:15 AM Cashier ID: 10133
+
+Customer ID: 101218348 Customer Name: AUGUSTA BAINN Receipt No: 10133-76260 Transaction Amount: 36 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 12:12:20 PM Cashier ID: 10133
+
+Customer ID: 101111971 Customer Name: A MANU CHARLES Receipt No: 10133-213102 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 1:09:16 PM Cashier ID: 10133
+
+Customer ID: 101163206 Customer Name: OPPONG AKWASI  Receipt No: 10133-182053 Transaction Amount: 103 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/16/2018 3:18:11 PM Cashier ID: 10133
+

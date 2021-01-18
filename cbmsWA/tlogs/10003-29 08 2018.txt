@@ -1,0 +1,22 @@
+Customer ID: 110054870 Customer Name: MISSION PRESBY  Receipt No: 10003-307784 Transaction Amount: 165 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:12:29 PM Cashier ID: 10003
+
+Customer ID: 110054870 Customer Name: MISSION PRESBY  Receipt No: 10003-283114 Transaction Amount: 191 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:14:01 PM Cashier ID: 10003
+
+Customer ID: 110076066 Customer Name: CHURCH PRESBY  Receipt No: 10003-585020 Transaction Amount: 12.5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:15:18 PM Cashier ID: 10003
+
+Customer ID: 110076066 Customer Name: CHURCH PRESBY  Receipt No: 10003-126842 Transaction Amount: 12.5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:15:59 PM Cashier ID: 10003
+
+Customer ID: 110164171 Customer Name: PASTOR  THE Receipt No: 10003-948266 Transaction Amount: 85 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:17:02 PM Cashier ID: 10003
+
+Customer ID: 110164171 Customer Name: PASTOR  THE Receipt No: 10003-664 Transaction Amount: 77 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:17:42 PM Cashier ID: 10003
+
+Customer ID: 110062124 Customer Name: JAMES ANTWI Receipt No: 10003-834249 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:21:26 PM Cashier ID: 10003
+
+Customer ID: 110087849 Customer Name: ROSE KOMAH Receipt No: 10003-840691 Transaction Amount: 130 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:32:38 PM Cashier ID: 10003
+
+Customer ID: 110117699 Customer Name: KWADWO BISMARK ANSU Receipt No: 10003-533146 Transaction Amount: 218 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:35:36 PM Cashier ID: 10003
+
+Customer ID: 110126510 Customer Name: BEN NKETIAH  Receipt No: 10003-959475 Transaction Amount: 35 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 4:07:52 PM Cashier ID: 10003
+
+Customer ID: 110013022 Customer Name: GEORGE  OPPONG Receipt No: 10003-796560 Transaction Amount: 85 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 4:18:03 PM Cashier ID: 10003
+

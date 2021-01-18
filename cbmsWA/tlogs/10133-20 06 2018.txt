@@ -1,0 +1,6 @@
+Customer ID: 101026276 Customer Name: - ADDO  BRIGHT SARKODIE Receipt No: 10133-572065 Transaction Amount: 30 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/20/2018 9:09:18 AM Cashier ID: 10133
+
+Customer ID: 101120019 Customer Name: KWAME KWAMA Receipt No: 10133-932481 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/20/2018 9:13:52 AM Cashier ID: 10133
+
+Customer ID: 101049274 Customer Name: GYAN MARY OFORI Receipt No: 10133-561143 Transaction Amount: 15 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/20/2018 3:50:09 PM Cashier ID: 10133
+

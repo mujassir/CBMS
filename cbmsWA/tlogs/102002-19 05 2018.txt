@@ -1,0 +1,4 @@
+Customer ID: 109183562 Customer Name: MENSAH OHENE Receipt No: 102002-804190 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/19/2018 10:52:48 AM Cashier ID: 102002
+
+Customer ID: 109116548 Customer Name: AGYEI DUROWAA AUGUSTINA Receipt No: 102002-395931 Transaction Amount: 53 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/19/2018 11:58:41 AM Cashier ID: 102002
+

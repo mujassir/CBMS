@@ -1,0 +1,26 @@
+Customer ID: 102007519 Customer Name: YEBOAH ASUAMA NANA Receipt No: 1009-406332 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 9:29:14 AM Cashier ID: 1009
+
+Customer ID: 102007519 Customer Name: YEBOAH ASUAMA NANA Receipt No: 1009-748010 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 9:29:25 AM Cashier ID: 1009
+
+Customer ID: 101136003 Customer Name: AGYEI RUBY ANTWI Receipt No: 1009-200325 Transaction Amount: 70 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 9:43:31 AM Cashier ID: 1009
+
+Customer ID: 101072139 Customer Name: ASANTEWAA DORIS Receipt No: 1009-590462 Transaction Amount: 110 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 10:32:36 AM Cashier ID: 1009
+
+Customer ID: 101115350 Customer Name: AGYEI AMOS Receipt No: 1009-954435 Transaction Amount: 101 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 11:02:29 AM Cashier ID: 1009
+
+Customer ID: 101134325 Customer Name: BRAIMAH NANA Receipt No: 1009-685876 Transaction Amount: 800 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 11:04:35 AM Cashier ID: 1009
+
+Customer ID: 101066362 Customer Name: AKYEREM PAUL Receipt No: 1009-45881 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 11:42:29 AM Cashier ID: 1009
+
+Customer ID: 101126744 Customer Name: SOMTTAQUAMARI TAKYI Receipt No: 1009-562453 Transaction Amount: 540 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 11:47:51 AM Cashier ID: 1009
+
+Customer ID: 101114680 Customer Name: YEBOAH DORAH Receipt No: 1009-878630 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 12:16:01 PM Cashier ID: 1009
+
+Customer ID: 101177281 Customer Name: EMMANUEL RUSSELL KUSI Receipt No: 1009-871737 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 1:37:44 PM Cashier ID: 1009
+
+Customer ID: 101190141 Customer Name: IDDRISU NAFISA Receipt No: 1009-801123 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 1:58:56 PM Cashier ID: 1009
+
+Customer ID: 101075415 Customer Name: BERKO DOMFEH JOSEPH Receipt No: 1009-439777 Transaction Amount: 110 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 2:17:31 PM Cashier ID: 1009
+
+Customer ID: 101050159 Customer Name:  APUNGU VICTOR Receipt No: 1009-94766 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/14/2018 4:01:49 PM Cashier ID: 1009
+

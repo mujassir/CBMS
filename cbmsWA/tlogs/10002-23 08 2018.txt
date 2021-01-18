@@ -1,0 +1,6 @@
+Customer ID: 110222632 Customer Name: BENEDICTA AKUA Receipt No: 10002-692945 Transaction Amount: 102 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 5:20:14 PM Cashier ID: 10002
+
+Customer ID: 110222632 Customer Name: BENEDICTA AKUA Receipt No: 10002-894203 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 5:21:04 PM Cashier ID: 10002
+
+Customer ID: 110222632 Customer Name: BENEDICTA AKUA Receipt No: 10002-28306 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 5:22:02 PM Cashier ID: 10002
+

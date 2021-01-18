@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ed3f543692be4f3aa30454450c5d1e55" Name="Diagram1">
+        <EntityTypeShape EntityType="ForexModel.AccessRule" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Application" Width="1.5" PointX="7.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Area" Width="1.5" PointX="0.75" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Currency" Width="1.5" PointX="9.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Department" Width="1.5" PointX="5.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Employee" Width="1.5" PointX="9.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.IdentityType" Width="1.5" PointX="11.75" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Profile" Width="1.5" PointX="14.5" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Rank" Width="1.5" PointX="0.75" PointY="11" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Rank1" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Role" Width="1.5" PointX="10" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.RulesInGroup" Width="1.5" PointX="11.75" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Station" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Stock" Width="1.5" PointX="7.5" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.UserDetail" Width="1.5" PointX="7.5" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.User" Width="1.5" PointX="12.25" PointY="2.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.Appointment" Width="1.5" PointX="11.75" PointY="12" IsExpanded="true" />
+        <EntityTypeShape EntityType="ForexModel.VatTable" Width="1.5" PointX="13.75" PointY="9" IsExpanded="true" />
+        <AssociationConnector Association="ForexModel.FK_Roles_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_Users_Applications" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_UserDetails_Area" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_UserDetails_Departments" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_Profiles_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_Rank_Rank" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_Ranks_Ranks" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.FK_UserDetails_Station" ManuallyRouted="false" />
+        <AssociationConnector Association="ForexModel.UsersInRoles" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="ForexModel.Bureau" Width="1.5" PointX="5.25" PointY="9.125" />
+        <EntityTypeShape EntityType="ForexModel.TransType" Width="1.5" PointX="5.25" PointY="16.125" />
+        <EntityTypeShape EntityType="ForexModel.qryopenningBal" Width="1.5" PointX="14.375" PointY="12.75" />
+        <AssociationConnector Association="ForexModel.FK_Bureaus_Bureaus" />
+        <AssociationConnector Association="ForexModel.FK_Stock_Bureaus" />
+        <AssociationConnector Association="ForexModel.FK_UserDetails_Bureaus" />
+        <AssociationConnector Association="ForexModel.FK_Stock_TransType" />
+        <EntityTypeShape EntityType="ForexModel.Company" Width="1.5" PointX="3" PointY="7.375" />
+        <AssociationConnector Association="ForexModel.FK_Company_Area" />
+        <AssociationConnector Association="ForexModel.FK_Bureaus_Company" />
+        <AssociationConnector Association="ForexModel.FK_Stock_Company" />
+        <EntityTypeShape EntityType="ForexModel.AuditLog" Width="1.5" PointX="3" PointY="11.625" />
+        <AssociationConnector Association="ForexModel.FK_AuditLog_Area" />
+        <EntityTypeShape EntityType="ForexModel.StockPurSum" Width="1.5" PointX="0.75" PointY="14.75" />
+        <EntityTypeShape EntityType="ForexModel.StockSaleSum" Width="1.5" PointX="2.75" PointY="14.75" />
+        <EntityTypeShape EntityType="ForexModel.BOGStockPosition" Width="1.5" PointX="10.375" PointY="15.75" />
+        <EntityTypeShape EntityType="ForexModel.Purchase" Width="1.5" PointX="17" PointY="12.125" />
+        <EntityTypeShape EntityType="ForexModel.Sale" Width="1.5" PointX="17" PointY="5" />
+        <AssociationConnector Association="ForexModel.FK_Purchases_Bureaus" />
+        <AssociationConnector Association="ForexModel.FK_Purchases_Company" />
+        <AssociationConnector Association="ForexModel.FK_Sales_Company" />
+        <AssociationConnector Association="ForexModel.FK_Purchases_IdentityType" />
+        <AssociationConnector Association="ForexModel.FK_Sales_IdentityType" />
+        <EntityTypeShape EntityType="ForexModel.PurchasesDTime" Width="1.5" PointX="12.375" PointY="15.75" />
+        <EntityTypeShape EntityType="ForexModel.SalesDTime" Width="1.5" PointX="7.375" PointY="16.75" />
+        <EntityTypeShape EntityType="ForexModel.BOGPucRate" Width="1.5" PointX="17.75" PointY="0.75" />
+        <EntityTypeShape EntityType="ForexModel.BOGSalesRate" Width="1.5" PointX="0.75" PointY="17.75" />
+        <EntityTypeShape EntityType="ForexModel.WeeklyRate" Width="1.5" PointX="3.375" PointY="18.75" />
+        <EntityTypeShape EntityType="ForexModel.WEEKLYDATE" Width="1.5" PointX="12.375" PointY="18.75" />
+        <EntityTypeShape EntityType="ForexModel.UserGroup" Width="1.5" PointX="19.375" PointY="3.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

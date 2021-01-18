@@ -1,0 +1,8 @@
+Customer ID: 110016865 Customer Name:  PATRICK  PHILIP KWAYIE Receipt No: 10001-827114 Transaction Amount: 122 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/6/2018 3:41:17 PM Cashier ID: 10001
+
+Customer ID: 110005428 Customer Name: DANIEL AFFUL Receipt No: 10001-106388 Transaction Amount: 110 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/6/2018 3:55:50 PM Cashier ID: 10001
+
+Customer ID: 110177993 Customer Name: JOB ABINA  Receipt No: 10001-26601 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/6/2018 4:09:59 PM Cashier ID: 10001
+
+Customer ID: 110080411 Customer Name: ANKAMAH JOSEPH  Receipt No: 10001-558847 Transaction Amount: 55 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/6/2018 4:47:06 PM Cashier ID: 10001
+

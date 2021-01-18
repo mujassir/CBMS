@@ -1,0 +1,10 @@
+Customer ID: 101000737 Customer Name: AMEGASHIE KENNEDY Receipt No: 1019-875221 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 8:39:12 AM Cashier ID: 1019
+
+Customer ID: 101002248 Customer Name: OFOSU KWAKU Receipt No: 1019-982855 Transaction Amount: 95 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 11:25:59 AM Cashier ID: 1019
+
+Customer ID: 101170912 Customer Name: OPPONG KONADU VERONICA Receipt No: 1019-708476 Transaction Amount: 27 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 11:41:38 AM Cashier ID: 1019
+
+Customer ID: 101017081 Customer Name: SOLO KWAME  Receipt No: 1019-341009 Transaction Amount: 13 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 2:26:00 PM Cashier ID: 1019
+
+Customer ID: 102207119 Customer Name: YAW OPPONG PETER  Receipt No: 1019-763181 Transaction Amount: 170 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 3:11:28 PM Cashier ID: 1019
+

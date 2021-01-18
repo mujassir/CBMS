@@ -1,0 +1,8 @@
+Customer ID: 110191299 Customer Name: DORIS KESSEWAA Receipt No: 10002-942518 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/13/2018 3:14:59 PM Cashier ID: 10002
+
+Customer ID: 110110346 Customer Name: K. PAUL DARTEY Receipt No: 10002-398912 Transaction Amount: 91.7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/13/2018 3:44:58 PM Cashier ID: 10002
+
+Customer ID: 110222774 Customer Name:  OMAR WATARA Receipt No: 10002-685462 Transaction Amount: 135 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/13/2018 3:49:21 PM Cashier ID: 10002
+
+Customer ID: 110222774 Customer Name:  OMAR WATARA Receipt No: 10002-941776 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/13/2018 4:07:38 PM Cashier ID: 10002
+

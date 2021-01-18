@@ -1,0 +1,22 @@
+Customer ID: 114107555 Customer Name: KWAME YEBOAH SAMUEL Receipt No: 02022-485284 Transaction Amount: 60 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 8:11:15 AM Cashier ID: 02022
+
+Customer ID: 114208482 Customer Name: DANIEL ANNING Receipt No: 02022-17521 Transaction Amount: 16 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 9:21:55 AM Cashier ID: 02022
+
+Customer ID: 114119051 Customer Name: ENNING GLADYS Receipt No: 02022-19615 Transaction Amount: 4 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 9:23:09 AM Cashier ID: 02022
+
+Customer ID: 114017412 Customer Name: YAA AKUMISA COMFORT Receipt No: 02022-551466 Transaction Amount: 72 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 10:23:13 AM Cashier ID: 02022
+
+Customer ID: 114194815 Customer Name: ANZUMANA  AISHA Receipt No: 02022-546444 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 11:07:26 AM Cashier ID: 02022
+
+Customer ID: 114110218 Customer Name: KWAME ASARE Receipt No: 02022-170493 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 12:11:56 PM Cashier ID: 02022
+
+Customer ID: 114216386 Customer Name: RAZAK ABDUL Receipt No: 02022-638842 Transaction Amount: 9 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 12:36:17 PM Cashier ID: 02022
+
+Customer ID: 114043368 Customer Name: APOSTLES CONTINUATION CHURCH  THE Receipt No: 02022-670505 Transaction Amount: 350 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 12:53:38 PM Cashier ID: 02022
+
+Customer ID: 114122798 Customer Name: GYAMFUWAA SOPHIA Receipt No: 02022-138398 Transaction Amount: 80 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 1:27:53 PM Cashier ID: 02022
+
+Customer ID: 114162836 Customer Name: EMMANUEL NTI Receipt No: 02022-934451 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 2:44:37 PM Cashier ID: 02022
+
+Customer ID: 114065102 Customer Name: MENSAH MARY Receipt No: 02022-939901 Transaction Amount: 5 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 3:35:52 PM Cashier ID: 02022
+

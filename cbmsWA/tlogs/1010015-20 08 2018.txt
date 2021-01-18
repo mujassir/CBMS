@@ -1,0 +1,4 @@
+Customer ID: 101116682 Customer Name:  PHIDELA YEBOAA Receipt No: 1010015-639976 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/20/2018 10:49:10 AM Cashier ID: 1010015
+
+Customer ID: 101069648 Customer Name: TAWIAH SIMON KUSI Receipt No: 1010015-688299 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/20/2018 1:24:58 PM Cashier ID: 1010015
+

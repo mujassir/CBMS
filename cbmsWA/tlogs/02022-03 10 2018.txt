@@ -1,0 +1,4 @@
+Customer ID: 114218589 Customer Name: YEBOAH DANIEL Receipt No: 02022-550882 Transaction Amount: 63 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/3/2018 8:03:17 AM Cashier ID: 02022
+
+Customer ID: 114032640 Customer Name: COULIBALY ABDULAI Receipt No: 02022-452608 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/3/2018 9:21:40 AM Cashier ID: 02022
+

@@ -1,0 +1,10 @@
+Customer ID: 102213795 Customer Name: COLLINS KYERE Receipt No: 1006-15795 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/2/2018 9:33:48 AM Cashier ID: 1006
+
+Customer ID: 102100034 Customer Name: KYEREMAA AMPONSAH JULIET Receipt No: 1006-334645 Transaction Amount: 80 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/2/2018 3:02:51 PM Cashier ID: 1006
+
+Customer ID: 102033633 Customer Name: OSEI VIDA Receipt No: 1006-157011 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/2/2018 3:18:59 PM Cashier ID: 1006
+
+Customer ID: 102067366 Customer Name: OF PRAISE MINISTRIES ROYAL Receipt No: 1006-212135 Transaction Amount: 255 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/2/2018 3:22:52 PM Cashier ID: 1006
+
+Customer ID: 102009282 Customer Name: SALINA KUMI Receipt No: 1006-55010 Transaction Amount: 35 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/2/2018 3:54:39 PM Cashier ID: 1006
+

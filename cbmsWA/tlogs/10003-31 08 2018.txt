@@ -1,0 +1,22 @@
+Customer ID: 110112518 Customer Name: MARGARET ANKAMAH  Receipt No: 10003-418142 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:17:41 PM Cashier ID: 10003
+
+Customer ID: 110075300 Customer Name: OPPONG  DJAN FRANK  Receipt No: 10003-322282 Transaction Amount: 141 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:20:30 PM Cashier ID: 10003
+
+Customer ID: 110057533 Customer Name: EMMANUEL AMANQUANOR Receipt No: 10003-178307 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:21:31 PM Cashier ID: 10003
+
+Customer ID: 110158323 Customer Name: STEPHEN BOSEA Receipt No: 10003-575206 Transaction Amount: 15 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:28:17 PM Cashier ID: 10003
+
+Customer ID: 110158323 Customer Name: STEPHEN BOSEA Receipt No: 10003-676208 Transaction Amount: 15 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:29:46 PM Cashier ID: 10003
+
+Customer ID: 110075633 Customer Name: BEATRICE  ANKOMAH Receipt No: 10003-989508 Transaction Amount: 21 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:41:14 PM Cashier ID: 10003
+
+Customer ID: 110137797 Customer Name: NOAH KINGSFORD ANKOMAH Receipt No: 10003-329758 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:45:58 PM Cashier ID: 10003
+
+Customer ID: 110211514 Customer Name: NOAH KINGSFORD ANKAMAH Receipt No: 10003-761054 Transaction Amount: 250 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:47:54 PM Cashier ID: 10003
+
+Customer ID: 110071948 Customer Name: STEPHEN ANKAMAH Receipt No: 10003-583794 Transaction Amount: 110 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:54:59 PM Cashier ID: 10003
+
+Customer ID: 110102045 Customer Name: SARAH AZUUREH Receipt No: 10003-386706 Transaction Amount: 12 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 3:58:48 PM Cashier ID: 10003
+
+Customer ID: 110011819 Customer Name:  ROBERT KYEREMEH Receipt No: 10003-533966 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/31/2018 4:57:54 PM Cashier ID: 10003
+

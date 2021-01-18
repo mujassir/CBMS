@@ -1,0 +1,2 @@
+Customer ID: 101136017 Customer Name: ROBERT ALIRA Receipt No: 1009-209580 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/20/2018 1:32:40 PM Cashier ID: 1009
+

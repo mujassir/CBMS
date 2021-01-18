@@ -1,0 +1,8 @@
+Customer ID: 101062944 Customer Name: AFUGU JOSEPH Receipt No: 1019-217997 Transaction Amount: 110 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/30/2018 10:23:04 AM Cashier ID: 1019
+
+Customer ID: 101195146 Customer Name: ADINKRAH- APPIAH KWADWO Receipt No: 1019-528146 Transaction Amount: 63 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/30/2018 10:45:01 AM Cashier ID: 1019
+
+Customer ID: 101152127 Customer Name: TELECOM GHANA  Receipt No: 1019-219425 Transaction Amount: 63 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/30/2018 12:39:10 PM Cashier ID: 1019
+
+Customer ID: 101192526 Customer Name: GYAN FELICIA Receipt No: 1019-129505 Transaction Amount: 140 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/30/2018 3:12:17 PM Cashier ID: 1019
+

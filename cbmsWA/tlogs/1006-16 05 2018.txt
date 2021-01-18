@@ -1,0 +1,92 @@
+Customer ID: 102151083 Customer Name: KONAMA. HAGAR Receipt No: 1006-540933 Transaction Amount: 5 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:13:18 AM Cashier ID: 1006
+
+Customer ID: 102159594 Customer Name: FELICIA FORIWAA Receipt No: 1006-288910 Transaction Amount: 78 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:18:02 AM Cashier ID: 1006
+
+Customer ID: 102010503 Customer Name: KYERE BEDIAKO JOSEPH  Receipt No: 1006-69732 Transaction Amount: 95 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:30:35 AM Cashier ID: 1006
+
+Customer ID: 102115930 Customer Name: KWAME KYERE  Receipt No: 1006-180047 Transaction Amount: 10 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:31:15 AM Cashier ID: 1006
+
+Customer ID: 102050071 Customer Name:   BOATEMAA. JANET Receipt No: 1006-815744 Transaction Amount: 101 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:32:43 AM Cashier ID: 1006
+
+Customer ID: 102206102 Customer Name:  BAIDOO. VIDA Receipt No: 1006-437715 Transaction Amount: 19 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:35:30 AM Cashier ID: 1006
+
+Customer ID: 102004965 Customer Name: P. Y. AMOAH,  Receipt No: 1006-367024 Transaction Amount: 37 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:38:17 AM Cashier ID: 1006
+
+Customer ID: 102033292 Customer Name: I. O. KONADU, Receipt No: 1006-194122 Transaction Amount: 77 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:47:49 AM Cashier ID: 1006
+
+Customer ID: 102207370 Customer Name: KOFI  AMEYAW Receipt No: 1006-550698 Transaction Amount: 56 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:57:52 AM Cashier ID: 1006
+
+Customer ID: 102017624 Customer Name: DORCAS KYERAA Receipt No: 1006-783192 Transaction Amount: 25 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 9:58:54 AM Cashier ID: 1006
+
+Customer ID: 102068159 Customer Name: R.J. AMANKONA Receipt No: 1006-803462 Transaction Amount: 13 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:11:46 AM Cashier ID: 1006
+
+Customer ID: 102109560 Customer Name: E. DARTEY GOTTFRED,  Receipt No: 1006-378999 Transaction Amount: 370 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:14:10 AM Cashier ID: 1006
+
+Customer ID: 102151854 Customer Name: SERWAA L. YEBOAA Receipt No: 1006-302577 Transaction Amount: 12 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:14:52 AM Cashier ID: 1006
+
+Customer ID: 102035257 Customer Name:  BRIDGET KYEREAA Receipt No: 1006-704679 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:19:27 AM Cashier ID: 1006
+
+Customer ID: 102071978 Customer Name: ACHIAA VANDYKE AGARTHA Receipt No: 1006-515963 Transaction Amount: 67 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:35:40 AM Cashier ID: 1006
+
+Customer ID: 102187928 Customer Name: DAMOAH EDWARD KOFI Receipt No: 1006-398044 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:36:22 AM Cashier ID: 1006
+
+Customer ID: 102088319 Customer Name: GYAU BAFFOUR Receipt No: 1006-743245 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:36:54 AM Cashier ID: 1006
+
+Customer ID: 102006285 Customer Name: YEBOAH ABRAHAM SAKYI Receipt No: 1006-54211 Transaction Amount: 170 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:37:41 AM Cashier ID: 1006
+
+Customer ID: 102021906 Customer Name: MAWULI KUJO FRANCIS Receipt No: 1006-215821 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:39:49 AM Cashier ID: 1006
+
+Customer ID: 102073055 Customer Name: RICHARD. ADOMAH Receipt No: 1006-60222 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:40:16 AM Cashier ID: 1006
+
+Customer ID: 102064070 Customer Name: MOHAMMED IBRAHIM Receipt No: 1006-130604 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:43:25 AM Cashier ID: 1006
+
+Customer ID: 102133636 Customer Name:  GYASI MOHAMMED Receipt No: 1006-50795 Transaction Amount: 34 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:45:16 AM Cashier ID: 1006
+
+Customer ID: 102101035 Customer Name: MANSAH AMMA  Receipt No: 1006-305807 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:46:27 AM Cashier ID: 1006
+
+Customer ID: 102158958 Customer Name:    MENSAH. OSEI Receipt No: 1006-530396 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:47:09 AM Cashier ID: 1006
+
+Customer ID: 102175210 Customer Name: FELICIA ANIMA Receipt No: 1006-538756 Transaction Amount: 81 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:48:24 AM Cashier ID: 1006
+
+Customer ID: 102096019 Customer Name: JOSEPH APRAKU Receipt No: 1006-760662 Transaction Amount: 145 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:49:13 AM Cashier ID: 1006
+
+Customer ID: 102095118 Customer Name: BUAMAH ROSE,  Receipt No: 1006-996125 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:49:51 AM Cashier ID: 1006
+
+Customer ID: 102089943 Customer Name: ADU KYERE EVANS Receipt No: 1006-354084 Transaction Amount: 91 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:53:03 AM Cashier ID: 1006
+
+Customer ID: 102117703 Customer Name: SARFO . KWAME Receipt No: 1006-817801 Transaction Amount: 27 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 10:58:26 AM Cashier ID: 1006
+
+Customer ID: 102121335 Customer Name: MARTIN NKETIA Receipt No: 1006-889487 Transaction Amount: 49 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 11:03:03 AM Cashier ID: 1006
+
+Customer ID: 102149102 Customer Name: OFORI . KWAME Receipt No: 1006-733691 Transaction Amount: 134 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:04:56 PM Cashier ID: 1006
+
+Customer ID: 102211801 Customer Name: GRADZYS HENEWAA Receipt No: 1006-591688 Transaction Amount: 70 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:07:18 PM Cashier ID: 1006
+
+Customer ID: 102155210 Customer Name: ODARKO ELIZABETH BORTEY Receipt No: 1006-255716 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:10:58 PM Cashier ID: 1006
+
+Customer ID: 102074293 Customer Name:  SERWAA FELICIA Receipt No: 1006-970480 Transaction Amount: 60 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:13:01 PM Cashier ID: 1006
+
+Customer ID: 102155674 Customer Name: GEORGE ANKAMAH  Receipt No: 1006-23020 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:16:06 PM Cashier ID: 1006
+
+Customer ID: 102115740 Customer Name: OFORI PETER Receipt No: 1006-75413 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:18:33 PM Cashier ID: 1006
+
+Customer ID: 102089308 Customer Name: IBRAAHI  Receipt No: 1006-267135 Transaction Amount: 35 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 1:20:18 PM Cashier ID: 1006
+
+Customer ID: 102049982 Customer Name: AGYEIWAA AUGUSTINA  Receipt No: 1006-615969 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 3:05:44 PM Cashier ID: 1006
+
+Customer ID: 102155201 Customer Name: ABOAGYE THOMAS Receipt No: 1006-797093 Transaction Amount: 72 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 3:06:37 PM Cashier ID: 1006
+
+Customer ID: 102118804 Customer Name:  AGYEIWAA ABENA Receipt No: 1006-807829 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 3:12:24 PM Cashier ID: 1006
+
+Customer ID: 102100278 Customer Name: KUSI BRENYA FRANCIS Receipt No: 1006-96069 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 3:29:19 PM Cashier ID: 1006
+
+Customer ID: 102170733 Customer Name: FAITH MISSION INT. APOSTOLIC Receipt No: 1006-429132 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 5:05:12 PM Cashier ID: 1006
+
+Customer ID: 102089200 Customer Name: KWABENA NICHOLAS YEBOAH Receipt No: 1006-269538 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 5:06:05 PM Cashier ID: 1006
+
+Customer ID: 102121609 Customer Name: KOFI DARTEY Receipt No: 1006-945362 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 5:24:58 PM Cashier ID: 1006
+
+Customer ID: 102192415 Customer Name: AKOMA POKUAA MD Receipt No: 1006-437048 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 5:26:14 PM Cashier ID: 1006
+
+Customer ID: 102009873 Customer Name: KWAKU AGYEI,  Receipt No: 1006-192639 Transaction Amount: 25 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/16/2018 5:51:40 PM Cashier ID: 1006
+

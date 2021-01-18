@@ -1,0 +1,12 @@
+Customer ID: 110166126 Customer Name: NICHOLAS K KOMOR Receipt No: 10002-830920 Transaction Amount: 14 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 4:18:12 PM Cashier ID: 10002
+
+Customer ID: 110138278 Customer Name: K. GEORGE  HAMMOND Receipt No: 10002-92841 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 4:19:15 PM Cashier ID: 10002
+
+Customer ID: 110081814 Customer Name:  TAMEA AKOSUA Receipt No: 10002-444824 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 4:23:58 PM Cashier ID: 10002
+
+Customer ID: 110047125 Customer Name: BUNG.  2 TEACHERS  Receipt No: 10002-209029 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 4:26:40 PM Cashier ID: 10002
+
+Customer ID: 110091336 Customer Name: CHURCH ROMAN  Receipt No: 10002-264946 Transaction Amount: 70 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 4:29:18 PM Cashier ID: 10002
+
+Customer ID: 110080059 Customer Name:  T. BOAMAH ELIZABETH Receipt No: 10002-227461 Transaction Amount: 200 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/27/2018 6:38:28 PM Cashier ID: 10002
+

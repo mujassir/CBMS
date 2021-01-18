@@ -1,0 +1,2 @@
+Customer ID: 101188649 Customer Name: KYEREMEH STEPHEN Receipt No: 1009-3898 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/25/2018 10:50:40 AM Cashier ID: 1009
+

@@ -1,0 +1,6 @@
+Customer ID: 109046759 Customer Name: JOSEPH AKOM  Receipt No: 102002-761572 Transaction Amount: 12 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/21/2018 10:53:18 AM Cashier ID: 102002
+
+Customer ID: 109084060 Customer Name: STEPHEN NKANSAH Receipt No: 102002-600284 Transaction Amount: 500 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/21/2018 12:50:30 PM Cashier ID: 102002
+
+Customer ID: 109093857 Customer Name: MARY BOAKYEWAA,  Receipt No: 102002-903409 Transaction Amount: 96 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/21/2018 12:58:49 PM Cashier ID: 102002
+

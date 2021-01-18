@@ -1,0 +1,54 @@
+Customer ID: 114083521 Customer Name: MENSAH KRAPA DAVID Receipt No: 02022-402156 Transaction Amount: 93 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 8:11:31 AM Cashier ID: 02022
+
+Customer ID: 114010919 Customer Name: GYABAL SAED ABDUL Receipt No: 02022-541184 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 8:23:15 AM Cashier ID: 02022
+
+Customer ID: 114070479 Customer Name: DATCC  Receipt No: 02022-661249 Transaction Amount: 3000 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 8:36:23 AM Cashier ID: 02022
+
+Customer ID: 114213396 Customer Name: KROBEA ASANTE SAMUEL Receipt No: 02022-780813 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 9:20:24 AM Cashier ID: 02022
+
+Customer ID: 114185435 Customer Name: TEGE IBRAHIM Receipt No: 02022-103191 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 9:46:14 AM Cashier ID: 02022
+
+Customer ID: 114075176 Customer Name: ADOWAA AMMA Receipt No: 02022-808351 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 9:47:28 AM Cashier ID: 02022
+
+Customer ID: 114065084 Customer Name: DENNIS ANING Receipt No: 02022-539217 Transaction Amount: 6 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 10:08:21 AM Cashier ID: 02022
+
+Customer ID: 114131098 Customer Name: ADOMA PHILOMINA Receipt No: 02022-390243 Transaction Amount: 87.8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 11:09:36 AM Cashier ID: 02022
+
+Customer ID: 114050604 Customer Name: JOSEPH  ADJEI Receipt No: 02022-148137 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 11:11:48 AM Cashier ID: 02022
+
+Customer ID: 114032054 Customer Name: KOKORE FREDRICK Receipt No: 02022-18450 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 11:58:33 AM Cashier ID: 02022
+
+Customer ID: 114212449 Customer Name: YEBOAH AFIA Receipt No: 02022-550661 Transaction Amount: 30 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:02:15 PM Cashier ID: 02022
+
+Customer ID: 114220052 Customer Name: KOGGAN ABUU NANA Receipt No: 02022-408519 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:03:47 PM Cashier ID: 02022
+
+Customer ID: 114149608 Customer Name: EMMANUEL YEBOAH Receipt No: 02022-132493 Transaction Amount: 144 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:08:50 PM Cashier ID: 02022
+
+Customer ID: 114157557 Customer Name: YAKUBU AMIDU Receipt No: 02022-12724 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:23:24 PM Cashier ID: 02022
+
+Customer ID: 114028857 Customer Name: FRANCIS PHILIMON Receipt No: 02022-500331 Transaction Amount: 54 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 12:29:35 PM Cashier ID: 02022
+
+Customer ID: 114032257 Customer Name: TUAH  SIMON DJAN Receipt No: 02022-645863 Transaction Amount: 6.5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 1:15:28 PM Cashier ID: 02022
+
+Customer ID: 114166567 Customer Name: AMEYAW ERIC Receipt No: 02022-659560 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 1:22:28 PM Cashier ID: 02022
+
+Customer ID: 114131724 Customer Name: KWADWO KUSI ALBERT Receipt No: 02022-358191 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 1:25:38 PM Cashier ID: 02022
+
+Customer ID: 114089594 Customer Name: SAMPSON APPIAH Receipt No: 02022-45284 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 1:46:04 PM Cashier ID: 02022
+
+Customer ID: 114147125 Customer Name: SOMMESA AMINATA Receipt No: 02022-178091 Transaction Amount: 130 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 2:09:30 PM Cashier ID: 02022
+
+Customer ID: 114049844 Customer Name: K. STEPHEN ANANE Receipt No: 02022-195488 Transaction Amount: 21 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 2:18:16 PM Cashier ID: 02022
+
+Customer ID: 114188986 Customer Name: ABUBAKAR AWUDU Receipt No: 02022-68622 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 2:27:09 PM Cashier ID: 02022
+
+Customer ID: 114141686 Customer Name: HELENA OBUOR Receipt No: 02022-719172 Transaction Amount: 12 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 2:52:44 PM Cashier ID: 02022
+
+Customer ID: 114202080 Customer Name: STEPHEN FOSU Receipt No: 02022-654991 Transaction Amount: 7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 3:11:04 PM Cashier ID: 02022
+
+Customer ID: 114216121 Customer Name: ADDO SAMUEL Receipt No: 02022-82748 Transaction Amount: 15 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 3:52:44 PM Cashier ID: 02022
+
+Customer ID: 114092310 Customer Name: MATHIAS KWAME Receipt No: 02022-61002 Transaction Amount: 13 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 3:54:04 PM Cashier ID: 02022
+
+Customer ID: 103125953 Customer Name: ASAMOAH KWAME Receipt No: 02022-93366 Transaction Amount: 14 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/27/2018 3:55:28 PM Cashier ID: 02022
+

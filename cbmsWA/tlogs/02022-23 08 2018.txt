@@ -1,0 +1,8 @@
+Customer ID: 114152070 Customer Name: KRAMO IBRAHIM Receipt No: 02022-609882 Transaction Amount: 6 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 12:50:32 PM Cashier ID: 02022
+
+Customer ID: 114207865 Customer Name: TUAH LYDIA Receipt No: 02022-770864 Transaction Amount: 250 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 2:24:43 PM Cashier ID: 02022
+
+Customer ID: 114081596 Customer Name: KYEREMAA ADWOA Receipt No: 02022-646934 Transaction Amount: 2 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 2:31:07 PM Cashier ID: 02022
+
+Customer ID: 114061799 Customer Name: NDEGO KWAKU Receipt No: 02022-952847 Transaction Amount: 50 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/23/2018 4:18:20 PM Cashier ID: 02022
+

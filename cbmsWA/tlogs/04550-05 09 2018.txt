@@ -1,0 +1,8 @@
+Customer ID: 111038753 Customer Name: Y KUMAH PAUL Receipt No: 04550-420448 Transaction Amount: 251 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/5/2018 12:57:22 PM Cashier ID: 04550
+
+Customer ID: 111167303 Customer Name: DOFO YE NA ABENA Receipt No: 04550-154699 Transaction Amount: 120 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/5/2018 1:01:20 PM Cashier ID: 04550
+
+Customer ID: 111060185 Customer Name: BANDA BINTA Receipt No: 04550-348994 Transaction Amount: 90 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/5/2018 1:02:30 PM Cashier ID: 04550
+
+Customer ID: 111158195 Customer Name: ASARE SAMUEL Receipt No: 04550-257516 Transaction Amount: 52 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/5/2018 1:04:00 PM Cashier ID: 04550
+

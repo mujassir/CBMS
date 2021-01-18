@@ -1,0 +1,2 @@
+Customer ID: 101148637 Customer Name: CHURCH METHODIST Receipt No: 1010015-94256 Transaction Amount: 400 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/6/2018 1:32:17 PM Cashier ID: 1010015
+

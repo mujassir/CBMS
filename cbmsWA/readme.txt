@@ -1,0 +1,1 @@
+open the usercontrols folder and copy paste the files inside to your project user controls folder

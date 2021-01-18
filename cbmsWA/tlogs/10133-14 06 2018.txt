@@ -1,0 +1,14 @@
+Customer ID: 101011155 Customer Name: JAMES OWUSU Receipt No: 10133-845452 Transaction Amount: 80 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 8:53:29 AM Cashier ID: 10133
+
+Customer ID: 101008606 Customer Name: EDU. UNIT METHODIST  Receipt No: 10133-870110 Transaction Amount: 250 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 9:26:37 AM Cashier ID: 10133
+
+Customer ID: 101167229 Customer Name: YAW ASARE NANA Receipt No: 10133-856510 Transaction Amount: 60 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 9:39:50 AM Cashier ID: 10133
+
+Customer ID: 101075749 Customer Name: NARH TETTEH EMMANUEL Receipt No: 10133-199989 Transaction Amount: 80 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 10:45:58 AM Cashier ID: 10133
+
+Customer ID: 101195146 Customer Name: ADINKRAH- APPIAH KWADWO Receipt No: 10133-225962 Transaction Amount: 80 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 12:42:28 PM Cashier ID: 10133
+
+Customer ID: 101159863 Customer Name: ESHU  Receipt No: 10133-935297 Transaction Amount: 23 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 1:58:01 PM Cashier ID: 10133
+
+Customer ID: 101027864 Customer Name: OPOKU AMANKWAH PETER Receipt No: 10133-351644 Transaction Amount: 200 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/14/2018 2:53:17 PM Cashier ID: 10133
+

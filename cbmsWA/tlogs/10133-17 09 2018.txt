@@ -1,0 +1,10 @@
+Customer ID: 101158675 Customer Name: AMANKWAH  ROSINA Receipt No: 10133-289765 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:13:29 AM Cashier ID: 10133
+
+Customer ID: 101097189 Customer Name: ADDAI ADWOA Receipt No: 10133-849416 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:23:00 AM Cashier ID: 10133
+
+Customer ID: 101034938 Customer Name: MARGARET AGYEIWAA  Receipt No: 10133-182350 Transaction Amount: 70 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:01:53 PM Cashier ID: 10133
+
+Customer ID: 101044103 Customer Name: PEPRAH JOSEPHINE  Receipt No: 10133-673185 Transaction Amount: 4 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 12:03:01 PM Cashier ID: 10133
+
+Customer ID: 101213723 Customer Name:  OWUSU GEORGINA Receipt No: 10133-270332 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 1:20:04 PM Cashier ID: 10133
+

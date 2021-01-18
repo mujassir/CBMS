@@ -1,0 +1,10 @@
+Customer ID: 101218625 Customer Name:  BOTWE EMELIA Receipt No: 1010-468577 Transaction Amount: 148 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/23/2018 9:41:42 AM Cashier ID: 1010
+
+Customer ID: 101130621 Customer Name:  BAAFI ANDERSON Receipt No: 1010-439631 Transaction Amount: 38 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/23/2018 9:43:29 AM Cashier ID: 1010
+
+Customer ID: 101052958 Customer Name: FLORENCE APPIAH Receipt No: 1010-612658 Transaction Amount: 140 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/23/2018 9:49:00 AM Cashier ID: 1010
+
+Customer ID: 101121517 Customer Name: NYARKO DANIEL Receipt No: 1010-268107 Transaction Amount: 66 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/23/2018 10:32:34 AM Cashier ID: 1010
+
+Customer ID: 101208090 Customer Name: DWUMFOUR THOMAS  Receipt No: 1010-947108 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/23/2018 1:33:57 PM Cashier ID: 1010
+

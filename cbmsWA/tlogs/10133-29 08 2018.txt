@@ -1,0 +1,8 @@
+Customer ID: 101071996 Customer Name: ADADE KROBEA ASANTE Receipt No: 10133-828121 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 11:06:07 AM Cashier ID: 10133
+
+Customer ID: 101029057 Customer Name: KWASI OWUSU-ACHEAW Receipt No: 10133-642743 Transaction Amount: 60 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 12:42:26 PM Cashier ID: 10133
+
+Customer ID: 101093481 Customer Name: HIGHWAY  AUTHORITY GHANA Receipt No: 10133-940179 Transaction Amount: 30 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 2:04:46 PM Cashier ID: 10133
+
+Customer ID: 101220004 Customer Name: AWUGBINE ELIZABETH Receipt No: 10133-621746 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/29/2018 2:43:05 PM Cashier ID: 10133
+

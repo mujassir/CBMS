@@ -1,0 +1,6 @@
+Customer ID: 110124772 Customer Name: KRAMO AMINA  Receipt No: 10001-559402 Transaction Amount: 20 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/21/2018 3:54:31 PM Cashier ID: 10001
+
+Customer ID: 110163868 Customer Name:  KWAME NKRUMAH Receipt No: 10001-65644 Transaction Amount: 42 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/21/2018 4:26:04 PM Cashier ID: 10001
+
+Customer ID: 110042210 Customer Name:  REGINA EFFA Receipt No: 10001-246512 Transaction Amount: 160 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/21/2018 4:27:56 PM Cashier ID: 10001
+

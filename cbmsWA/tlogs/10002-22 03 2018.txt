@@ -1,0 +1,10 @@
+Customer ID: 110042690 Customer Name: KONADU YAA Transaction Amount: 92 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/22/2018 3:43:51 PM Cashier ID: 10002
+
+Customer ID: 110151539 Customer Name: ADAMS  RAFAT Transaction Amount: 90 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/22/2018 3:47:33 PM Cashier ID: 10002
+
+Customer ID: 110018262 Customer Name: APPIAH GEORGE NYAME Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/22/2018 3:52:38 PM Cashier ID: 10002
+
+Customer ID: 110016934 Customer Name: BEN AMINATA Transaction Amount: 17 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/22/2018 3:54:08 PM Cashier ID: 10002
+
+Customer ID: 110106876 Customer Name: AUGUSTINE GYAMFI Transaction Amount: 250 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/22/2018 3:56:25 PM Cashier ID: 10002
+

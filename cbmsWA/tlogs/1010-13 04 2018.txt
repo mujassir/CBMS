@@ -1,0 +1,20 @@
+Customer ID: 101140655 Customer Name: DOH ERIC Receipt No: 1010-252528 Transaction Amount: 160 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 10:48:23 AM Cashier ID: 1010
+
+Customer ID: 101148889 Customer Name: AMPONSAH J ABABIO,  Receipt No: 1010-470332 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 10:50:44 AM Cashier ID: 1010
+
+Customer ID: 101075748 Customer Name: ADADE VINCENT OBENG Receipt No: 1010-896267 Transaction Amount: 90 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 10:52:49 AM Cashier ID: 1010
+
+Customer ID: 101073488 Customer Name: BISMARK AMOAKO Receipt No: 1010-166779 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 11:31:19 AM Cashier ID: 1010
+
+Customer ID: 101158720 Customer Name: ACHAA CHRISTIANA Receipt No: 1010-575392 Transaction Amount: 102 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 11:47:58 AM Cashier ID: 1010
+
+Customer ID: 101157805 Customer Name: KWADWO SAMUEL KYERE Receipt No: 1010-503604 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 12:08:54 PM Cashier ID: 1010
+
+Customer ID: 101088570 Customer Name: CHURCH OF PENTECOST THE Receipt No: 1010-568271 Transaction Amount: 343 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 2:28:45 PM Cashier ID: 1010
+
+Customer ID: 101029486 Customer Name: YHERBIN JANET BONYENE Receipt No: 1010-206186 Transaction Amount: 170 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 3:41:29 PM Cashier ID: 1010
+
+Customer ID: 101166464 Customer Name: ACHEAW K. OWUSU Receipt No: 1010-425857 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 3:46:50 PM Cashier ID: 1010
+
+Customer ID: 101016817 Customer Name: Manu Stephen Receipt No: 1010-977202 Transaction Amount: 175 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/13/2018 4:02:58 PM Cashier ID: 1010
+

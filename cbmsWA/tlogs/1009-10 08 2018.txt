@@ -1,0 +1,4 @@
+Customer ID: 101162256 Customer Name: D.K. GYAU  Receipt No: 1009-598210 Transaction Amount: 52 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 9:33:12 AM Cashier ID: 1009
+
+Customer ID: 101219971 Customer Name: RAUF ABASS Receipt No: 1009-335723 Transaction Amount: 85 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 12:24:06 PM Cashier ID: 1009
+

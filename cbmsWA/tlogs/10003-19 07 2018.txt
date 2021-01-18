@@ -1,0 +1,24 @@
+Customer ID: 110195169 Customer Name: MANAGER THE Receipt No: 10003-405983 Transaction Amount: 250 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 3:08:34 PM Cashier ID: 10003
+
+Customer ID: 110015782 Customer Name: FORDJOUR ADWOA Receipt No: 10003-466943 Transaction Amount: 8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 3:10:25 PM Cashier ID: 10003
+
+Customer ID: 110063815 Customer Name: TUAH  MAGARET Receipt No: 10003-180167 Transaction Amount: 80 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:16:56 PM Cashier ID: 10003
+
+Customer ID: 110016865 Customer Name:  PATRICK  PHILIP KWAYIE Receipt No: 10003-934033 Transaction Amount: 122 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:18:45 PM Cashier ID: 10003
+
+Customer ID: 110023455 Customer Name: ERNESTINA  ASUAMAH Receipt No: 10003-907101 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:27:35 PM Cashier ID: 10003
+
+Customer ID: 110149705 Customer Name: YEBOAH KWABENA  Receipt No: 10003-363219 Transaction Amount: 123 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:29:48 PM Cashier ID: 10003
+
+Customer ID: 110125489 Customer Name: STEPHEN BADU Receipt No: 10003-472283 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:33:58 PM Cashier ID: 10003
+
+Customer ID: 110058563 Customer Name: CLINIC ADAMSU Receipt No: 10003-200514 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 4:59:34 PM Cashier ID: 10003
+
+Customer ID: 110009133 Customer Name: BONNA ANSU  Receipt No: 10003-545831 Transaction Amount: 70 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 5:14:10 PM Cashier ID: 10003
+
+Customer ID: 110174066 Customer Name: CHRISTIANA ATTAA Receipt No: 10003-152968 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 5:15:49 PM Cashier ID: 10003
+
+Customer ID: 110029937 Customer Name: JONES KYEREMEH Receipt No: 10003-687596 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 5:18:47 PM Cashier ID: 10003
+
+Customer ID: 110063708 Customer Name: EMMANUEL KYEI Receipt No: 10003-913443 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/19/2018 5:32:13 PM Cashier ID: 10003
+

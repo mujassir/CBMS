@@ -1,0 +1,24 @@
+Customer ID: 110007180 Customer Name: KOFI BEDIAKO Receipt No: 10003-512877 Transaction Amount: 7 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:16:36 PM Cashier ID: 10003
+
+Customer ID: 110168635 Customer Name: EMMANUEL APPIAH Receipt No: 10003-904946 Transaction Amount: 125 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:18:14 PM Cashier ID: 10003
+
+Customer ID: 110170834 Customer Name: YEBOAH ASUAMA ROBERT  Receipt No: 10003-256271 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:21:50 PM Cashier ID: 10003
+
+Customer ID: 110210275 Customer Name: BOAKYE G. KOJO Receipt No: 10003-613690 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:26:57 PM Cashier ID: 10003
+
+Customer ID: 110162107 Customer Name: KWADWO TAKYI Receipt No: 10003-847933 Transaction Amount: 84 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:28:28 PM Cashier ID: 10003
+
+Customer ID: 110047836 Customer Name: GYAMFI ADJEI Receipt No: 10003-464253 Transaction Amount: 44 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:30:14 PM Cashier ID: 10003
+
+Customer ID: 110157746 Customer Name: STEPHEN NKETIA  Receipt No: 10003-278216 Transaction Amount: 105 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 3:52:23 PM Cashier ID: 10003
+
+Customer ID: 110091008 Customer Name:  KESSE AFIA Receipt No: 10003-353804 Transaction Amount: 130 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 4:20:12 PM Cashier ID: 10003
+
+Customer ID: 110156543 Customer Name: MAVIS ADUBIA Receipt No: 10003-11045 Transaction Amount: 43 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 4:35:54 PM Cashier ID: 10003
+
+Customer ID: 110190000 Customer Name: TAKYI ROBERT ANKAMAH Receipt No: 10003-957973 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 4:41:02 PM Cashier ID: 10003
+
+Customer ID: 110093644 Customer Name: YAW ASUOKO Receipt No: 10003-561642 Transaction Amount: 170.2 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 5:20:49 PM Cashier ID: 10003
+
+Customer ID: 110173055 Customer Name: AUGUSTINA ANKAMAH Receipt No: 10003-83897 Transaction Amount: 16 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 5:35:03 PM Cashier ID: 10003
+

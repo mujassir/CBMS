@@ -1,0 +1,46 @@
+Customer ID: 114014126 Customer Name: BAAH KWADWO Receipt No: 02021-313139 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 8:22:53 AM Cashier ID: 02021
+
+Customer ID: 114157397 Customer Name: OWUSU ERNEST Receipt No: 02021-663426 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 8:24:44 AM Cashier ID: 02021
+
+Customer ID: 114222362 Customer Name: BUSANGO YAKUBU Receipt No: 02021-238941 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 9:14:07 AM Cashier ID: 02021
+
+Customer ID: 114047615 Customer Name: KOFI MENSAH Receipt No: 02021-129522 Transaction Amount: 650 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 9:44:55 AM Cashier ID: 02021
+
+Customer ID: 114047615 Customer Name: KOFI MENSAH Receipt No: 02021-978549 Transaction Amount: 6 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 9:49:40 AM Cashier ID: 02021
+
+Customer ID: 114222070 Customer Name: FRANCIS  DONKOR Receipt No: 02021-81018 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 9:52:30 AM Cashier ID: 02021
+
+Customer ID: 114200900 Customer Name: OWUSU KWAME ERNEST Receipt No: 02021-539211 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 10:09:09 AM Cashier ID: 02021
+
+Customer ID: 114222274 Customer Name: SHARIFA DAUDA Receipt No: 02021-680598 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:15:35 PM Cashier ID: 02021
+
+Customer ID: 114021247 Customer Name: DONKOR KINGSLEY Receipt No: 02021-693353 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:21:26 PM Cashier ID: 02021
+
+Customer ID: 114021247 Customer Name: DONKOR KINGSLEY Receipt No: 02021-458737 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:22:30 PM Cashier ID: 02021
+
+Customer ID: 114021247 Customer Name: DONKOR KINGSLEY Receipt No: 02021-497086 Transaction Amount: 67 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:23:58 PM Cashier ID: 02021
+
+Customer ID: 114021247 Customer Name: DONKOR KINGSLEY Receipt No: 02021-60682 Transaction Amount: 27 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:25:38 PM Cashier ID: 02021
+
+Customer ID: 114196067 Customer Name: MACHARTHY TETTEH Receipt No: 02021-744897 Transaction Amount: 43 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:41:39 PM Cashier ID: 02021
+
+Customer ID: 114119051 Customer Name: ENNING GLADYS Receipt No: 02021-521942 Transaction Amount: 15 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 12:53:38 PM Cashier ID: 02021
+
+Customer ID: 114027496 Customer Name: AKYEA ADWOA Receipt No: 02021-876480 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 2:17:38 PM Cashier ID: 02021
+
+Customer ID: 114109816 Customer Name: ASARE KWAKU Receipt No: 02021-187867 Transaction Amount: 58 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 2:20:42 PM Cashier ID: 02021
+
+Customer ID: 114194458 Customer Name: GYABEA GLADYS Receipt No: 02021-224628 Transaction Amount: 64 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 2:23:53 PM Cashier ID: 02021
+
+Customer ID: 114207312 Customer Name: ACHIAW STEPHEN KUMI Receipt No: 02021-599154 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 2:36:52 PM Cashier ID: 02021
+
+Customer ID: 114080839 Customer Name: ROCKSON NYAAKOWAA Receipt No: 02021-820507 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 2:55:37 PM Cashier ID: 02021
+
+Customer ID: 114177078 Customer Name: MISSION PENTECOST Receipt No: 02021-613345 Transaction Amount: 280 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 3:03:19 PM Cashier ID: 02021
+
+Customer ID: 114006552 Customer Name: EMMANUEL ABOGODAGO Receipt No: 02021-449422 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 3:09:03 PM Cashier ID: 02021
+
+Customer ID: 114080839 Customer Name: ROCKSON NYAAKOWAA Receipt No: 02021-738047 Transaction Amount: 4 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 3:15:55 PM Cashier ID: 02021
+
+Customer ID: 114203489 Customer Name: LOBI NANA Receipt No: 02021-432656 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/12/2018 3:24:08 PM Cashier ID: 02021
+

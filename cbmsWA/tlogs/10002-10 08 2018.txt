@@ -1,0 +1,10 @@
+Customer ID: 110014402 Customer Name: GRACE MARFO Receipt No: 10002-366307 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 3:18:43 PM Cashier ID: 10002
+
+Customer ID: 110085610 Customer Name: AMMED ADAM Receipt No: 10002-581240 Transaction Amount: 17 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 3:26:53 PM Cashier ID: 10002
+
+Customer ID: 110114930 Customer Name: AMA ADINKRA Receipt No: 10002-385614 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 3:30:54 PM Cashier ID: 10002
+
+Customer ID: 110073450 Customer Name: JOSEPH BENNEH  Receipt No: 10002-350984 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 3:35:43 PM Cashier ID: 10002
+
+Customer ID: 110102045 Customer Name: SARAH AZUUREH Receipt No: 10002-301469 Transaction Amount: 16 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/10/2018 3:40:50 PM Cashier ID: 10002
+

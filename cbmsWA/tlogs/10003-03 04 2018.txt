@@ -1,0 +1,24 @@
+Customer ID: 110068181 Customer Name: PASTOR THE  Receipt No: 10003-374651 Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:15:53 PM Cashier ID: 10003
+
+Customer ID: 110152821 Customer Name: JAMES OWUSU REV Receipt No: 10003-565993 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:17:12 PM Cashier ID: 10003
+
+Customer ID: 110075318 Customer Name: ASUAMA YEBOAH Receipt No: 10003-353079 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:31:38 PM Cashier ID: 10003
+
+Customer ID: 110027749 Customer Name: DANIEL BADU Receipt No: 10003-705869 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:36:02 PM Cashier ID: 10003
+
+Customer ID: 110193394 Customer Name: RICHARD OSEI Receipt No: 10003-630861 Transaction Amount: 80 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:37:05 PM Cashier ID: 10003
+
+Customer ID: 110051915 Customer Name: ANSU ADAMA Receipt No: 10003-56546 Transaction Amount: 7.5 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:48:16 PM Cashier ID: 10003
+
+Customer ID: 110000173 Customer Name: NSIAH ELIZABETH  Receipt No: 10003-441445 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 4:51:48 PM Cashier ID: 10003
+
+Customer ID: 110119160 Customer Name: AUGUSTIN  Receipt No: 10003-687921 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 5:03:44 PM Cashier ID: 10003
+
+Customer ID: 110049278 Customer Name: KORANTENG JOE Receipt No: 10003-628136 Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 5:41:11 PM Cashier ID: 10003
+
+Customer ID: 110189263 Customer Name: OSEI ALFRED Receipt No: 10003-26180 Transaction Amount: 62 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 5:49:37 PM Cashier ID: 10003
+
+Customer ID: 110106247 Customer Name: BOAMAA YAA Receipt No: 10003-136559 Transaction Amount: 92 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 6:00:47 PM Cashier ID: 10003
+
+Customer ID: 110086960 Customer Name: BERNARD SAKYI Receipt No: 10003-858758 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/3/2018 6:07:35 PM Cashier ID: 10003
+

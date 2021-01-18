@@ -1,0 +1,4 @@
+Customer ID: 114047884 Customer Name: DORA ASNATEWAA Receipt No: 02021-332990 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 8:15:42 AM Cashier ID: 02021
+
+Customer ID: 114050223 Customer Name: JOYCE BOATEMAA Receipt No: 02021-87418 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/5/2018 8:46:55 AM Cashier ID: 02021
+

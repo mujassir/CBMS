@@ -1,0 +1,16 @@
+Customer ID: 101034826 Customer Name: SETH AMOAH Receipt No: 1010-535859 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 9:43:38 AM Cashier ID: 1010
+
+Customer ID: 101042132 Customer Name: GYAMFI ISAAC MR.&MRS. Receipt No: 1010-28534 Transaction Amount: 107 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 10:18:13 AM Cashier ID: 1010
+
+Customer ID: 101085429 Customer Name: THOMAS AMOAH  Receipt No: 1010-837120 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 11:27:15 AM Cashier ID: 1010
+
+Customer ID: 101168415 Customer Name: JOSEPHINE NTOW Receipt No: 1010-777034 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 11:48:04 AM Cashier ID: 1010
+
+Customer ID: 101007345 Customer Name: A. ACHEAMPONG KWADWO Receipt No: 1010-546905 Transaction Amount: 31 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 12:19:01 PM Cashier ID: 1010
+
+Customer ID: 101005268 Customer Name: SEKYERE EBENEZER Receipt No: 1010-325349 Transaction Amount: 118 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 2:57:56 PM Cashier ID: 1010
+
+Customer ID: 101104021 Customer Name: KWAME ANTWI AUGUSTINE Receipt No: 1010-986578 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 4:23:47 PM Cashier ID: 1010
+
+Customer ID: 101051987 Customer Name: TRINITY FAITH CHAPEL HOLY Receipt No: 1010-98295 Transaction Amount: 80 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/12/2018 4:24:54 PM Cashier ID: 1010
+

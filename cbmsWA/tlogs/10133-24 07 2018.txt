@@ -1,0 +1,6 @@
+Customer ID: 101015744 Customer Name: APENTENG MR. Receipt No: 10133-111872 Transaction Amount: 130 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/24/2018 11:47:16 AM Cashier ID: 10133
+
+Customer ID: 101182470 Customer Name: OPPONG KYERAA REBECCA Receipt No: 10133-160174 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/24/2018 12:30:53 PM Cashier ID: 10133
+
+Customer ID: 101213003 Customer Name: JAMESH YEBOAH Receipt No: 10133-356886 Transaction Amount: 5 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/24/2018 4:12:45 PM Cashier ID: 10133
+

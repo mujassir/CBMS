@@ -1,0 +1,2356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="ForexModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="AccessRules">
+          <Key>
+            <PropertyRef Name="AccessRuleId" />
+          </Key>
+          <Property Name="AccessRuleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AccessRuleName" Type="nvarchar" MaxLength="80" />
+        </EntityType>
+        <EntityType Name="Applications">
+          <Key>
+            <PropertyRef Name="ApplicationId" />
+          </Key>
+          <Property Name="ApplicationId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ApplicationName" Type="nvarchar" MaxLength="235" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="256" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.Appointments' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="Appointments">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Subject" />
+            <PropertyRef Name="Start" />
+            <PropertyRef Name="End" />
+          </Key>
+          <Property Name="ID" Type="int" Nullable="false" />
+          <Property Name="Subject" Type="nvarchar" MaxLength="255" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="1024" />
+          <Property Name="Start" Type="datetime" Nullable="false" />
+          <Property Name="End" Type="datetime" Nullable="false" />
+          <Property Name="RecurrenceRule" Type="nvarchar" MaxLength="1024" />
+          <Property Name="RecurrenceParentID" Type="int" />
+          <Property Name="Reminder" Type="nvarchar" MaxLength="255" />
+          <Property Name="Annotations" Type="nvarchar" MaxLength="50" />
+          <Property Name="UserID" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Area">
+          <Key>
+            <PropertyRef Name="AreaID" />
+          </Key>
+          <Property Name="AreaID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="AreaName" Type="nvarchar" MaxLength="50" />
+          <Property Name="EntryBy" Type="varchar" MaxLength="50" />
+          <Property Name="EntryDate" Type="datetime" />
+          <Property Name="AreaAddress" Type="nvarchar" MaxLength="50" />
+          <Property Name="AreaTelNo" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="AuditLog">
+          <Key>
+            <PropertyRef Name="AuditId" />
+          </Key>
+          <Property Name="AuditId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="80" />
+          <Property Name="Action" Type="nvarchar" MaxLength="150" />
+          <Property Name="ActionDate" Type="datetime" Nullable="false" />
+          <Property Name="StationID" Type="int" />
+          <Property Name="AreaID" Type="int" />
+        </EntityType>
+        <EntityType Name="BOGStockPosition">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="Details" Type="nvarchar" MaxLength="50" />
+          <Property Name="DetailsB" Type="nvarchar" MaxLength="50" />
+          <Property Name="GBP" Type="float" />
+          <Property Name="USD" Type="float" />
+          <Property Name="EUR" Type="float" />
+          <Property Name="CAD" Type="float" />
+          <Property Name="CHF" Type="float" />
+          <Property Name="XOF" Type="float" />
+          <Property Name="JPY" Type="float" />
+          <Property Name="ZAR" Type="float" />
+          <Property Name="NGN" Type="float" />
+          <Property Name="CNY" Type="float" />
+          <Property Name="ORDERBY" Type="int" Nullable="false" />
+          <Property Name="CompanyID" Type="int" />
+          <Property Name="StartDate" Type="date" />
+          <Property Name="EndDate" Type="date" />
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Bureaus">
+          <Key>
+            <PropertyRef Name="BureauID" />
+          </Key>
+          <Property Name="BureauID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CompanyID" Type="int" Nullable="false" />
+          <Property Name="AreaID" Type="int" Nullable="false" />
+          <Property Name="Location" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TelNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="GHS" Type="float" />
+          <Property Name="GBP" Type="float" />
+          <Property Name="USD" Type="float" />
+          <Property Name="CAD" Type="float" />
+          <Property Name="NGN" Type="float" />
+          <Property Name="CHF" Type="float" />
+          <Property Name="XOF" Type="float" />
+          <Property Name="JPY" Type="float" />
+          <Property Name="ZAR" Type="float" />
+          <Property Name="CNY" Type="float" />
+          <Property Name="EUR" Type="float" />
+          <Property Name="AUD" Type="float" />
+          <Property Name="WAU" Type="float" />
+          <Property Name="SEK" Type="float" />
+          <Property Name="GMD" Type="float" />
+        </EntityType>
+        <EntityType Name="Company">
+          <Key>
+            <PropertyRef Name="CompanyID" />
+          </Key>
+          <Property Name="CompanyID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CompanyName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="LicenceNo" Type="int" />
+          <Property Name="AreaID" Type="int" Nullable="false" />
+          <Property Name="Phonenumber" Type="nvarchar" MaxLength="50" />
+          <Property Name="DateofEntry" Type="date" />
+        </EntityType>
+        <EntityType Name="Currency">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+          </Key>
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Discription" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Departments">
+          <Key>
+            <PropertyRef Name="DepartmentId" />
+          </Key>
+          <Property Name="DepartmentId" Type="int" Nullable="false" />
+          <Property Name="DepartmentName" Type="nvarchar" MaxLength="80" />
+        </EntityType>
+        <EntityType Name="Employees">
+          <Key>
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="Username" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Name" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Password" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Gender" Type="nchar" MaxLength="10" />
+          <Property Name="AppointmentDate" Type="date" Nullable="false" />
+          <Property Name="Rank" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="EmployeeType" Type="nchar" MaxLength="50" Nullable="false" />
+          <Property Name="StatusCode" Type="nchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="IdentityType">
+          <Key>
+            <PropertyRef Name="IdentityID" />
+          </Key>
+          <Property Name="IdentityID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Profiles">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="PropertyNames" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="PropertyValueStrings" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="PropertyValueBinary" Type="varbinary(max)" Nullable="false" />
+          <Property Name="LastUpdatedDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Purchases">
+          <Key>
+            <PropertyRef Name="ReceiptNo" />
+          </Key>
+          <Property Name="ReceiptNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Amount" Type="float" Nullable="false" />
+          <Property Name="PurchaseRate" Type="float" Nullable="false" />
+          <Property Name="CediEquivalent" Type="float" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="DTime" Type="datetime" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SurName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Gender" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="CustAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TransactionType" Type="int" Nullable="false" />
+          <Property Name="Physical" Type="nvarchar" MaxLength="10" />
+          <Property Name="Region" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Nationality" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="IdentityType" Type="int" Nullable="false" />
+          <Property Name="IdentityNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TinNumber" Type="nvarchar" MaxLength="50" />
+          <Property Name="Deleted" Type="tinyint" />
+          <Property Name="PreviousName" Type="nvarchar" MaxLength="50" />
+          <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+          <Property Name="DOBirth" Type="date" />
+          <Property Name="CompanyID" Type="int" Nullable="false" />
+          <Property Name="BureauID" Type="int" Nullable="false" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Rank">
+          <Key>
+            <PropertyRef Name="RankId" />
+          </Key>
+          <Property Name="RankId" Type="int" Nullable="false" />
+          <Property Name="RankName" Type="nvarchar" MaxLength="70" />
+        </EntityType>
+        <EntityType Name="Ranks">
+          <Key>
+            <PropertyRef Name="RankId" />
+          </Key>
+          <Property Name="RankId" Type="int" Nullable="false" />
+          <Property Name="Discription" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Roles">
+          <Key>
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="ApplicationId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RoleId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RoleName" Type="nvarchar" MaxLength="256" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="256" />
+        </EntityType>
+        <EntityType Name="RulesInGroups">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupId" Type="int" Nullable="false" />
+          <Property Name="AccessRuleId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Sales">
+          <Key>
+            <PropertyRef Name="Receiptno" />
+          </Key>
+          <Property Name="Receiptno" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Amount" Type="float" Nullable="false" />
+          <Property Name="Rate" Type="float" Nullable="false" />
+          <Property Name="FirstName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="SurName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="CediEquivalent" Type="float" Nullable="false" />
+          <Property Name="Gender" Type="nvarchar" MaxLength="10" Nullable="false" />
+          <Property Name="Address" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="TransactionType" Type="int" Nullable="false" />
+          <Property Name="Region" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Nationality" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="IdentityType" Type="int" Nullable="false" />
+          <Property Name="Physical" Type="nvarchar" MaxLength="10" />
+          <Property Name="IdentityNo" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" />
+          <Property Name="DTime" Type="datetime" Nullable="false" />
+          <Property Name="Deleted" Type="tinyint" />
+          <Property Name="PreviousName" Type="nvarchar" MaxLength="50" />
+          <Property Name="MiddleName" Type="nvarchar" MaxLength="50" />
+          <Property Name="DOBirth" Type="date" />
+          <Property Name="CompanyID" Type="int" Nullable="false" />
+          <Property Name="BureauID" Type="int" />
+          <Property Name="TinNumber" Type="nvarchar" MaxLength="50" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Station">
+          <Key>
+            <PropertyRef Name="StationID" />
+          </Key>
+          <Property Name="StationID" Type="int" Nullable="false" />
+          <Property Name="StationName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="AreaID" Type="int" Nullable="false" />
+          <Property Name="StationTelNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="CostCentre" Type="nchar" MaxLength="10" />
+          <Property Name="Location" Type="nvarchar" MaxLength="50" />
+          <Property Name="CreditCode" Type="nchar" MaxLength="10" />
+          <Property Name="GovtCredit" Type="nchar" MaxLength="10" />
+          <Property Name="StationAddress" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Stock">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="bigint" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="ReceiptNo" Type="nvarchar" MaxLength="50" />
+          <Property Name="CurrencyID" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="Amount" Type="float" Nullable="false" />
+          <Property Name="CediEquivalent" Type="float" />
+          <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Deleted" Type="tinyint" />
+          <Property Name="Rate" Type="float" />
+          <Property Name="TransType" Type="int" Nullable="false" />
+          <Property Name="BureauID" Type="int" />
+          <Property Name="DTime" Type="datetime" />
+          <Property Name="CompanyID" Type="int" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="TransType">
+          <Key>
+            <PropertyRef Name="TransTypeID" />
+          </Key>
+          <Property Name="TransTypeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Description" Type="nvarchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UserDetails">
+          <Key>
+            <PropertyRef Name="UserName" />
+          </Key>
+          <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="EmployeeName" Type="nvarchar" MaxLength="80" />
+          <Property Name="AreaID" Type="int" />
+          <Property Name="StationID" Type="int" />
+          <Property Name="DepartmentId" Type="int" />
+          <Property Name="EntryBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="EntryDate" Type="datetime" />
+          <Property Name="Position" Type="varchar" MaxLength="150" />
+          <Property Name="Remark" Type="varchar" MaxLength="150" />
+          <Property Name="BureauID" Type="int" />
+        </EntityType>
+        <EntityType Name="UserGroups">
+          <Key>
+            <PropertyRef Name="GroupId" />
+          </Key>
+          <Property Name="GroupId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="GroupName" Type="nvarchar" MaxLength="80" />
+          <Property Name="EntryBy" Type="nvarchar" MaxLength="50" />
+          <Property Name="EntryDate" Type="datetime" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="ApplicationId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="IsAnonymous" Type="bit" Nullable="false" />
+          <Property Name="LastActivityDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="UsersInRoles">
+          <Key>
+            <PropertyRef Name="UserId" />
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="UserId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RoleId" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.VatTable' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="VatTable">
+          <Key>
+            <PropertyRef Name="VatRate" />
+            <PropertyRef Name="Active" />
+          </Key>
+          <Property Name="VatRate" Type="numeric" Precision="18" Scale="5" Nullable="false" />
+          <Property Name="Vat" Type="numeric" Precision="18" Scale="3" />
+          <Property Name="NHIS" Type="numeric" Precision="18" Scale="3" />
+          <Property Name="GETFund" Type="numeric" Precision="18" Scale="3" />
+          <Property Name="Active" Type="nchar" MaxLength="1" Nullable="false" />
+          <Property Name="UserId" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.WEEKLYDATES' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="WEEKLYDATES">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="DATED" />
+            <PropertyRef Name="Active" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="DATED" Type="date" Nullable="false" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" Nullable="false" />
+          <Property Name="Days" Type="int" />
+        </EntityType>
+        <EntityType Name="WeeklyRates">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CurrencyID" Type="char" MaxLength="3" />
+          <Property Name="BuyMon" Type="float" Nullable="false" />
+          <Property Name="SellMon" Type="float" Nullable="false" />
+          <Property Name="BuyTue" Type="float" Nullable="false" />
+          <Property Name="SellTue" Type="float" Nullable="false" />
+          <Property Name="BuyWed" Type="float" Nullable="false" />
+          <Property Name="SellWed" Type="float" Nullable="false" />
+          <Property Name="BuyThu" Type="float" />
+          <Property Name="SellThu" Type="float" Nullable="false" />
+          <Property Name="BuyFri" Type="float" Nullable="false" />
+          <Property Name="SellFri" Type="float" Nullable="false" />
+          <Property Name="BuySat" Type="float" Nullable="false" />
+          <Property Name="SellSat" Type="float" Nullable="false" />
+          <Property Name="BuySun" Type="float" Nullable="false" />
+          <Property Name="SellSun" Type="float" />
+          <Property Name="ORDERSEQ" Type="int" />
+          <Property Name="CompanyID" Type="int" />
+          <Property Name="StartDate" Type="date" />
+          <Property Name="EndDate" Type="date" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.BOGPucRates' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="BOGPucRates">
+          <Key>
+            <PropertyRef Name="PurchaseRate" />
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="CompanyID" />
+            <PropertyRef Name="BureauID" />
+          </Key>
+          <Property Name="PurchaseRate" Type="float" Nullable="false" />
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="CompanyID" Type="int" Nullable="false" />
+          <Property Name="BureauID" Type="int" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.BOGSalesRate' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="BOGSalesRate">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Rate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="CompanyID" />
+          </Key>
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Rate" Type="float" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="CompanyID" Type="int" Nullable="false" />
+          <Property Name="BureauID" Type="int" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.PurchasesDTime' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="PurchasesDTime">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="PurchaseRate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="DTime" />
+          </Key>
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="PurchaseRate" Type="float" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="DTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.qryopenningBal' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="qryopenningBal">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+            <PropertyRef Name="Dated" />
+          </Key>
+          <Property Name="CurrencyID" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="Openningbalance" Type="float" />
+          <Property Name="CompanyID" Type="int" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.SalesDTime' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="SalesDTime">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Rate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="DTime" />
+          </Key>
+          <Property Name="CurrencyId" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="Rate" Type="float" Nullable="false" />
+          <Property Name="Dated" Type="date" Nullable="false" />
+          <Property Name="DTime" Type="datetime" Nullable="false" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.StockPurSum' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="StockPurSum">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+          </Key>
+          <Property Name="CurrencyID" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="SumPurhases" Type="float" />
+          <Property Name="CompanyID" Type="int" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'Forex.dbo.StockSaleSum' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="StockSaleSum">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+          </Key>
+          <Property Name="CurrencyID" Type="char" MaxLength="3" Nullable="false" />
+          <Property Name="SumSales" Type="float" />
+          <Property Name="CompanyID" Type="int" />
+          <Property Name="Active" Type="nvarchar" MaxLength="50" />
+        </EntityType>
+        <Association Name="FK_AuditLog_Area">
+          <End Role="Area" Type="Self.Area" Multiplicity="0..1" />
+          <End Role="AuditLog" Type="Self.AuditLog" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="AuditLog">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Bureaus_Bureaus">
+          <End Role="Area" Type="Self.Area" Multiplicity="1" />
+          <End Role="Bureaus" Type="Self.Bureaus" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="Bureaus">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Bureaus_Company">
+          <End Role="Company" Type="Self.Company" Multiplicity="1" />
+          <End Role="Bureaus" Type="Self.Bureaus" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Bureaus">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Company_Area">
+          <End Role="Area" Type="Self.Area" Multiplicity="1" />
+          <End Role="Company" Type="Self.Company" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="Company">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Profiles_Users">
+          <End Role="Users" Type="Self.Users" Multiplicity="1" />
+          <End Role="Profiles" Type="Self.Profiles" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="Profiles">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Purchases_Bureaus">
+          <End Role="Bureaus" Type="Self.Bureaus" Multiplicity="1" />
+          <End Role="Purchases" Type="Self.Purchases" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureaus">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="Purchases">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Purchases_Company">
+          <End Role="Company" Type="Self.Company" Multiplicity="1" />
+          <End Role="Purchases" Type="Self.Purchases" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Purchases">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Purchases_IdentityType">
+          <End Role="IdentityType" Type="Self.IdentityType" Multiplicity="1" />
+          <End Role="Purchases" Type="Self.Purchases" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IdentityType">
+              <PropertyRef Name="IdentityID" />
+            </Principal>
+            <Dependent Role="Purchases">
+              <PropertyRef Name="IdentityType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Rank_Rank">
+          <End Role="Rank" Type="Self.Rank" Multiplicity="1" />
+          <End Role="Rank1" Type="Self.Rank" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Rank">
+              <PropertyRef Name="RankId" />
+            </Principal>
+            <Dependent Role="Rank1">
+              <PropertyRef Name="RankId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ranks_Ranks">
+          <End Role="Ranks" Type="Self.Ranks" Multiplicity="1" />
+          <End Role="Ranks1" Type="Self.Ranks" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Ranks">
+              <PropertyRef Name="RankId" />
+            </Principal>
+            <Dependent Role="Ranks1">
+              <PropertyRef Name="RankId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Roles_Applications">
+          <End Role="Applications" Type="Self.Applications" Multiplicity="1" />
+          <End Role="Roles" Type="Self.Roles" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationId" />
+            </Principal>
+            <Dependent Role="Roles">
+              <PropertyRef Name="ApplicationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Sales_Company">
+          <End Role="Company" Type="Self.Company" Multiplicity="1" />
+          <End Role="Sales" Type="Self.Sales" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Sales">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Sales_IdentityType">
+          <End Role="IdentityType" Type="Self.IdentityType" Multiplicity="1" />
+          <End Role="Sales" Type="Self.Sales" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IdentityType">
+              <PropertyRef Name="IdentityID" />
+            </Principal>
+            <Dependent Role="Sales">
+              <PropertyRef Name="IdentityType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_Bureaus">
+          <End Role="Bureaus" Type="Self.Bureaus" Multiplicity="0..1" />
+          <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureaus">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_Company">
+          <End Role="Company" Type="Self.Company" Multiplicity="0..1" />
+          <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_TransType">
+          <End Role="TransType" Type="Self.TransType" Multiplicity="1" />
+          <End Role="Stock" Type="Self.Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransType">
+              <PropertyRef Name="TransTypeID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="TransType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Area">
+          <End Role="Area" Type="Self.Area" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Bureaus">
+          <End Role="Bureaus" Type="Self.Bureaus" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureaus">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Departments">
+          <End Role="Departments" Type="Self.Departments" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departments">
+              <PropertyRef Name="DepartmentId" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Station">
+          <End Role="Station" Type="Self.Station" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetails" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Station">
+              <PropertyRef Name="StationID" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="StationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Users_Applications">
+          <End Role="Applications" Type="Self.Applications" Multiplicity="1" />
+          <End Role="Users" Type="Self.Users" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationId" />
+            </Principal>
+            <Dependent Role="Users">
+              <PropertyRef Name="ApplicationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersInRoles_Roles">
+          <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+          <End Role="UsersInRoles" Type="Self.UsersInRoles" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Roles">
+              <PropertyRef Name="RoleId" />
+            </Principal>
+            <Dependent Role="UsersInRoles">
+              <PropertyRef Name="RoleId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UsersInRoles_Users">
+          <End Role="Users" Type="Self.Users" Multiplicity="1" />
+          <End Role="UsersInRoles" Type="Self.UsersInRoles" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="UsersInRoles">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="ForexModelStoreContainer">
+          <EntitySet Name="AccessRules" EntityType="Self.AccessRules" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Applications" EntityType="Self.Applications" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Area" EntityType="Self.Area" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="AuditLog" EntityType="Self.AuditLog" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="BOGStockPosition" EntityType="Self.BOGStockPosition" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Bureaus" EntityType="Self.Bureaus" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Company" EntityType="Self.Company" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Currency" EntityType="Self.Currency" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Departments" EntityType="Self.Departments" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="IdentityType" EntityType="Self.IdentityType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Profiles" EntityType="Self.Profiles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Purchases" EntityType="Self.Purchases" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Rank" EntityType="Self.Rank" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Ranks" EntityType="Self.Ranks" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Roles" EntityType="Self.Roles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="RulesInGroups" EntityType="Self.RulesInGroups" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Sales" EntityType="Self.Sales" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Station" EntityType="Self.Station" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Stock" EntityType="Self.Stock" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="TransType" EntityType="Self.TransType" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserDetails" EntityType="Self.UserDetails" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UserGroups" EntityType="Self.UserGroups" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UsersInRoles" EntityType="Self.UsersInRoles" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="WeeklyRates" EntityType="Self.WeeklyRates" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Appointments" EntityType="Self.Appointments" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [Appointments].[ID] AS [ID], 
+    [Appointments].[Subject] AS [Subject], 
+    [Appointments].[Description] AS [Description], 
+    [Appointments].[Start] AS [Start], 
+    [Appointments].[End] AS [End], 
+    [Appointments].[RecurrenceRule] AS [RecurrenceRule], 
+    [Appointments].[RecurrenceParentID] AS [RecurrenceParentID], 
+    [Appointments].[Reminder] AS [Reminder], 
+    [Appointments].[Annotations] AS [Annotations], 
+    [Appointments].[UserID] AS [UserID]
+    FROM [dbo].[Appointments] AS [Appointments]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="VatTable" EntityType="Self.VatTable" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [VatTable].[VatRate] AS [VatRate], 
+    [VatTable].[Vat] AS [Vat], 
+    [VatTable].[NHIS] AS [NHIS], 
+    [VatTable].[GETFund] AS [GETFund], 
+    [VatTable].[Active] AS [Active], 
+    [VatTable].[UserId] AS [UserId]
+    FROM [dbo].[VatTable] AS [VatTable]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="WEEKLYDATES" EntityType="Self.WEEKLYDATES" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [WEEKLYDATES].[ID] AS [ID], 
+    [WEEKLYDATES].[DATED] AS [DATED], 
+    [WEEKLYDATES].[Active] AS [Active], 
+    [WEEKLYDATES].[Days] AS [Days]
+    FROM [dbo].[WEEKLYDATES] AS [WEEKLYDATES]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="BOGPucRates" EntityType="Self.BOGPucRates" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [BOGPucRates].[PurchaseRate] AS [PurchaseRate], 
+    [BOGPucRates].[CurrencyId] AS [CurrencyId], 
+    [BOGPucRates].[Dated] AS [Dated], 
+    [BOGPucRates].[CompanyID] AS [CompanyID], 
+    [BOGPucRates].[BureauID] AS [BureauID]
+    FROM [dbo].[BOGPucRates] AS [BOGPucRates]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="BOGSalesRate" EntityType="Self.BOGSalesRate" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [BOGSalesRate].[CurrencyId] AS [CurrencyId], 
+    [BOGSalesRate].[Rate] AS [Rate], 
+    [BOGSalesRate].[Dated] AS [Dated], 
+    [BOGSalesRate].[CompanyID] AS [CompanyID], 
+    [BOGSalesRate].[BureauID] AS [BureauID]
+    FROM [dbo].[BOGSalesRate] AS [BOGSalesRate]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="PurchasesDTime" EntityType="Self.PurchasesDTime" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [PurchasesDTime].[CurrencyId] AS [CurrencyId], 
+    [PurchasesDTime].[PurchaseRate] AS [PurchaseRate], 
+    [PurchasesDTime].[Dated] AS [Dated], 
+    [PurchasesDTime].[DTime] AS [DTime]
+    FROM [dbo].[PurchasesDTime] AS [PurchasesDTime]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="qryopenningBal" EntityType="Self.qryopenningBal" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [qryopenningBal].[CurrencyID] AS [CurrencyID], 
+    [qryopenningBal].[Dated] AS [Dated], 
+    [qryopenningBal].[Openningbalance] AS [Openningbalance], 
+    [qryopenningBal].[CompanyID] AS [CompanyID]
+    FROM [dbo].[qryopenningBal] AS [qryopenningBal]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="SalesDTime" EntityType="Self.SalesDTime" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [SalesDTime].[CurrencyId] AS [CurrencyId], 
+    [SalesDTime].[Rate] AS [Rate], 
+    [SalesDTime].[Dated] AS [Dated], 
+    [SalesDTime].[DTime] AS [DTime]
+    FROM [dbo].[SalesDTime] AS [SalesDTime]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="StockPurSum" EntityType="Self.StockPurSum" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [StockPurSum].[CurrencyID] AS [CurrencyID], 
+    [StockPurSum].[SumPurhases] AS [SumPurhases], 
+    [StockPurSum].[CompanyID] AS [CompanyID], 
+    [StockPurSum].[Active] AS [Active]
+    FROM [dbo].[StockPurSum] AS [StockPurSum]</DefiningQuery>
+          </EntitySet>
+          <EntitySet Name="StockSaleSum" EntityType="Self.StockSaleSum" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [StockSaleSum].[CurrencyID] AS [CurrencyID], 
+    [StockSaleSum].[SumSales] AS [SumSales], 
+    [StockSaleSum].[CompanyID] AS [CompanyID], 
+    [StockSaleSum].[Active] AS [Active]
+    FROM [dbo].[StockSaleSum] AS [StockSaleSum]</DefiningQuery>
+          </EntitySet>
+          <AssociationSet Name="FK_AuditLog_Area" Association="Self.FK_AuditLog_Area">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="AuditLog" EntitySet="AuditLog" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Bureaus_Bureaus" Association="Self.FK_Bureaus_Bureaus">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="Bureaus" EntitySet="Bureaus" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Bureaus_Company" Association="Self.FK_Bureaus_Company">
+            <End Role="Company" EntitySet="Company" />
+            <End Role="Bureaus" EntitySet="Bureaus" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Company_Area" Association="Self.FK_Company_Area">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="Company" EntitySet="Company" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Profiles_Users" Association="Self.FK_Profiles_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="Profiles" EntitySet="Profiles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Purchases_Bureaus" Association="Self.FK_Purchases_Bureaus">
+            <End Role="Bureaus" EntitySet="Bureaus" />
+            <End Role="Purchases" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Purchases_Company" Association="Self.FK_Purchases_Company">
+            <End Role="Company" EntitySet="Company" />
+            <End Role="Purchases" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Purchases_IdentityType" Association="Self.FK_Purchases_IdentityType">
+            <End Role="IdentityType" EntitySet="IdentityType" />
+            <End Role="Purchases" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Rank_Rank" Association="Self.FK_Rank_Rank">
+            <End Role="Rank" EntitySet="Rank" />
+            <End Role="Rank1" EntitySet="Rank" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ranks_Ranks" Association="Self.FK_Ranks_Ranks">
+            <End Role="Ranks" EntitySet="Ranks" />
+            <End Role="Ranks1" EntitySet="Ranks" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Roles_Applications" Association="Self.FK_Roles_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Roles" EntitySet="Roles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Sales_Company" Association="Self.FK_Sales_Company">
+            <End Role="Company" EntitySet="Company" />
+            <End Role="Sales" EntitySet="Sales" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Sales_IdentityType" Association="Self.FK_Sales_IdentityType">
+            <End Role="IdentityType" EntitySet="IdentityType" />
+            <End Role="Sales" EntitySet="Sales" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_Bureaus" Association="Self.FK_Stock_Bureaus">
+            <End Role="Bureaus" EntitySet="Bureaus" />
+            <End Role="Stock" EntitySet="Stock" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_Company" Association="Self.FK_Stock_Company">
+            <End Role="Company" EntitySet="Company" />
+            <End Role="Stock" EntitySet="Stock" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_TransType" Association="Self.FK_Stock_TransType">
+            <End Role="TransType" EntitySet="TransType" />
+            <End Role="Stock" EntitySet="Stock" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Area" Association="Self.FK_UserDetails_Area">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Bureaus" Association="Self.FK_UserDetails_Bureaus">
+            <End Role="Bureaus" EntitySet="Bureaus" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Departments" Association="Self.FK_UserDetails_Departments">
+            <End Role="Departments" EntitySet="Departments" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Station" Association="Self.FK_UserDetails_Station">
+            <End Role="Station" EntitySet="Station" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Users_Applications" Association="Self.FK_Users_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Users" EntitySet="Users" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersInRoles_Roles" Association="Self.FK_UsersInRoles_Roles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="UsersInRoles" EntitySet="UsersInRoles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UsersInRoles_Users" Association="Self.FK_UsersInRoles_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="UsersInRoles" EntitySet="UsersInRoles" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="ForexModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="AccessRule">
+          <Key>
+            <PropertyRef Name="AccessRuleId" />
+          </Key>
+          <Property Name="AccessRuleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AccessRuleName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="Application">
+          <Key>
+            <PropertyRef Name="ApplicationId" />
+          </Key>
+          <Property Name="ApplicationId" Type="Guid" Nullable="false" />
+          <Property Name="ApplicationName" Type="String" MaxLength="235" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Roles" Relationship="Self.FK_Roles_Applications" FromRole="Applications" ToRole="Roles" />
+          <NavigationProperty Name="Users" Relationship="Self.FK_Users_Applications" FromRole="Applications" ToRole="Users" />
+        </EntityType>
+        <EntityType Name="Area">
+          <Key>
+            <PropertyRef Name="AreaID" />
+          </Key>
+          <Property Name="AreaID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="AreaName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EntryBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="EntryDate" Type="DateTime" Precision="3" />
+          <Property Name="AreaAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="AreaTelNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="UserDetails" Relationship="Self.FK_UserDetails_Area" FromRole="Area" ToRole="UserDetails" />
+          <NavigationProperty Name="Bureaus" Relationship="ForexModel.FK_Bureaus_Bureaus" FromRole="Area" ToRole="Bureau" />
+          <NavigationProperty Name="Companies" Relationship="ForexModel.FK_Company_Area" FromRole="Area" ToRole="Company" />
+          <NavigationProperty Name="AuditLogs" Relationship="ForexModel.FK_AuditLog_Area" FromRole="Area" ToRole="AuditLog" />
+        </EntityType>
+        <EntityType Name="Currency">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+          </Key>
+          <Property Name="CurrencyId" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="Discription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Department">
+          <Key>
+            <PropertyRef Name="DepartmentId" />
+          </Key>
+          <Property Name="DepartmentId" Type="Int32" Nullable="false" />
+          <Property Name="DepartmentName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="UserDetails" Relationship="Self.FK_UserDetails_Departments" FromRole="Departments" ToRole="UserDetails" />
+        </EntityType>
+        <EntityType Name="Employee">
+          <Key>
+            <PropertyRef Name="Username" />
+          </Key>
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Gender" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="AppointmentDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Rank" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="EmployeeType" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="StatusCode" Type="String" MaxLength="50" FixedLength="true" Unicode="true" Nullable="false" />
+        </EntityType>
+        <EntityType Name="IdentityType">
+          <Key>
+            <PropertyRef Name="IdentityID" />
+          </Key>
+          <Property Name="IdentityID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Description" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Purchases" Relationship="ForexModel.FK_Purchases_IdentityType" FromRole="IdentityType" ToRole="Purchase" />
+          <NavigationProperty Name="Sales" Relationship="ForexModel.FK_Sales_IdentityType" FromRole="IdentityType" ToRole="Sale" />
+        </EntityType>
+        <EntityType Name="Profile">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Guid" Nullable="false" />
+          <Property Name="PropertyNames" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PropertyValueStrings" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="PropertyValueBinary" Type="Binary" MaxLength="Max" FixedLength="false" Nullable="false" />
+          <Property Name="LastUpdatedDate" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="User" Relationship="Self.FK_Profiles_Users" FromRole="Profiles" ToRole="Users" />
+        </EntityType>
+        <EntityType Name="Rank">
+          <Key>
+            <PropertyRef Name="RankId" />
+          </Key>
+          <Property Name="RankId" Type="Int32" Nullable="false" />
+          <Property Name="RankName" Type="String" MaxLength="70" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Rank1" Relationship="Self.FK_Rank_Rank" FromRole="Rank" ToRole="Rank1" />
+          <NavigationProperty Name="Rank2" Relationship="Self.FK_Rank_Rank" FromRole="Rank1" ToRole="Rank" />
+        </EntityType>
+        <EntityType Name="Rank1">
+          <Key>
+            <PropertyRef Name="RankId" />
+          </Key>
+          <Property Name="RankId" Type="Int32" Nullable="false" />
+          <Property Name="Discription" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="Ranks1" Relationship="Self.FK_Ranks_Ranks" FromRole="Ranks" ToRole="Ranks1" />
+          <NavigationProperty Name="Rank" Relationship="Self.FK_Ranks_Ranks" FromRole="Ranks1" ToRole="Ranks" />
+        </EntityType>
+        <EntityType Name="Role">
+          <Key>
+            <PropertyRef Name="RoleId" />
+          </Key>
+          <Property Name="ApplicationId" Type="Guid" Nullable="false" />
+          <Property Name="RoleId" Type="Guid" Nullable="false" />
+          <Property Name="RoleName" Type="String" MaxLength="256" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="256" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Application" Relationship="Self.FK_Roles_Applications" FromRole="Roles" ToRole="Applications" />
+          <NavigationProperty Name="Users" Relationship="Self.UsersInRoles" FromRole="Roles" ToRole="Users" />
+        </EntityType>
+        <EntityType Name="RulesInGroup">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupId" Type="Int32" Nullable="false" />
+          <Property Name="AccessRuleId" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Station">
+          <Key>
+            <PropertyRef Name="StationID" />
+          </Key>
+          <Property Name="StationID" Type="Int32" Nullable="false" />
+          <Property Name="StationName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="AreaID" Type="Int32" Nullable="false" />
+          <Property Name="StationTelNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CostCentre" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="Location" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CreditCode" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="GovtCredit" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+          <Property Name="StationAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="UserDetails" Relationship="Self.FK_UserDetails_Station" FromRole="Station" ToRole="UserDetails" />
+        </EntityType>
+        <EntityType Name="Stock">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ReceiptNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CurrencyID" Type="String" MaxLength="3" FixedLength="true" Unicode="false" Nullable="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Amount" Type="Double" Nullable="false" />
+          <Property Name="CediEquivalent" Type="Double" />
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Deleted" Type="Byte" />
+          <Property Name="Rate" Type="Double" />
+          <Property Name="TransType" Type="Int32" Nullable="false" />
+          <Property Name="BureauID" Type="Int32" />
+          <Property Name="DTime" Type="DateTime" Precision="3" />
+          <Property Name="CompanyID" Type="Int32" />
+          <Property Name="Active" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Bureau" Relationship="ForexModel.FK_Stock_Bureaus" FromRole="Stock" ToRole="Bureau" />
+          <NavigationProperty Name="TransType1" Relationship="ForexModel.FK_Stock_TransType" FromRole="Stock" ToRole="TransType" />
+          <NavigationProperty Name="Company" Relationship="ForexModel.FK_Stock_Company" FromRole="Stock" ToRole="Company" />
+        </EntityType>
+        <EntityType Name="UserDetail">
+          <Key>
+            <PropertyRef Name="UserName" />
+          </Key>
+          <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="EmployeeName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+          <Property Name="AreaID" Type="Int32" />
+          <Property Name="StationID" Type="Int32" />
+          <Property Name="DepartmentId" Type="Int32" />
+          <Property Name="EntryBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EntryDate" Type="DateTime" Precision="3" />
+          <Property Name="Position" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="Remark" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+          <Property Name="BureauID" Type="Int32" />
+          <NavigationProperty Name="Area" Relationship="Self.FK_UserDetails_Area" FromRole="UserDetails" ToRole="Area" />
+          <NavigationProperty Name="Department" Relationship="Self.FK_UserDetails_Departments" FromRole="UserDetails" ToRole="Departments" />
+          <NavigationProperty Name="Station" Relationship="Self.FK_UserDetails_Station" FromRole="UserDetails" ToRole="Station" />
+          <NavigationProperty Name="Bureau" Relationship="ForexModel.FK_UserDetails_Bureaus" FromRole="UserDetail" ToRole="Bureau" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="ApplicationId" Type="Guid" Nullable="false" />
+          <Property Name="UserId" Type="Guid" Nullable="false" />
+          <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="IsAnonymous" Type="Boolean" Nullable="false" />
+          <Property Name="LastActivityDate" Type="DateTime" Nullable="false" Precision="3" />
+          <NavigationProperty Name="Application" Relationship="Self.FK_Users_Applications" FromRole="Users" ToRole="Applications" />
+          <NavigationProperty Name="Profile" Relationship="Self.FK_Profiles_Users" FromRole="Users" ToRole="Profiles" />
+          <NavigationProperty Name="Roles" Relationship="Self.UsersInRoles" FromRole="Users" ToRole="Roles" />
+        </EntityType>
+        <EntityType Name="Appointment">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="Subject" />
+            <PropertyRef Name="Start" />
+            <PropertyRef Name="End" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" />
+          <Property Name="Subject" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Description" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+          <Property Name="Start" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="End" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="RecurrenceRule" Type="String" MaxLength="1024" FixedLength="false" Unicode="true" />
+          <Property Name="RecurrenceParentID" Type="Int32" />
+          <Property Name="Reminder" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+          <Property Name="Annotations" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="UserID" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="VatTable">
+          <Key>
+            <PropertyRef Name="VatRate" />
+            <PropertyRef Name="Active" />
+          </Key>
+          <Property Name="VatRate" Type="Decimal" Precision="18" Scale="5" Nullable="false" />
+          <Property Name="Vat" Type="Decimal" Precision="18" Scale="3" />
+          <Property Name="NHIS" Type="Decimal" Precision="18" Scale="3" />
+          <Property Name="GETFund" Type="Decimal" Precision="18" Scale="3" />
+          <Property Name="Active" Type="String" MaxLength="1" FixedLength="true" Unicode="true" Nullable="false" />
+          <Property Name="UserId" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK_Roles_Applications">
+          <End Role="Applications" Type="Self.Application" Multiplicity="1" />
+          <End Role="Roles" Type="Self.Role" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationId" />
+            </Principal>
+            <Dependent Role="Roles">
+              <PropertyRef Name="ApplicationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Users_Applications">
+          <End Role="Applications" Type="Self.Application" Multiplicity="1" />
+          <End Role="Users" Type="Self.User" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Applications">
+              <PropertyRef Name="ApplicationId" />
+            </Principal>
+            <Dependent Role="Users">
+              <PropertyRef Name="ApplicationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Area">
+          <End Role="Area" Type="Self.Area" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Departments">
+          <End Role="Departments" Type="Self.Department" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Departments">
+              <PropertyRef Name="DepartmentId" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="DepartmentId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Profiles_Users">
+          <End Role="Users" Type="Self.User" Multiplicity="1" />
+          <End Role="Profiles" Type="Self.Profile" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Users">
+              <PropertyRef Name="UserId" />
+            </Principal>
+            <Dependent Role="Profiles">
+              <PropertyRef Name="UserId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Rank_Rank">
+          <End Role="Rank" Type="Self.Rank" Multiplicity="1" />
+          <End Role="Rank1" Type="Self.Rank" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Rank">
+              <PropertyRef Name="RankId" />
+            </Principal>
+            <Dependent Role="Rank1">
+              <PropertyRef Name="RankId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Ranks_Ranks">
+          <End Role="Ranks" Type="Self.Rank1" Multiplicity="1" />
+          <End Role="Ranks1" Type="Self.Rank1" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Ranks">
+              <PropertyRef Name="RankId" />
+            </Principal>
+            <Dependent Role="Ranks1">
+              <PropertyRef Name="RankId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Station">
+          <End Role="Station" Type="Self.Station" Multiplicity="0..1" />
+          <End Role="UserDetails" Type="Self.UserDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Station">
+              <PropertyRef Name="StationID" />
+            </Principal>
+            <Dependent Role="UserDetails">
+              <PropertyRef Name="StationID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="UsersInRoles">
+          <End Role="Roles" Type="Self.Role" Multiplicity="*" />
+          <End Role="Users" Type="Self.User" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="ModelEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="AccessRules" EntityType="Self.AccessRule" />
+          <EntitySet Name="Applications" EntityType="Self.Application" />
+          <EntitySet Name="Areas" EntityType="Self.Area" />
+          <EntitySet Name="Currencies" EntityType="Self.Currency" />
+          <EntitySet Name="Departments" EntityType="Self.Department" />
+          <EntitySet Name="Employees" EntityType="Self.Employee" />
+          <EntitySet Name="IdentityTypes" EntityType="Self.IdentityType" />
+          <EntitySet Name="Profiles" EntityType="Self.Profile" />
+          <EntitySet Name="Ranks" EntityType="Self.Rank" />
+          <EntitySet Name="Ranks1" EntityType="Self.Rank1" />
+          <EntitySet Name="Roles" EntityType="Self.Role" />
+          <EntitySet Name="RulesInGroups" EntityType="Self.RulesInGroup" />
+          <EntitySet Name="Stations" EntityType="Self.Station" />
+          <EntitySet Name="Stocks" EntityType="Self.Stock" />
+          <EntitySet Name="UserDetails" EntityType="Self.UserDetail" />
+          <EntitySet Name="Users" EntityType="Self.User" />
+          <EntitySet Name="Appointments" EntityType="Self.Appointment" />
+          <EntitySet Name="VatTables" EntityType="Self.VatTable" />
+          <AssociationSet Name="FK_Roles_Applications" Association="Self.FK_Roles_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Roles" EntitySet="Roles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Users_Applications" Association="Self.FK_Users_Applications">
+            <End Role="Applications" EntitySet="Applications" />
+            <End Role="Users" EntitySet="Users" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Area" Association="Self.FK_UserDetails_Area">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Departments" Association="Self.FK_UserDetails_Departments">
+            <End Role="Departments" EntitySet="Departments" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Profiles_Users" Association="Self.FK_Profiles_Users">
+            <End Role="Users" EntitySet="Users" />
+            <End Role="Profiles" EntitySet="Profiles" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Rank_Rank" Association="Self.FK_Rank_Rank">
+            <End Role="Rank" EntitySet="Ranks" />
+            <End Role="Rank1" EntitySet="Ranks" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Ranks_Ranks" Association="Self.FK_Ranks_Ranks">
+            <End Role="Ranks" EntitySet="Ranks1" />
+            <End Role="Ranks1" EntitySet="Ranks1" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Station" Association="Self.FK_UserDetails_Station">
+            <End Role="Station" EntitySet="Stations" />
+            <End Role="UserDetails" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="UsersInRoles" Association="Self.UsersInRoles">
+            <End Role="Roles" EntitySet="Roles" />
+            <End Role="Users" EntitySet="Users" />
+          </AssociationSet>
+          <EntitySet Name="Bureaus" EntityType="ForexModel.Bureau" />
+          <EntitySet Name="TransTypes" EntityType="ForexModel.TransType" />
+          <EntitySet Name="qryopenningBals" EntityType="ForexModel.qryopenningBal" />
+          <AssociationSet Name="FK_Bureaus_Bureaus" Association="ForexModel.FK_Bureaus_Bureaus">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="Bureau" EntitySet="Bureaus" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_Bureaus" Association="ForexModel.FK_Stock_Bureaus">
+            <End Role="Bureau" EntitySet="Bureaus" />
+            <End Role="Stock" EntitySet="Stocks" />
+          </AssociationSet>
+          <AssociationSet Name="FK_UserDetails_Bureaus" Association="ForexModel.FK_UserDetails_Bureaus">
+            <End Role="Bureau" EntitySet="Bureaus" />
+            <End Role="UserDetail" EntitySet="UserDetails" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_TransType" Association="ForexModel.FK_Stock_TransType">
+            <End Role="TransType" EntitySet="TransTypes" />
+            <End Role="Stock" EntitySet="Stocks" />
+          </AssociationSet>
+          <EntitySet Name="Companies" EntityType="ForexModel.Company" />
+          <AssociationSet Name="FK_Company_Area" Association="ForexModel.FK_Company_Area">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="Company" EntitySet="Companies" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Bureaus_Company" Association="ForexModel.FK_Bureaus_Company">
+            <End Role="Company" EntitySet="Companies" />
+            <End Role="Bureau" EntitySet="Bureaus" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Stock_Company" Association="ForexModel.FK_Stock_Company">
+            <End Role="Company" EntitySet="Companies" />
+            <End Role="Stock" EntitySet="Stocks" />
+          </AssociationSet>
+          <EntitySet Name="AuditLogs" EntityType="ForexModel.AuditLog" />
+          <AssociationSet Name="FK_AuditLog_Area" Association="ForexModel.FK_AuditLog_Area">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="AuditLog" EntitySet="AuditLogs" />
+          </AssociationSet>
+          <EntitySet Name="StockPurSums" EntityType="ForexModel.StockPurSum" />
+          <EntitySet Name="StockSaleSums" EntityType="ForexModel.StockSaleSum" />
+          <EntitySet Name="BOGStockPositions" EntityType="ForexModel.BOGStockPosition" />
+          <EntitySet Name="Purchases" EntityType="ForexModel.Purchase" />
+          <EntitySet Name="Sales" EntityType="ForexModel.Sale" />
+          <AssociationSet Name="FK_Purchases_Bureaus" Association="ForexModel.FK_Purchases_Bureaus">
+            <End Role="Bureau" EntitySet="Bureaus" />
+            <End Role="Purchase" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Purchases_Company" Association="ForexModel.FK_Purchases_Company">
+            <End Role="Company" EntitySet="Companies" />
+            <End Role="Purchase" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Sales_Company" Association="ForexModel.FK_Sales_Company">
+            <End Role="Company" EntitySet="Companies" />
+            <End Role="Sale" EntitySet="Sales" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Purchases_IdentityType" Association="ForexModel.FK_Purchases_IdentityType">
+            <End Role="IdentityType" EntitySet="IdentityTypes" />
+            <End Role="Purchase" EntitySet="Purchases" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Sales_IdentityType" Association="ForexModel.FK_Sales_IdentityType">
+            <End Role="IdentityType" EntitySet="IdentityTypes" />
+            <End Role="Sale" EntitySet="Sales" />
+          </AssociationSet>
+          <EntitySet Name="PurchasesDTimes" EntityType="ForexModel.PurchasesDTime" />
+          <EntitySet Name="SalesDTimes" EntityType="ForexModel.SalesDTime" />
+          <EntitySet Name="BOGPucRates" EntityType="ForexModel.BOGPucRate" />
+          <EntitySet Name="BOGSalesRates" EntityType="ForexModel.BOGSalesRate" />
+          <EntitySet Name="WeeklyRates" EntityType="ForexModel.WeeklyRate" />
+          <EntitySet Name="WEEKLYDATES" EntityType="ForexModel.WEEKLYDATE" />
+          <EntitySet Name="UserGroups" EntityType="ForexModel.UserGroup" />
+        </EntityContainer>
+        <EntityType Name="Bureau">
+          <Key>
+            <PropertyRef Name="BureauID" />
+          </Key>
+          <Property Name="BureauID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CompanyID" Type="Int32" Nullable="false" />
+          <Property Name="AreaID" Type="Int32" Nullable="false" />
+          <Property Name="Location" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TelNo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GHS" Type="Double" />
+          <Property Name="GBP" Type="Double" />
+          <Property Name="USD" Type="Double" />
+          <Property Name="CAD" Type="Double" />
+          <Property Name="NGN" Type="Double" />
+          <Property Name="CHF" Type="Double" />
+          <Property Name="XOF" Type="Double" />
+          <Property Name="JPY" Type="Double" />
+          <Property Name="ZAR" Type="Double" />
+          <Property Name="CNY" Type="Double" />
+          <Property Name="EUR" Type="Double" />
+          <Property Name="AUD" Type="Double" />
+          <Property Name="WAU" Type="Double" />
+          <Property Name="SEK" Type="Double" />
+          <Property Name="GMD" Type="Double" />
+          <NavigationProperty Name="Area" Relationship="ForexModel.FK_Bureaus_Bureaus" FromRole="Bureau" ToRole="Area" />
+          <NavigationProperty Name="Stocks" Relationship="ForexModel.FK_Stock_Bureaus" FromRole="Bureau" ToRole="Stock" />
+          <NavigationProperty Name="UserDetails" Relationship="ForexModel.FK_UserDetails_Bureaus" FromRole="Bureau" ToRole="UserDetail" />
+          <NavigationProperty Name="Company" Relationship="ForexModel.FK_Bureaus_Company" FromRole="Bureau" ToRole="Company" />
+          <NavigationProperty Name="Purchases" Relationship="ForexModel.FK_Purchases_Bureaus" FromRole="Bureau" ToRole="Purchase" />
+        </EntityType>
+        <EntityType Name="TransType">
+          <Key>
+            <PropertyRef Name="TransTypeID" />
+          </Key>
+          <Property Name="TransTypeID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Description" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Stocks" Relationship="ForexModel.FK_Stock_TransType" FromRole="TransType" ToRole="Stock" />
+        </EntityType>
+        <EntityType Name="qryopenningBal">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+            <PropertyRef Name="Dated" />
+          </Key>
+          <Property Name="CurrencyID" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Openningbalance" Type="Double" />
+          <Property Name="CompanyID" Type="Int32" />
+        </EntityType>
+        <Association Name="FK_Bureaus_Bureaus">
+          <End Type="ForexModel.Area" Role="Area" Multiplicity="1" />
+          <End Type="ForexModel.Bureau" Role="Bureau" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="Bureau">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_Bureaus">
+          <End Type="ForexModel.Bureau" Role="Bureau" Multiplicity="0..1" />
+          <End Type="ForexModel.Stock" Role="Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureau">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_UserDetails_Bureaus">
+          <End Type="ForexModel.Bureau" Role="Bureau" Multiplicity="0..1" />
+          <End Type="ForexModel.UserDetail" Role="UserDetail" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureau">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="UserDetail">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_TransType">
+          <End Type="ForexModel.TransType" Role="TransType" Multiplicity="1" />
+          <End Type="ForexModel.Stock" Role="Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="TransType">
+              <PropertyRef Name="TransTypeID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="TransType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Company">
+          <Key>
+            <PropertyRef Name="CompanyID" />
+          </Key>
+          <Property Name="CompanyID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CompanyName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="LicenceNo" Type="Int32" />
+          <Property Name="AreaID" Type="Int32" Nullable="false" />
+          <Property Name="Phonenumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DateofEntry" Type="DateTime" Precision="0" />
+          <NavigationProperty Name="Area" Relationship="ForexModel.FK_Company_Area" FromRole="Company" ToRole="Area" />
+          <NavigationProperty Name="Bureaus" Relationship="ForexModel.FK_Bureaus_Company" FromRole="Company" ToRole="Bureau" />
+          <NavigationProperty Name="Stocks" Relationship="ForexModel.FK_Stock_Company" FromRole="Company" ToRole="Stock" />
+          <NavigationProperty Name="Purchases" Relationship="ForexModel.FK_Purchases_Company" FromRole="Company" ToRole="Purchase" />
+          <NavigationProperty Name="Sales" Relationship="ForexModel.FK_Sales_Company" FromRole="Company" ToRole="Sale" />
+        </EntityType>
+        <Association Name="FK_Company_Area">
+          <End Type="ForexModel.Area" Role="Area" Multiplicity="1" />
+          <End Type="ForexModel.Company" Role="Company" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="Company">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Bureaus_Company">
+          <End Type="ForexModel.Company" Role="Company" Multiplicity="1" />
+          <End Type="ForexModel.Bureau" Role="Bureau" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Bureau">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Stock_Company">
+          <End Type="ForexModel.Company" Role="Company" Multiplicity="0..1" />
+          <End Type="ForexModel.Stock" Role="Stock" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Stock">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="AuditLog">
+          <Key>
+            <PropertyRef Name="AuditId" />
+          </Key>
+          <Property Name="AuditId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Username" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+          <Property Name="Action" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+          <Property Name="ActionDate" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="StationID" Type="Int32" />
+          <Property Name="AreaID" Type="Int32" />
+          <NavigationProperty Name="Area" Relationship="ForexModel.FK_AuditLog_Area" FromRole="AuditLog" ToRole="Area" />
+        </EntityType>
+        <Association Name="FK_AuditLog_Area">
+          <End Type="ForexModel.Area" Role="Area" Multiplicity="0..1" />
+          <End Type="ForexModel.AuditLog" Role="AuditLog" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="AreaID" />
+            </Principal>
+            <Dependent Role="AuditLog">
+              <PropertyRef Name="AreaID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="StockPurSum">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+          </Key>
+          <Property Name="CurrencyID" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="SumPurhases" Type="Double" />
+          <Property Name="CompanyID" Type="Int32" />
+          <Property Name="Active" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="StockSaleSum">
+          <Key>
+            <PropertyRef Name="CurrencyID" />
+          </Key>
+          <Property Name="CurrencyID" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="SumSales" Type="Double" />
+          <Property Name="CompanyID" Type="Int32" />
+          <Property Name="Active" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="BOGStockPosition">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Details" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DetailsB" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="GBP" Type="Double" />
+          <Property Name="USD" Type="Double" />
+          <Property Name="EUR" Type="Double" />
+          <Property Name="CAD" Type="Double" />
+          <Property Name="CHF" Type="Double" />
+          <Property Name="XOF" Type="Double" />
+          <Property Name="JPY" Type="Double" />
+          <Property Name="ZAR" Type="Double" />
+          <Property Name="NGN" Type="Double" />
+          <Property Name="CNY" Type="Double" />
+          <Property Name="ORDERBY" Type="Int32" Nullable="false" />
+          <Property Name="CompanyID" Type="Int32" />
+          <Property Name="StartDate" Type="DateTime" Precision="0" />
+          <Property Name="EndDate" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityType Name="Purchase">
+          <Key>
+            <PropertyRef Name="ReceiptNo" />
+          </Key>
+          <Property Name="ReceiptNo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Amount" Type="Double" Nullable="false" />
+          <Property Name="PurchaseRate" Type="Double" Nullable="false" />
+          <Property Name="CediEquivalent" Type="Double" Nullable="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Username" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SurName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Gender" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="CustAddress" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TransactionType" Type="Int32" Nullable="false" />
+          <Property Name="Physical" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Region" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Nationality" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="IdentityType" Type="Int32" Nullable="false" />
+          <Property Name="IdentityNo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TinNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Deleted" Type="Byte" />
+          <Property Name="PreviousName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DOBirth" Type="DateTime" Precision="0" />
+          <Property Name="CompanyID" Type="Int32" Nullable="false" />
+          <Property Name="BureauID" Type="Int32" Nullable="false" />
+          <Property Name="Active" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Bureau" Relationship="ForexModel.FK_Purchases_Bureaus" FromRole="Purchase" ToRole="Bureau" />
+          <NavigationProperty Name="Company" Relationship="ForexModel.FK_Purchases_Company" FromRole="Purchase" ToRole="Company" />
+          <NavigationProperty Name="IdentityType1" Relationship="ForexModel.FK_Purchases_IdentityType" FromRole="Purchase" ToRole="IdentityType" />
+        </EntityType>
+        <EntityType Name="Sale">
+          <Key>
+            <PropertyRef Name="Receiptno" />
+          </Key>
+          <Property Name="Receiptno" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Amount" Type="Double" Nullable="false" />
+          <Property Name="Rate" Type="Double" Nullable="false" />
+          <Property Name="FirstName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="SurName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="CediEquivalent" Type="Double" Nullable="false" />
+          <Property Name="Gender" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Address" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="TransactionType" Type="Int32" Nullable="false" />
+          <Property Name="Region" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Nationality" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="IdentityType" Type="Int32" Nullable="false" />
+          <Property Name="Physical" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="IdentityNo" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DTime" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="Deleted" Type="Byte" />
+          <Property Name="PreviousName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="MiddleName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="DOBirth" Type="DateTime" Precision="0" />
+          <Property Name="CompanyID" Type="Int32" Nullable="false" />
+          <Property Name="BureauID" Type="Int32" />
+          <Property Name="TinNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Active" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Company" Relationship="ForexModel.FK_Sales_Company" FromRole="Sale" ToRole="Company" />
+          <NavigationProperty Name="IdentityType1" Relationship="ForexModel.FK_Sales_IdentityType" FromRole="Sale" ToRole="IdentityType" />
+        </EntityType>
+        <Association Name="FK_Purchases_Bureaus">
+          <End Type="ForexModel.Bureau" Role="Bureau" Multiplicity="1" />
+          <End Type="ForexModel.Purchase" Role="Purchase" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Bureau">
+              <PropertyRef Name="BureauID" />
+            </Principal>
+            <Dependent Role="Purchase">
+              <PropertyRef Name="BureauID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Purchases_Company">
+          <End Type="ForexModel.Company" Role="Company" Multiplicity="1" />
+          <End Type="ForexModel.Purchase" Role="Purchase" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Purchase">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Sales_Company">
+          <End Type="ForexModel.Company" Role="Company" Multiplicity="1" />
+          <End Type="ForexModel.Sale" Role="Sale" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Company">
+              <PropertyRef Name="CompanyID" />
+            </Principal>
+            <Dependent Role="Sale">
+              <PropertyRef Name="CompanyID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Purchases_IdentityType">
+          <End Type="ForexModel.IdentityType" Role="IdentityType" Multiplicity="1" />
+          <End Type="ForexModel.Purchase" Role="Purchase" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IdentityType">
+              <PropertyRef Name="IdentityID" />
+            </Principal>
+            <Dependent Role="Purchase">
+              <PropertyRef Name="IdentityType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Sales_IdentityType">
+          <End Type="ForexModel.IdentityType" Role="IdentityType" Multiplicity="1" />
+          <End Type="ForexModel.Sale" Role="Sale" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="IdentityType">
+              <PropertyRef Name="IdentityID" />
+            </Principal>
+            <Dependent Role="Sale">
+              <PropertyRef Name="IdentityType" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="PurchasesDTime">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="PurchaseRate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="DTime" />
+          </Key>
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="PurchaseRate" Type="Double" Nullable="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="SalesDTime">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Rate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="DTime" />
+          </Key>
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Rate" Type="Double" Nullable="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="DTime" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="BOGPucRate">
+          <Key>
+            <PropertyRef Name="PurchaseRate" />
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="CompanyID" />
+            <PropertyRef Name="BureauID" />
+          </Key>
+          <Property Name="PurchaseRate" Type="Double" Nullable="false" />
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="CompanyID" Type="Int32" Nullable="false" />
+          <Property Name="BureauID" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="BOGSalesRate">
+          <Key>
+            <PropertyRef Name="CurrencyId" />
+            <PropertyRef Name="Rate" />
+            <PropertyRef Name="Dated" />
+            <PropertyRef Name="CompanyID" />
+          </Key>
+          <Property Name="CurrencyId" Type="String" Nullable="false" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="Rate" Type="Double" Nullable="false" />
+          <Property Name="Dated" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="CompanyID" Type="Int32" Nullable="false" />
+          <Property Name="BureauID" Type="Int32" />
+        </EntityType>
+        <EntityType Name="WeeklyRate">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CurrencyID" Type="String" MaxLength="3" FixedLength="true" Unicode="false" />
+          <Property Name="BuyMon" Type="Double" Nullable="false" />
+          <Property Name="SellMon" Type="Double" Nullable="false" />
+          <Property Name="BuyTue" Type="Double" Nullable="false" />
+          <Property Name="SellTue" Type="Double" Nullable="false" />
+          <Property Name="BuyWed" Type="Double" Nullable="false" />
+          <Property Name="SellWed" Type="Double" Nullable="false" />
+          <Property Name="BuyThu" Type="Double" />
+          <Property Name="SellThu" Type="Double" Nullable="false" />
+          <Property Name="BuyFri" Type="Double" Nullable="false" />
+          <Property Name="SellFri" Type="Double" Nullable="false" />
+          <Property Name="BuySat" Type="Double" Nullable="false" />
+          <Property Name="SellSat" Type="Double" Nullable="false" />
+          <Property Name="BuySun" Type="Double" Nullable="false" />
+          <Property Name="SellSun" Type="Double" />
+          <Property Name="ORDERSEQ" Type="Int32" />
+          <Property Name="CompanyID" Type="Int32" />
+          <Property Name="StartDate" Type="DateTime" Precision="0" />
+          <Property Name="EndDate" Type="DateTime" Precision="0" />
+        </EntityType>
+        <EntityType Name="WEEKLYDATE">
+          <Key>
+            <PropertyRef Name="ID" />
+            <PropertyRef Name="DATED" />
+            <PropertyRef Name="Active" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="DATED" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="Active" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="Days" Type="Int32" />
+        </EntityType>
+        <EntityType Name="UserGroup">
+          <Key>
+            <PropertyRef Name="GroupId" />
+          </Key>
+          <Property Name="GroupId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="GroupName" Type="String" MaxLength="80" FixedLength="false" Unicode="true" />
+          <Property Name="EntryBy" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="EntryDate" Type="DateTime" Precision="3" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="ForexModelStoreContainer" CdmEntityContainer="ModelEntities">
+          <EntitySetMapping Name="AccessRules">
+            <EntityTypeMapping TypeName="ForexModel.AccessRule">
+              <MappingFragment StoreEntitySet="AccessRules">
+                <ScalarProperty Name="AccessRuleId" ColumnName="AccessRuleId" />
+                <ScalarProperty Name="AccessRuleName" ColumnName="AccessRuleName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Applications">
+            <EntityTypeMapping TypeName="ForexModel.Application">
+              <MappingFragment StoreEntitySet="Applications">
+                <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+                <ScalarProperty Name="ApplicationName" ColumnName="ApplicationName" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Areas">
+            <EntityTypeMapping TypeName="ForexModel.Area">
+              <MappingFragment StoreEntitySet="Area">
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="AreaName" ColumnName="AreaName" />
+                <ScalarProperty Name="EntryBy" ColumnName="EntryBy" />
+                <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+                <ScalarProperty Name="AreaAddress" ColumnName="AreaAddress" />
+                <ScalarProperty Name="AreaTelNo" ColumnName="AreaTelNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Currencies">
+            <EntityTypeMapping TypeName="ForexModel.Currency">
+              <MappingFragment StoreEntitySet="Currency">
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+                <ScalarProperty Name="Discription" ColumnName="Discription" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Departments">
+            <EntityTypeMapping TypeName="ForexModel.Department">
+              <MappingFragment StoreEntitySet="Departments">
+                <ScalarProperty Name="DepartmentId" ColumnName="DepartmentId" />
+                <ScalarProperty Name="DepartmentName" ColumnName="DepartmentName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Employees">
+            <EntityTypeMapping TypeName="ForexModel.Employee">
+              <MappingFragment StoreEntitySet="Employees">
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+                <ScalarProperty Name="Password" ColumnName="Password" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="AppointmentDate" ColumnName="AppointmentDate" />
+                <ScalarProperty Name="Rank" ColumnName="Rank" />
+                <ScalarProperty Name="EmployeeType" ColumnName="EmployeeType" />
+                <ScalarProperty Name="StatusCode" ColumnName="StatusCode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="IdentityTypes">
+            <EntityTypeMapping TypeName="ForexModel.IdentityType">
+              <MappingFragment StoreEntitySet="IdentityType">
+                <ScalarProperty Name="IdentityID" ColumnName="IdentityID" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Profiles">
+            <EntityTypeMapping TypeName="ForexModel.Profile">
+              <MappingFragment StoreEntitySet="Profiles">
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="PropertyNames" ColumnName="PropertyNames" />
+                <ScalarProperty Name="PropertyValueStrings" ColumnName="PropertyValueStrings" />
+                <ScalarProperty Name="PropertyValueBinary" ColumnName="PropertyValueBinary" />
+                <ScalarProperty Name="LastUpdatedDate" ColumnName="LastUpdatedDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ranks">
+            <EntityTypeMapping TypeName="ForexModel.Rank">
+              <MappingFragment StoreEntitySet="Rank">
+                <ScalarProperty Name="RankId" ColumnName="RankId" />
+                <ScalarProperty Name="RankName" ColumnName="RankName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Ranks1">
+            <EntityTypeMapping TypeName="ForexModel.Rank1">
+              <MappingFragment StoreEntitySet="Ranks">
+                <ScalarProperty Name="RankId" ColumnName="RankId" />
+                <ScalarProperty Name="Discription" ColumnName="Discription" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Roles">
+            <EntityTypeMapping TypeName="ForexModel.Role">
+              <MappingFragment StoreEntitySet="Roles">
+                <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+                <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+                <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="RulesInGroups">
+            <EntityTypeMapping TypeName="ForexModel.RulesInGroup">
+              <MappingFragment StoreEntitySet="RulesInGroups">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+                <ScalarProperty Name="AccessRuleId" ColumnName="AccessRuleId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Stations">
+            <EntityTypeMapping TypeName="ForexModel.Station">
+              <MappingFragment StoreEntitySet="Station">
+                <ScalarProperty Name="StationID" ColumnName="StationID" />
+                <ScalarProperty Name="StationName" ColumnName="StationName" />
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="StationTelNo" ColumnName="StationTelNo" />
+                <ScalarProperty Name="CostCentre" ColumnName="CostCentre" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="CreditCode" ColumnName="CreditCode" />
+                <ScalarProperty Name="GovtCredit" ColumnName="GovtCredit" />
+                <ScalarProperty Name="StationAddress" ColumnName="StationAddress" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Stocks">
+            <EntityTypeMapping TypeName="ForexModel.Stock">
+              <MappingFragment StoreEntitySet="Stock">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="ReceiptNo" ColumnName="ReceiptNo" />
+                <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="CediEquivalent" ColumnName="CediEquivalent" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+                <ScalarProperty Name="Rate" ColumnName="Rate" />
+                <ScalarProperty Name="TransType" ColumnName="TransType" />
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+                <ScalarProperty Name="DTime" ColumnName="DTime" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserDetails">
+            <EntityTypeMapping TypeName="ForexModel.UserDetail">
+              <MappingFragment StoreEntitySet="UserDetails">
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="EmployeeName" ColumnName="EmployeeName" />
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="StationID" ColumnName="StationID" />
+                <ScalarProperty Name="DepartmentId" ColumnName="DepartmentId" />
+                <ScalarProperty Name="EntryBy" ColumnName="EntryBy" />
+                <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+                <ScalarProperty Name="Position" ColumnName="Position" />
+                <ScalarProperty Name="Remark" ColumnName="Remark" />
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="ForexModel.User">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+                <ScalarProperty Name="UserName" ColumnName="UserName" />
+                <ScalarProperty Name="IsAnonymous" ColumnName="IsAnonymous" />
+                <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Appointments">
+            <EntityTypeMapping TypeName="ForexModel.Appointment">
+              <MappingFragment StoreEntitySet="Appointments">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="Subject" ColumnName="Subject" />
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="Start" ColumnName="Start" />
+                <ScalarProperty Name="End" ColumnName="End" />
+                <ScalarProperty Name="RecurrenceRule" ColumnName="RecurrenceRule" />
+                <ScalarProperty Name="RecurrenceParentID" ColumnName="RecurrenceParentID" />
+                <ScalarProperty Name="Reminder" ColumnName="Reminder" />
+                <ScalarProperty Name="Annotations" ColumnName="Annotations" />
+                <ScalarProperty Name="UserID" ColumnName="UserID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="VatTables">
+            <EntityTypeMapping TypeName="ForexModel.VatTable">
+              <MappingFragment StoreEntitySet="VatTable">
+                <ScalarProperty Name="VatRate" ColumnName="VatRate" />
+                <ScalarProperty Name="Vat" ColumnName="Vat" />
+                <ScalarProperty Name="NHIS" ColumnName="NHIS" />
+                <ScalarProperty Name="GETFund" ColumnName="GETFund" />
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="UserId" ColumnName="UserId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="UsersInRoles" TypeName="ForexModel.UsersInRoles" StoreEntitySet="UsersInRoles">
+            <EndProperty Name="Roles">
+              <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+            </EndProperty>
+            <EndProperty Name="Users">
+              <ScalarProperty Name="UserId" ColumnName="UserId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <EntitySetMapping Name="Bureaus">
+            <EntityTypeMapping TypeName="ForexModel.Bureau">
+              <MappingFragment StoreEntitySet="Bureaus">
+                <ScalarProperty Name="GMD" ColumnName="GMD" />
+                <ScalarProperty Name="SEK" ColumnName="SEK" />
+                <ScalarProperty Name="WAU" ColumnName="WAU" />
+                <ScalarProperty Name="AUD" ColumnName="AUD" />
+                <ScalarProperty Name="EUR" ColumnName="EUR" />
+                <ScalarProperty Name="CNY" ColumnName="CNY" />
+                <ScalarProperty Name="ZAR" ColumnName="ZAR" />
+                <ScalarProperty Name="JPY" ColumnName="JPY" />
+                <ScalarProperty Name="XOF" ColumnName="XOF" />
+                <ScalarProperty Name="CHF" ColumnName="CHF" />
+                <ScalarProperty Name="NGN" ColumnName="NGN" />
+                <ScalarProperty Name="CAD" ColumnName="CAD" />
+                <ScalarProperty Name="USD" ColumnName="USD" />
+                <ScalarProperty Name="GBP" ColumnName="GBP" />
+                <ScalarProperty Name="GHS" ColumnName="GHS" />
+                <ScalarProperty Name="TelNo" ColumnName="TelNo" />
+                <ScalarProperty Name="Location" ColumnName="Location" />
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="TransTypes">
+            <EntityTypeMapping TypeName="ForexModel.TransType">
+              <MappingFragment StoreEntitySet="TransType">
+                <ScalarProperty Name="Description" ColumnName="Description" />
+                <ScalarProperty Name="TransTypeID" ColumnName="TransTypeID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="qryopenningBals">
+            <EntityTypeMapping TypeName="ForexModel.qryopenningBal">
+              <MappingFragment StoreEntitySet="qryopenningBal">
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="Openningbalance" ColumnName="Openningbalance" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Companies">
+            <EntityTypeMapping TypeName="ForexModel.Company">
+              <MappingFragment StoreEntitySet="Company">
+                <ScalarProperty Name="DateofEntry" ColumnName="DateofEntry" />
+                <ScalarProperty Name="Phonenumber" ColumnName="Phonenumber" />
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="LicenceNo" ColumnName="LicenceNo" />
+                <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="AuditLogs">
+            <EntityTypeMapping TypeName="ForexModel.AuditLog">
+              <MappingFragment StoreEntitySet="AuditLog">
+                <ScalarProperty Name="AreaID" ColumnName="AreaID" />
+                <ScalarProperty Name="StationID" ColumnName="StationID" />
+                <ScalarProperty Name="ActionDate" ColumnName="ActionDate" />
+                <ScalarProperty Name="Action" ColumnName="Action" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="AuditId" ColumnName="AuditId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StockPurSums">
+            <EntityTypeMapping TypeName="ForexModel.StockPurSum">
+              <MappingFragment StoreEntitySet="StockPurSum">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="SumPurhases" ColumnName="SumPurhases" />
+                <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="StockSaleSums">
+            <EntityTypeMapping TypeName="ForexModel.StockSaleSum">
+              <MappingFragment StoreEntitySet="StockSaleSum">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="SumSales" ColumnName="SumSales" />
+                <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BOGStockPositions">
+            <EntityTypeMapping TypeName="ForexModel.BOGStockPosition">
+              <MappingFragment StoreEntitySet="BOGStockPosition">
+                <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+                <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="ORDERBY" ColumnName="ORDERBY" />
+                <ScalarProperty Name="CNY" ColumnName="CNY" />
+                <ScalarProperty Name="NGN" ColumnName="NGN" />
+                <ScalarProperty Name="ZAR" ColumnName="ZAR" />
+                <ScalarProperty Name="JPY" ColumnName="JPY" />
+                <ScalarProperty Name="XOF" ColumnName="XOF" />
+                <ScalarProperty Name="CHF" ColumnName="CHF" />
+                <ScalarProperty Name="CAD" ColumnName="CAD" />
+                <ScalarProperty Name="EUR" ColumnName="EUR" />
+                <ScalarProperty Name="USD" ColumnName="USD" />
+                <ScalarProperty Name="GBP" ColumnName="GBP" />
+                <ScalarProperty Name="DetailsB" ColumnName="DetailsB" />
+                <ScalarProperty Name="Details" ColumnName="Details" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Purchases">
+            <EntityTypeMapping TypeName="ForexModel.Purchase">
+              <MappingFragment StoreEntitySet="Purchases">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="DOBirth" ColumnName="DOBirth" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="PreviousName" ColumnName="PreviousName" />
+                <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+                <ScalarProperty Name="TinNumber" ColumnName="TinNumber" />
+                <ScalarProperty Name="IdentityNo" ColumnName="IdentityNo" />
+                <ScalarProperty Name="IdentityType" ColumnName="IdentityType" />
+                <ScalarProperty Name="Nationality" ColumnName="Nationality" />
+                <ScalarProperty Name="Region" ColumnName="Region" />
+                <ScalarProperty Name="Physical" ColumnName="Physical" />
+                <ScalarProperty Name="TransactionType" ColumnName="TransactionType" />
+                <ScalarProperty Name="CustAddress" ColumnName="CustAddress" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="SurName" ColumnName="SurName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="DTime" ColumnName="DTime" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="CediEquivalent" ColumnName="CediEquivalent" />
+                <ScalarProperty Name="PurchaseRate" ColumnName="PurchaseRate" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+                <ScalarProperty Name="ReceiptNo" ColumnName="ReceiptNo" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sales">
+            <EntityTypeMapping TypeName="ForexModel.Sale">
+              <MappingFragment StoreEntitySet="Sales">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="TinNumber" ColumnName="TinNumber" />
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="DOBirth" ColumnName="DOBirth" />
+                <ScalarProperty Name="MiddleName" ColumnName="MiddleName" />
+                <ScalarProperty Name="PreviousName" ColumnName="PreviousName" />
+                <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+                <ScalarProperty Name="DTime" ColumnName="DTime" />
+                <ScalarProperty Name="Username" ColumnName="Username" />
+                <ScalarProperty Name="IdentityNo" ColumnName="IdentityNo" />
+                <ScalarProperty Name="Physical" ColumnName="Physical" />
+                <ScalarProperty Name="IdentityType" ColumnName="IdentityType" />
+                <ScalarProperty Name="Nationality" ColumnName="Nationality" />
+                <ScalarProperty Name="Region" ColumnName="Region" />
+                <ScalarProperty Name="TransactionType" ColumnName="TransactionType" />
+                <ScalarProperty Name="Address" ColumnName="Address" />
+                <ScalarProperty Name="Gender" ColumnName="Gender" />
+                <ScalarProperty Name="CediEquivalent" ColumnName="CediEquivalent" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="SurName" ColumnName="SurName" />
+                <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+                <ScalarProperty Name="Rate" ColumnName="Rate" />
+                <ScalarProperty Name="Amount" ColumnName="Amount" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+                <ScalarProperty Name="Receiptno" ColumnName="Receiptno" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="PurchasesDTimes">
+            <EntityTypeMapping TypeName="ForexModel.PurchasesDTime">
+              <MappingFragment StoreEntitySet="PurchasesDTime">
+                <ScalarProperty Name="DTime" ColumnName="DTime" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="PurchaseRate" ColumnName="PurchaseRate" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SalesDTimes">
+            <EntityTypeMapping TypeName="ForexModel.SalesDTime">
+              <MappingFragment StoreEntitySet="SalesDTime">
+                <ScalarProperty Name="DTime" ColumnName="DTime" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="Rate" ColumnName="Rate" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BOGPucRates">
+            <EntityTypeMapping TypeName="ForexModel.BOGPucRate">
+              <MappingFragment StoreEntitySet="BOGPucRates">
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+                <ScalarProperty Name="PurchaseRate" ColumnName="PurchaseRate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="BOGSalesRates">
+            <EntityTypeMapping TypeName="ForexModel.BOGSalesRate">
+              <MappingFragment StoreEntitySet="BOGSalesRate">
+                <ScalarProperty Name="BureauID" ColumnName="BureauID" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="Dated" ColumnName="Dated" />
+                <ScalarProperty Name="Rate" ColumnName="Rate" />
+                <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WeeklyRates">
+            <EntityTypeMapping TypeName="ForexModel.WeeklyRate">
+              <MappingFragment StoreEntitySet="WeeklyRates">
+                <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+                <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+                <ScalarProperty Name="CompanyID" ColumnName="CompanyID" />
+                <ScalarProperty Name="ORDERSEQ" ColumnName="ORDERSEQ" />
+                <ScalarProperty Name="SellSun" ColumnName="SellSun" />
+                <ScalarProperty Name="BuySun" ColumnName="BuySun" />
+                <ScalarProperty Name="SellSat" ColumnName="SellSat" />
+                <ScalarProperty Name="BuySat" ColumnName="BuySat" />
+                <ScalarProperty Name="SellFri" ColumnName="SellFri" />
+                <ScalarProperty Name="BuyFri" ColumnName="BuyFri" />
+                <ScalarProperty Name="SellThu" ColumnName="SellThu" />
+                <ScalarProperty Name="BuyThu" ColumnName="BuyThu" />
+                <ScalarProperty Name="SellWed" ColumnName="SellWed" />
+                <ScalarProperty Name="BuyWed" ColumnName="BuyWed" />
+                <ScalarProperty Name="SellTue" ColumnName="SellTue" />
+                <ScalarProperty Name="BuyTue" ColumnName="BuyTue" />
+                <ScalarProperty Name="SellMon" ColumnName="SellMon" />
+                <ScalarProperty Name="BuyMon" ColumnName="BuyMon" />
+                <ScalarProperty Name="CurrencyID" ColumnName="CurrencyID" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="WEEKLYDATES">
+            <EntityTypeMapping TypeName="ForexModel.WEEKLYDATE">
+              <MappingFragment StoreEntitySet="WEEKLYDATES">
+                <ScalarProperty Name="Days" ColumnName="Days" />
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="DATED" ColumnName="DATED" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UserGroups">
+            <EntityTypeMapping TypeName="ForexModel.UserGroup">
+              <MappingFragment StoreEntitySet="UserGroups">
+                <ScalarProperty Name="EntryDate" ColumnName="EntryDate" />
+                <ScalarProperty Name="EntryBy" ColumnName="EntryBy" />
+                <ScalarProperty Name="GroupName" ColumnName="GroupName" />
+                <ScalarProperty Name="GroupId" ColumnName="GroupId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

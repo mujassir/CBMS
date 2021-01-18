@@ -1,0 +1,432 @@
+﻿<%@ master language="C#" autoeventwireup="true" inherits="cbmsWA.report" codebehind="report.master.cs" %>
+
+<!DOCTYPE html>
+<!--[if IEMobile]><html class="iemobile" lang="en-gb"> <![endif]-->
+<!--[if IE 8]> <html class="no-js ie8" lang="en-gb"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-gb">
+<!--<![endif]-->
+
+<head id="Head1" runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <link href='Content/googlefont.css' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="/virtuemart_53504/templates/theme580/favicon.ico" />
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+
+    <link href="~/" rel="canonical" />
+    <link href="/virtuemart_53504/templates/theme580/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+
+    <link rel="stylesheet" href="Content/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="Content/font-awesome.css" type="text/css" />
+    <link rel="stylesheet" href="Content/bootstrap.css" type="text/css" />
+    <link rel="stylesheet" href="Content/allvmscripts.css" type="text/css" />
+    <%--<link rel="stylesheet" href="Content/virtuemart.css" type="text/css"/>--%>
+    <link rel="stylesheet" href="Content/animate.css" type="text/css" />
+    <link rel="stylesheet" href="Content/template.css" type="text/css" />
+    <link rel="stylesheet" href="Content/style.css" type="text/css" />
+    <link rel="stylesheet" href="Content/modal.css" type="text/css" />
+    <link rel="stylesheet" href="Content/camera.css" type="text/css" />
+    <link rel="stylesheet" href="Content/bannersblock.css" type="text/css" />
+    <link rel="stylesheet" href="Content/facebox.css?vmver=8672" type="text/css" />
+    <link rel="stylesheet" href="Content/chosen.css?vmver=8672" type="text/css" />
+    <link rel="stylesheet" href="Content/superfish.css" type="text/css" />
+    <link rel="stylesheet" href="Content/slicknav.css" type="text/css" />
+    <style type="text/css">
+        #camera_wrap_113 .camera_pag_ul li img {
+            height: 75px;
+        }
+
+        #camera_wrap_113 .camera_caption {
+            display: block;
+            position: absolute;
+        }
+
+            #camera_wrap_113 .camera_caption > div {
+            }
+
+                #camera_wrap_113 .camera_caption > div div.slideshowck_description {
+                }
+
+        #facebox .content {
+            display: block !important;
+            height: 480px !important;
+            overflow: auto;
+            width: 560px !important;
+        }
+    </style>
+
+    <script type="text/javascript">
+        jQuery(window).on('load', function () {
+            new JCaption('img.caption');
+        });
+        jQuery(function ($) {
+            SqueezeBox.initialize({});
+            SqueezeBox.assign($('a.modal').get(), {
+                parse: 'rel'
+            });
+        });
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <!--[if lt IE 9]><div style='clear:both;height:59px;padding:0 15px 0 15px;position:relative;z-index:10000;text-align:center;'><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div><![endif]-->
+    <script type="text/javascript">
+        var animate = '1';
+    </script>
+    <%--<script type="text/javascript">
+        // This function gets the current time and injects it into the DOM
+        function updateClock() {
+            // Gets the current time
+            var now = new Date();
+
+            // Get the hours, minutes and seconds from the current time
+            var hours = now.getHours();
+            var minutes = now.getMinutes();
+            var seconds = now.getSeconds();
+
+            // Format hours, minutes and seconds
+            if (hours < 10) {
+                hours = "0" + hours;
+            }
+            if (minutes < 10) {
+                minutes = "0" + minutes;
+            }
+            if (seconds < 10) {
+                seconds = "0" + seconds;
+            }
+
+            // Gets the element we want to inject the clock into
+            var elem = document.getElementById('clock');
+
+            // Sets the elements inner HTML value to our clock data
+            elem.innerHTML = hours + ':' + minutes + ':' + seconds;
+        }
+        </script>--%>
+</head>
+<body class="home featured">
+    <form id="form1" runat="server">
+        <telerik:radscriptmanager id="RadScriptManager1" runat="server"></telerik:radscriptmanager>
+        <div id="wrapper" class="z-index">
+            <div class="cotainer-top">
+
+                <div class="top-row">
+                    <div class="top">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-2 col-lg-2 col-sm-2">
+                                    <div class="navigation">
+                                        <i class="fa fa-bars dropdown-toggle" type="button"></i>
+
+
+
+                                    </div>
+
+                                </div>
+                                <div class="col-md-10 col-lg-10 col-sm-10">
+                                    <div class="moduletable moduletable__top-menu mod_menu">
+                                        <div class="module_content">
+                                            <ul class="menu menu__inline">
+                                                <li class="item-302"><a>
+                                                    <asp:label font-size="18" font-bold="true" runat="server" id="clock"></asp:label>
+                                                </a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="header-row">
+                    <div class="header">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-3 col-lg-3 col-sm-3">
+                                    <div class="logo-fleft">
+
+                                        <div class="site-logo site-logo__header">
+                                            <a class="site-logo_link" href="#">
+                                                <img id="Img1" class="site-logo_img" runat="server" src="images/vra1.jpg" alt="" />
+                                            </a>
+                                            <span class="site-desc"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-9 col-lg-9 col-sm-9">
+                                    <div class="moduletable  mod_custom">
+                                        <div class="module_content">
+                                            <div class="custom">
+                                                <ul>
+                                                    <li style="font-size: 24px; color: #13b1ec"><i class="fa fa-users"></i><b>CUSTOMER BILLING MANAGEMENT SYSTEM</b></li>
+
+                                                    <%--    <li><i><asp:Label ID="Label1" Font-Bold="true" Font-Size="Small" runat="server">Users Online :&nbsp;</asp:Label><asp:Label Font-Size="Small" Font-Bold="true" ID="uo" runat="server"></asp:Label></i></li>--%>
+                                                </ul>
+                                                <br />
+                                                <ul style="text-align: right">
+                                                    <li style="font-size: 12px"><i class="fa fa-user">&nbsp</i><asp:loginview id="LoginView1" runat="server" enableviewstate="false">
+                    
+                    <LoggedInTemplate>
+                   Welcome! &nbsp;   <b> <span><asp:LoginName ID="HeadLoginName" runat="server" /></span> [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/Login.aspx"/> ]</b>
+                       
+                    </LoggedInTemplate>
+                </asp:loginview></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+
+        </div>
+        <div class="main-row">
+            <div class="container">
+                <div class="main">
+                    <div class="row">
+
+                        <div class="col-md-3">
+                            <div class="aside aside__left">
+                                <div class="moduletable  mod_virtuemart_category">
+                                    <div class="module_header">
+                                        <h3 class="module_title">Navigation</h3>
+                                    </div>
+                                    <div class="module_content">
+                                        <asp:updatepanel id="UpdatePanel1" runat="server">
+         <ContentTemplate>
+     
+
+                           <asp:Panel ID="pnl" runat="server">
+    <telerik:radpanelbar ID="nav" runat="server" Skin="Metro" Font-Size="Small">
+        <Items>
+            <telerik:RadPanelItem runat="server" Text="Home" NavigateUrl="~/Default.aspx">
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem runat="server" Visible="false" Text="Setup Utilities" Expanded="True">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Area" NavigateUrl="~/addarea.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Cycle" NavigateUrl="~/addcycle.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Station" NavigateUrl="~/addstation.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Route" NavigateUrl="~/addroute.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Service Type" NavigateUrl="~/servicetype.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Cash Transaction Type" NavigateUrl="~/cashtranstype.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Customer Groups" NavigateUrl="~/groups.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Account Status" NavigateUrl="~/accountstatus.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Employees" NavigateUrl="~/addemployee.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" NavigateUrl="~/addrank.aspx" Text="Ranks">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" NavigateUrl="~/adddepartment.aspx" Text="Departments">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem runat="server" Expanded="True" Visible="false" Text="Tariffs">
+                <Items>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/addtarrif.aspx" Text="Tarrif Table">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/bands.aspx" Text="Tarrif Bands">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/tariffgovt.aspx" Text="Tarrif Table Govt">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/bandsgovt.aspx" Text="Tarrif Bands Govt">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem Visible="false" runat="server" Text="User Management" Expanded="True">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="All Users" NavigateUrl="~/users.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/AddUsers.aspx" Text="Add Users">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/accessrules.aspx" Text="User Roles">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem Visible="false" runat="server" Expanded="True" Text="Customer Services">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Enquiries">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Disconnections">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Reconnections">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Transfers to PNE">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem Visible="false" runat="server" Expanded="True" Text="New Service">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Application/Customer registration">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Service Connection Setup">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Approval for service connection">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Service Connection Advice">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem runat="server" Expanded="True" Visible="false" Text="Meter Management">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Meter Setup" Visible="false" NavigateUrl="metersetup.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/meterstore.aspx" Text="Central Meter Store">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Meter Assignment to Stations" NavigateUrl="~/stationmeterassignment.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Request for Meter" NavigateUrl="~/requestmeter.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Meter Request Review/Recommendation" NavigateUrl="~/metervetting.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/meterapproval.aspx" Text="Area Manger Approval">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Meter Assignment to Customers" NavigateUrl="~/assigntocust.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" Text="Meter Installations" NavigateUrl="~/meterinstallation.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/deinstallmeter.aspx" Text="Meter De-Installations">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" NavigateUrl="~/metertype.aspx" Text="Meter Type">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Visible="false" NavigateUrl="~/meterstat.aspx" Text="Meter Status">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem runat="server" Expanded="True" Visible="false" Text="Cash Transactions">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Online Cash Input" Visible="false" NavigateUrl="~/transactions.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Manual Cash Input" Visible="false" NavigateUrl="~/manualtrans.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Adjustments" Visible="false" NavigateUrl="~/adjustmnts.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Receipt Books Registration" Visible="false" NavigateUrl="~/rptbooks.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Manual Batches" Visible="false" NavigateUrl="~/manualreceipts.aspx" Expanded="True">
+                        <Items>
+                            <telerik:RadPanelItem runat="server" NavigateUrl="~/editbatches.aspx" Text="Edit Batches">
+                            </telerik:RadPanelItem>
+                        </Items>
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/reversetrans.aspx" Visible="false" Text="Reverse Transactions">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/tranbycashier.aspx" Text="All Transactions">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Today's Transactions" NavigateUrl="~/cashtrantoday.aspx">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" NavigateUrl="~/transbyperiod.aspx" Text="Transactions By Period">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem Visible="false" runat="server" Expanded="True" Text="Meter Readings">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Consumption Proof">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem Visible="false" runat="server" Expanded="True" Text="Billing">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Bill Posting">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Initiate Meter Reading">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Update Billing Date">
+                    </telerik:RadPanelItem>
+                    <telerik:RadPanelItem runat="server" Text="Update Posting Billing Date">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+            <telerik:RadPanelItem runat="server" Visible="false" Expanded="True" Text="Reports">
+                <Items>
+                    <telerik:RadPanelItem runat="server" Text="Standard Reports">
+                    </telerik:RadPanelItem>
+                </Items>
+            </telerik:RadPanelItem>
+        </Items>
+
+    </telerik:radpanelbar>
+</asp:Panel>
+</ContentTemplate>
+</asp:updatepanel>
+
+                                    </div>
+                                </div>
+                                <div class="moduletable moduletable__testi mod_custom">
+                                    <div class="module_content">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-9">
+
+                            <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:contentplaceholder>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="push"></div>
+        <div id="footer">
+
+
+            <div class="footer-row">
+                <div class="container">
+                    <div class="footer">
+                        <div class="row">
+                            <div class="col-md-2 col-lg-3 col-sm-2 border">
+                                <div class="moduletable  mod_socialmedialinks">
+                                    <div class="module_content">
+                                        <div class="clr"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="copyright-row">
+                <div class="container">
+                    <div class="copyright">
+                        <div class="moduletable   mod_footer">
+                            <div class="module_content">
+                                Copyright &#169; <%=DateTime.Now.Year %>. All Rights Reserved.
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+    </form>
+</body>
+</html>

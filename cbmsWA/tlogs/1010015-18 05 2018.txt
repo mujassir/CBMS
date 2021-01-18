@@ -1,0 +1,12 @@
+Customer ID: 101188696 Customer Name: CHARLES OPPONG Receipt No: 1010015-65691 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 10:02:30 AM Cashier ID: 1010015
+
+Customer ID: 101203378 Customer Name: ADJEI GORDON Receipt No: 1010015-960521 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 10:13:10 AM Cashier ID: 1010015
+
+Customer ID: 101199677 Customer Name: KUSI BENJAMIN  Receipt No: 1010015-981840 Transaction Amount: 50 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 10:54:26 AM Cashier ID: 1010015
+
+Customer ID: 101137902 Customer Name: LOLOVI KWAME Receipt No: 1010015-49351 Transaction Amount: 150 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 12:47:31 PM Cashier ID: 1010015
+
+Customer ID: 101047710 Customer Name: KWASI  BOANU  Receipt No: 1010015-631231 Transaction Amount: 141.2 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 1:47:10 PM Cashier ID: 1010015
+
+Customer ID: 101024936 Customer Name: MICHAEL NSOH Receipt No: 1010015-484469 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/18/2018 4:33:31 PM Cashier ID: 1010015
+

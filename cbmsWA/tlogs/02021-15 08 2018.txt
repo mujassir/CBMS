@@ -1,0 +1,4 @@
+Customer ID: 114174952 Customer Name: MONICA AFRA Receipt No: 02021-11428 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/15/2018 8:03:36 AM Cashier ID: 02021
+
+Customer ID: 114066003 Customer Name: NKRUMAH KWQADWO Receipt No: 02021-291503 Transaction Amount: 24 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/15/2018 8:56:48 AM Cashier ID: 02021
+

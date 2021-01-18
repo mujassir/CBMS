@@ -1,0 +1,4 @@
+Customer ID: 114190479 Customer Name: CHURCH METHODIST Receipt No: 02022-638881 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/24/2018 3:15:12 PM Cashier ID: 02022
+
+Customer ID: 114063313 Customer Name: OFORI ISAAC Receipt No: 02022-738331 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/24/2018 3:18:49 PM Cashier ID: 02022
+

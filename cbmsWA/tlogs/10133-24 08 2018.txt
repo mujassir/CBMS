@@ -1,0 +1,4 @@
+Customer ID: 101000812 Customer Name: EMMANUEL  YAW Receipt No: 10133-285849 Transaction Amount: 28.2 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/24/2018 12:02:41 PM Cashier ID: 10133
+
+Customer ID: 101121507 Customer Name:  CHRISTIAN KYERE Receipt No: 10133-927206 Transaction Amount: 135 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/24/2018 12:22:18 PM Cashier ID: 10133
+

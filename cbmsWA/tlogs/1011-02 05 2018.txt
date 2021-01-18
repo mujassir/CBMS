@@ -1,0 +1,22 @@
+Customer ID: 101070901 Customer Name: GEORGE TAKYI Receipt No: 1011-754627 Transaction Amount: 117 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 9:09:52 AM Cashier ID: 1011
+
+Customer ID: 101137449 Customer Name: JOYCE ADU Receipt No: 1011-815105 Transaction Amount: 122 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 9:44:50 AM Cashier ID: 1011
+
+Customer ID: 101060479 Customer Name: K. SAMUEL  OPOKU Receipt No: 1011-916077 Transaction Amount: 110 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 11:06:07 AM Cashier ID: 1011
+
+Customer ID: 101119541 Customer Name: NKRUMAH COMFORT Receipt No: 1011-276925 Transaction Amount: 50 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 11:46:35 AM Cashier ID: 1011
+
+Customer ID: 101049461 Customer Name: YEBOAH KOFI Receipt No: 1011-594528 Transaction Amount: 500 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 1:45:41 PM Cashier ID: 1011
+
+Customer ID: 101032263 Customer Name: DANIEL AGYEMANG Receipt No: 1011-952432 Transaction Amount: 35 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 2:36:45 PM Cashier ID: 1011
+
+Customer ID: 101029486 Customer Name: YHERBIN JANET BONYENE Receipt No: 1011-516358 Transaction Amount: 95 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 2:57:30 PM Cashier ID: 1011
+
+Customer ID: 101096329 Customer Name: KYEREMEH BOAKYE AMPAABENG Receipt No: 1011-962718 Transaction Amount: 38 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 4:18:48 PM Cashier ID: 1011
+
+Customer ID: 101007618 Customer Name: CYNTHIA BENEWAA Receipt No: 1011-76265 Transaction Amount: 15 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 4:24:32 PM Cashier ID: 1011
+
+Customer ID: 101075749 Customer Name: NARH TETTEH EMMANUEL Receipt No: 1011-481105 Transaction Amount: 100 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 4:59:34 PM Cashier ID: 1011
+
+Customer ID: 101007618 Customer Name: CYNTHIA BENEWAA Receipt No: 1011-165563 Transaction Amount: 4 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 5/2/2018 5:07:10 PM Cashier ID: 1011
+

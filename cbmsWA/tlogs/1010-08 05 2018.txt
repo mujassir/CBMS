@@ -1,0 +1,18 @@
+Customer ID: 101102082 Customer Name: BOAKYE (MR.$MRS) ODURO Receipt No: 1010-375362 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 11:23:08 AM Cashier ID: 1010
+
+Customer ID: 101177651 Customer Name: KOFI BARIMAH $RITA ACHIAA DR. Receipt No: 1010-791558 Transaction Amount: 242 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 12:17:32 PM Cashier ID: 1010
+
+Customer ID: 101034117 Customer Name: REBECCA KONAMA,  Receipt No: 1010-959956 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 12:36:50 PM Cashier ID: 1010
+
+Customer ID: 101034117 Customer Name: REBECCA KONAMA,  Receipt No: 1010-459147 Transaction Amount: 53 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 12:37:41 PM Cashier ID: 1010
+
+Customer ID: 101157567 Customer Name: TRADITIONAL COUNCIL SUNYANI Receipt No: 1010-16481 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 1:45:27 PM Cashier ID: 1010
+
+Customer ID: 101098505 Customer Name: TRADITIONAL COUNCIL SUNYANI Receipt No: 1010-871359 Transaction Amount: 300 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 1:46:54 PM Cashier ID: 1010
+
+Customer ID: 101156934 Customer Name: KISSI LAWRENCE Receipt No: 1010-367030 Transaction Amount: 120 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 2:39:29 PM Cashier ID: 1010
+
+Customer ID: 101199196 Customer Name: ROCKY OFOSU Receipt No: 1010-582099 Transaction Amount: 20 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 4:44:05 PM Cashier ID: 1010
+
+Customer ID: 101129814 Customer Name: AMANFO &MS. MARIAMA OFORI Receipt No: 1010-376483 Transaction Amount: 30 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/8/2018 5:14:30 PM Cashier ID: 1010
+

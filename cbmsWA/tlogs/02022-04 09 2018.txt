@@ -1,0 +1,24 @@
+Customer ID: 114168009 Customer Name: BISMARK OPPONG Receipt No: 02022-397017 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 8:02:05 AM Cashier ID: 02022
+
+Customer ID: 114096588 Customer Name: FAUSTINA AMPONSAH Receipt No: 02022-521857 Transaction Amount: 38 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:03:07 AM Cashier ID: 02022
+
+Customer ID: 114073028 Customer Name: ISSAKA. HAMIDU Receipt No: 02022-273030 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:15:33 AM Cashier ID: 02022
+
+Customer ID: 114121756 Customer Name: MANU AKUA Receipt No: 02022-703582 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:17:31 AM Cashier ID: 02022
+
+Customer ID: 114097958 Customer Name: THOMAS TABIRI Receipt No: 02022-117669 Transaction Amount: 15 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:30:11 AM Cashier ID: 02022
+
+Customer ID: 114212458 Customer Name: SULE IBRAHIM Receipt No: 02022-23299 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:54:22 AM Cashier ID: 02022
+
+Customer ID: 114180601 Customer Name: EDWARD FRIMPONG MR Receipt No: 02022-492500 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 9:56:58 AM Cashier ID: 02022
+
+Customer ID: 114024286 Customer Name: KONADU FELICIA Receipt No: 02022-914930 Transaction Amount: 900 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 10:01:39 AM Cashier ID: 02022
+
+Customer ID: 114083774 Customer Name: SERWAA EVELYN Receipt No: 02022-973525 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 10:06:05 AM Cashier ID: 02022
+
+Customer ID: 114011457 Customer Name: BIRAGO JANET Receipt No: 02022-135317 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 11:30:10 AM Cashier ID: 02022
+
+Customer ID: 114011457 Customer Name: BIRAGO JANET Receipt No: 02022-472620 Transaction Amount: 80 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 11:31:28 AM Cashier ID: 02022
+
+Customer ID: 114011457 Customer Name: BIRAGO JANET Receipt No: 02022-424276 Transaction Amount: 45 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/4/2018 11:32:54 AM Cashier ID: 02022
+

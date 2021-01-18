@@ -1,0 +1,190 @@
+Customer ID: 110002106 Customer Name: STEPHEN AWHA Receipt No: 10001-165410 Transaction Amount: 140 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 8:19:03 AM Cashier ID: 10001
+
+Customer ID: 110023028 Customer Name: LOVIS KYERE Receipt No: 10001-702767 Transaction Amount: 150 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 8:22:09 AM Cashier ID: 10001
+
+Customer ID: 110193337 Customer Name: ALHASA GEORGE  Receipt No: 10001-633275 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 8:24:40 AM Cashier ID: 10001
+
+Customer ID: 110193745 Customer Name: ABUU ANKAMAH Receipt No: 10001-277362 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 8:33:04 AM Cashier ID: 10001
+
+Customer ID: 110171248 Customer Name: Christopher Asare Receipt No: 10001-580817 Transaction Amount: 80 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 8:34:50 AM Cashier ID: 10001
+
+Customer ID: 110158398 Customer Name: KWAKU ATTA  Receipt No: 10001-764615 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:08:19 AM Cashier ID: 10001
+
+Customer ID: 110176199 Customer Name:  KWADWO  A. OFORI Receipt No: 10001-103885 Transaction Amount: 26 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:09:12 AM Cashier ID: 10001
+
+Customer ID: 110219537 Customer Name: DENEIL AUSU PROPHET Receipt No: 10001-902647 Transaction Amount: 8 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:12:09 AM Cashier ID: 10001
+
+Customer ID: 110219564 Customer Name: DANEIL AUSU PROPHET Receipt No: 10001-129997 Transaction Amount: 8 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:12:55 AM Cashier ID: 10001
+
+Customer ID: 110028780 Customer Name: ABASS MUNTARI Receipt No: 10001-853833 Transaction Amount: 15 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:14:17 AM Cashier ID: 10001
+
+Customer ID: 110199683 Customer Name: AGNES  TAKYIWAA Receipt No: 10001-352904 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:15:06 AM Cashier ID: 10001
+
+Customer ID: 110183739 Customer Name: CHURCH OF PENTECOST THE Receipt No: 10001-345653 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:25:03 AM Cashier ID: 10001
+
+Customer ID: 110050201 Customer Name: FLORENCE KYEREMAA Receipt No: 10001-158901 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:35:34 AM Cashier ID: 10001
+
+Customer ID: 110129657 Customer Name: K. LEWIS BEDIAKO Receipt No: 10001-976791 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:44:07 AM Cashier ID: 10001
+
+Customer ID: 110203587 Customer Name: PASTOR  THE Receipt No: 10001-755324 Transaction Amount: 54 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:45:13 AM Cashier ID: 10001
+
+Customer ID: 110060645 Customer Name: PRINCE TWUM Receipt No: 10001-322431 Transaction Amount: 94 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:47:33 AM Cashier ID: 10001
+
+Customer ID: 110100331 Customer Name: BOAKYE OPOKU Receipt No: 10001-230667 Transaction Amount: 2 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:55:35 AM Cashier ID: 10001
+
+Customer ID: 110058872 Customer Name: JOYCE  NKETIAH Receipt No: 10001-698987 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:57:31 AM Cashier ID: 10001
+
+Customer ID: 110155841 Customer Name: ADU YAW ANTHONY  Receipt No: 10001-63436 Transaction Amount: 40.7 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 9:58:51 AM Cashier ID: 10001
+
+Customer ID: 110151473 Customer Name: PETER KWANG Receipt No: 10001-358488 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:16:09 AM Cashier ID: 10001
+
+Customer ID: 110156543 Customer Name: MAVIS ADUBIA Receipt No: 10001-120397 Transaction Amount: 26 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:18:54 AM Cashier ID: 10001
+
+Customer ID: 110177916 Customer Name: KYEREMEH ANTHONY Receipt No: 10001-67758 Transaction Amount: 35 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:20:30 AM Cashier ID: 10001
+
+Customer ID: 110005452 Customer Name: MOHAMED ANKAMAH Receipt No: 10001-464862 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:25:34 AM Cashier ID: 10001
+
+Customer ID: 110109721 Customer Name: KWABENA ADINKRAH  Receipt No: 10001-811545 Transaction Amount: 78 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:28:30 AM Cashier ID: 10001
+
+Customer ID: 110040959 Customer Name: TAWIA YAA Receipt No: 10001-405753 Transaction Amount: 36 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:40:03 AM Cashier ID: 10001
+
+Customer ID: 110145187 Customer Name: BEDIAKO YAW  Receipt No: 10001-834294 Transaction Amount: 162 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:42:19 AM Cashier ID: 10001
+
+Customer ID: 110158159 Customer Name: S.K.TAKY  Receipt No: 10001-913076 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:51:21 AM Cashier ID: 10001
+
+Customer ID: 110135085 Customer Name:   MARGARET BENEWAA Receipt No: 10001-653696 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:52:29 AM Cashier ID: 10001
+
+Customer ID: 110068953 Customer Name: MARTIN ADJEI Receipt No: 10001-861222 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 10:55:42 AM Cashier ID: 10001
+
+Customer ID: 110084074 Customer Name: K. MUNUFIE STEPHEN Receipt No: 10001-615917 Transaction Amount: 82 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:07:31 AM Cashier ID: 10001
+
+Customer ID: 110171565 Customer Name: PRIEST THE  Receipt No: 10001-584810 Transaction Amount: 56 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:08:28 AM Cashier ID: 10001
+
+Customer ID: 110165007 Customer Name: BEATRICE TWENEWAA Receipt No: 10001-101611 Transaction Amount: 3 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:10:16 AM Cashier ID: 10001
+
+Customer ID: 110165007 Customer Name: BEATRICE TWENEWAA Receipt No: 10001-783500 Transaction Amount: 4 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:11:00 AM Cashier ID: 10001
+
+Customer ID: 110009595 Customer Name: KWADWO MARFO Receipt No: 10001-851670 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:12:10 AM Cashier ID: 10001
+
+Customer ID: 110115839 Customer Name: BOSEA THOMAS Receipt No: 10001-203328 Transaction Amount: 31 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:14:57 AM Cashier ID: 10001
+
+Customer ID: 110069040 Customer Name: AMPONSAH KWADWO Receipt No: 10001-37436 Transaction Amount: 16 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:16:34 AM Cashier ID: 10001
+
+Customer ID: 110093903 Customer Name: CYNTHIA FERKAA Receipt No: 10001-866323 Transaction Amount: 49 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:17:50 AM Cashier ID: 10001
+
+Customer ID: 110222861 Customer Name: BOATEMAA LAWRENCIA Receipt No: 10001-640050 Transaction Amount: 140 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:19:05 AM Cashier ID: 10001
+
+Customer ID: 110222861 Customer Name: BOATEMAA LAWRENCIA Receipt No: 10001-186859 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:19:45 AM Cashier ID: 10001
+
+Customer ID: 110222861 Customer Name: BOATEMAA LAWRENCIA Receipt No: 10001-922721 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:20:35 AM Cashier ID: 10001
+
+Customer ID: 110206240 Customer Name: YEBOAH KWADWO Receipt No: 10001-271276 Transaction Amount: 24 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:24:40 AM Cashier ID: 10001
+
+Customer ID: 110084271 Customer Name: AGYEI ADU Receipt No: 10001-868708 Transaction Amount: 25 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:25:38 AM Cashier ID: 10001
+
+Customer ID: 110053154 Customer Name: GARIBA ALI  Receipt No: 10001-699644 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:26:48 AM Cashier ID: 10001
+
+Customer ID: 110219084 Customer Name: OPPONG YEBOAH FRANK Receipt No: 10001-508319 Transaction Amount: 70 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:28:16 AM Cashier ID: 10001
+
+Customer ID: 110011034 Customer Name: MARIA ASIBI Receipt No: 10001-876348 Transaction Amount: 90 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:32:46 AM Cashier ID: 10001
+
+Customer ID: 110151150 Customer Name: KWABENA ANTHONY ASOMAH Receipt No: 10001-826447 Transaction Amount: 133 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:34:22 AM Cashier ID: 10001
+
+Customer ID: 110215385 Customer Name: K. AGYEI JOSEPH Receipt No: 10001-69739 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:35:19 AM Cashier ID: 10001
+
+Customer ID: 110045457 Customer Name: ARMSTRONG ANKAMAH  Receipt No: 10001-85868 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:40:42 AM Cashier ID: 10001
+
+Customer ID: 110118375 Customer Name: KWAME ABINA Receipt No: 10001-531974 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:42:20 AM Cashier ID: 10001
+
+Customer ID: 110205955 Customer Name: ROYAL KORASEMAN  Receipt No: 10001-592304 Transaction Amount: 12 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:48:30 AM Cashier ID: 10001
+
+Customer ID: 110086376 Customer Name: BENJAMIN SAKYI  Receipt No: 10001-694452 Transaction Amount: 34 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:51:33 AM Cashier ID: 10001
+
+Customer ID: 110069583 Customer Name: NICHOLAS EFFAH  Receipt No: 10001-426314 Transaction Amount: 128 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:52:58 AM Cashier ID: 10001
+
+Customer ID: 110212073 Customer Name: David Owusu Receipt No: 10001-612846 Transaction Amount: 65 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:56:05 AM Cashier ID: 10001
+
+Customer ID: 110017326 Customer Name: POKU KWADJO  Receipt No: 10001-232608 Transaction Amount: 131 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 11:58:56 AM Cashier ID: 10001
+
+Customer ID: 110054869 Customer Name: TUFFOUR ANDREWS  Receipt No: 10001-186501 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:03:09 PM Cashier ID: 10001
+
+Customer ID: 110078865 Customer Name: JOSEPH ASANTE Receipt No: 10001-395850 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:05:17 PM Cashier ID: 10001
+
+Customer ID: 110050184 Customer Name: L. DR.TUFFOUR Receipt No: 10001-217706 Transaction Amount: 31 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:06:17 PM Cashier ID: 10001
+
+Customer ID: 110043636 Customer Name: EMELIA GYABAAH  Receipt No: 10001-261717 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:22:59 PM Cashier ID: 10001
+
+Customer ID: 110056346 Customer Name: MATILDA BAFFOUR Receipt No: 10001-797833 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:23:45 PM Cashier ID: 10001
+
+Customer ID: 110050427 Customer Name: RICHARD KYERE  Receipt No: 10001-63020 Transaction Amount: 12.5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:24:54 PM Cashier ID: 10001
+
+Customer ID: 110002744 Customer Name: AKOSUA SOMEA Receipt No: 10001-441798 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:27:42 PM Cashier ID: 10001
+
+Customer ID: 110205955 Customer Name: ROYAL KORASEMAN  Receipt No: 10001-837966 Transaction Amount: 25.5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:29:51 PM Cashier ID: 10001
+
+Customer ID: 110188231 Customer Name: YAA ATAA Receipt No: 10001-526328 Transaction Amount: 87 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:31:39 PM Cashier ID: 10001
+
+Customer ID: 110075521 Customer Name: KOFI ADJEI Receipt No: 10001-134027 Transaction Amount: 3 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:32:31 PM Cashier ID: 10001
+
+Customer ID: 110084178 Customer Name: ANTWI KWABENA  Receipt No: 10001-879852 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:33:14 PM Cashier ID: 10001
+
+Customer ID: 110126768 Customer Name: KODA DRAMANI Receipt No: 10001-462618 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:39:48 PM Cashier ID: 10001
+
+Customer ID: 110079903 Customer Name: TAKYI KWASI  Receipt No: 10001-511347 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:45:52 PM Cashier ID: 10001
+
+Customer ID: 110043640 Customer Name: DIRECTOR G.E.S. THE Receipt No: 10001-138217 Transaction Amount: 57 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:48:29 PM Cashier ID: 10001
+
+Customer ID: 110115354 Customer Name: EMMANUEL ABOSI  Receipt No: 10001-518342 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 12:59:16 PM Cashier ID: 10001
+
+Customer ID: 110060135 Customer Name: KWASI TANNOR Receipt No: 10001-412883 Transaction Amount: 5 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:03:07 PM Cashier ID: 10001
+
+Customer ID: 110009216 Customer Name: AUGUSTINE NKETIA Receipt No: 10001-945458 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:09:44 PM Cashier ID: 10001
+
+Customer ID: 110141897 Customer Name: TANO KWAKU  Receipt No: 10001-976632 Transaction Amount: 12 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:15:11 PM Cashier ID: 10001
+
+Customer ID: 110113235 Customer Name: NANA ADJEI SAMPSON Receipt No: 10001-300241 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:16:06 PM Cashier ID: 10001
+
+Customer ID: 110149144 Customer Name: THOMAS KOOSONO  Receipt No: 10001-724246 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:25:58 PM Cashier ID: 10001
+
+Customer ID: 110063666 Customer Name: VIDA YEBOAA Receipt No: 10001-293938 Transaction Amount: 38 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:28:56 PM Cashier ID: 10001
+
+Customer ID: 110183306 Customer Name: ISSABELLA TIWA Receipt No: 10001-624027 Transaction Amount: 12.4 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:29:59 PM Cashier ID: 10001
+
+Customer ID: 110075711 Customer Name: TAKYI KWADWO Receipt No: 10001-992398 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:34:54 PM Cashier ID: 10001
+
+Customer ID: 110221594 Customer Name: STEPHEN KUMI Receipt No: 10001-566226 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:44:54 PM Cashier ID: 10001
+
+Customer ID: 110155609 Customer Name: GYINAA  BENNEH NANA  Receipt No: 10001-500089 Transaction Amount: 48 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:47:21 PM Cashier ID: 10001
+
+Customer ID: 110205895 Customer Name: KWABENA YEBOAH Receipt No: 10001-611853 Transaction Amount: 25 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:48:18 PM Cashier ID: 10001
+
+Customer ID: 110180571 Customer Name: SEIDU RAZARK Receipt No: 10001-351016 Transaction Amount: 8 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:51:30 PM Cashier ID: 10001
+
+Customer ID: 110022834 Customer Name: ISAKA ABUKARI  Receipt No: 10001-821118 Transaction Amount: 8 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 1:53:25 PM Cashier ID: 10001
+
+Customer ID: 110008657 Customer Name:  A A FEKAA Receipt No: 10001-462176 Transaction Amount: 27 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:10:12 PM Cashier ID: 10001
+
+Customer ID: 110079823 Customer Name: ANTHONY AMANKONA Receipt No: 10001-992581 Transaction Amount: 48 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:14:14 PM Cashier ID: 10001
+
+Customer ID: 110138949 Customer Name: KUSI KWADJO  Receipt No: 10001-191580 Transaction Amount: 19 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:15:08 PM Cashier ID: 10001
+
+Customer ID: 110103688 Customer Name: SERWAA THERESA Receipt No: 10001-893684 Transaction Amount: 56 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:16:03 PM Cashier ID: 10001
+
+Customer ID: 110013672 Customer Name: ANTWI OWUSU  Receipt No: 10001-904364 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:18:59 PM Cashier ID: 10001
+
+Customer ID: 110062016 Customer Name: MANU DANIEL Receipt No: 10001-9557 Transaction Amount: 8 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:26:17 PM Cashier ID: 10001
+
+Customer ID: 110109022 Customer Name: EMELIA ADZAMLI Receipt No: 10001-955586 Transaction Amount: 4 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:31:28 PM Cashier ID: 10001
+
+Customer ID: 110085001 Customer Name: CECILIA TAKYIWAA  Receipt No: 10001-806 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:35:44 PM Cashier ID: 10001
+
+Customer ID: 110008819 Customer Name: ADUBEA AKOSUA  Receipt No: 10001-658171 Transaction Amount: 120 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:38:44 PM Cashier ID: 10001
+
+Customer ID: 110125267 Customer Name: BAAH KYERE Receipt No: 10001-402722 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:47:56 PM Cashier ID: 10001
+
+Customer ID: 110203730 Customer Name: JAMES MR. Receipt No: 10001-448891 Transaction Amount: 32 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:48:40 PM Cashier ID: 10001
+
+Customer ID: 110048039 Customer Name: THEOPHILUS ADJEI Receipt No: 10001-720713 Transaction Amount: 70 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:50:35 PM Cashier ID: 10001
+
+Customer ID: 110097036 Customer Name:  Felicia Agyeiwaa Receipt No: 10001-115965 Transaction Amount: 145 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/11/2018 2:54:04 PM Cashier ID: 10001
+

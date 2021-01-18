@@ -1,0 +1,44 @@
+Customer ID: 110217439 Customer Name: Y. BISMARK OBIRI Receipt No: 10003-814779 Transaction Amount: 162 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:06:18 PM Cashier ID: 10003
+
+Customer ID: 110167521 Customer Name: DUOH FRANCIS Receipt No: 10003-602733 Transaction Amount: 251 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:08:25 PM Cashier ID: 10003
+
+Customer ID: 110076079 Customer Name: ADUBEA COMFORT  Receipt No: 10003-414728 Transaction Amount: 12 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:09:48 PM Cashier ID: 10003
+
+Customer ID: 110072769 Customer Name: GYAMFI REX ADU Receipt No: 10003-777909 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:10:48 PM Cashier ID: 10003
+
+Customer ID: 110009134 Customer Name: GYABAAH BOSEA Receipt No: 10003-329939 Transaction Amount: 14 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:14:51 PM Cashier ID: 10003
+
+Customer ID: 110212221 Customer Name:  MARTS  HOSPITAL ST. Receipt No: 10003-931219 Transaction Amount: 242.35 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:31:39 PM Cashier ID: 10003
+
+Customer ID: 110212221 Customer Name:  MARTS  HOSPITAL ST. Receipt No: 10003-404050 Transaction Amount: 108.33 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:36:09 PM Cashier ID: 10003
+
+Customer ID: 110136825 Customer Name: AND MIDWIFERY TRAINING COLLEGE NURSING Receipt No: 10003-489800 Transaction Amount: 1184.11 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:40:44 PM Cashier ID: 10003
+
+Customer ID: 110136825 Customer Name: AND MIDWIFERY TRAINING COLLEGE NURSING Receipt No: 10003-166599 Transaction Amount: 1763.82 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:43:30 PM Cashier ID: 10003
+
+Customer ID: 110034682 Customer Name: ADMINISTRATOR THE Receipt No: 10003-579082 Transaction Amount: 438.02 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:46:03 PM Cashier ID: 10003
+
+Customer ID: 110034682 Customer Name: ADMINISTRATOR THE Receipt No: 10003-9212 Transaction Amount: 438.02 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:49:59 PM Cashier ID: 10003
+
+Customer ID: 110006973 Customer Name: PRINCIPAL THE Receipt No: 10003-777913 Transaction Amount: 178.39 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:52:33 PM Cashier ID: 10003
+
+Customer ID: 110006973 Customer Name: PRINCIPAL THE Receipt No: 10003-640710 Transaction Amount: 178.39 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:55:16 PM Cashier ID: 10003
+
+Customer ID: 110222453 Customer Name: THE  PRINCIPAL Receipt No: 10003-738934 Transaction Amount: 37.2 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:57:25 PM Cashier ID: 10003
+
+Customer ID: 110222456 Customer Name: THE  PRINCIPAL Receipt No: 10003-446585 Transaction Amount: 37.2 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 3:59:05 PM Cashier ID: 10003
+
+Customer ID: 110007277 Customer Name: AKWASI SAFARO Receipt No: 10003-637104 Transaction Amount: 200 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:04:07 PM Cashier ID: 10003
+
+Customer ID: 110005116 Customer Name: AFRAH YAA Receipt No: 10003-167992 Transaction Amount: 60 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:07:47 PM Cashier ID: 10003
+
+Customer ID: 110017556 Customer Name: MUSAH ISSAKA  Receipt No: 10003-558001 Transaction Amount: 20 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:11:14 PM Cashier ID: 10003
+
+Customer ID: 110148058 Customer Name: MANU KOFI Receipt No: 10003-782996 Transaction Amount: 50 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:14:51 PM Cashier ID: 10003
+
+Customer ID: 110022344 Customer Name: TWUM KWAKU  Receipt No: 10003-913182 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:23:56 PM Cashier ID: 10003
+
+Customer ID: 110038144 Customer Name: YEBOAH KWABENA  Receipt No: 10003-651133 Transaction Amount: 92 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:46:38 PM Cashier ID: 10003
+
+Customer ID: 110029937 Customer Name: JONES KYEREMEH Receipt No: 10003-514433 Transaction Amount: 300 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 4:56:33 PM Cashier ID: 10003
+

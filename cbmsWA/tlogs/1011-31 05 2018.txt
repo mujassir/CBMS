@@ -1,0 +1,10 @@
+Customer ID: 101028712 Customer Name: CHARLES KUMI Receipt No: 1011-120860 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/31/2018 10:25:09 AM Cashier ID: 1011
+
+Customer ID: 101011117 Customer Name: AUGUSTINE APPIAH Receipt No: 1011-493433 Transaction Amount: 63 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/31/2018 11:13:18 AM Cashier ID: 1011
+
+Customer ID: 101212203 Customer Name: YEBOAH FRANK Receipt No: 1011-903863 Transaction Amount: 63 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/31/2018 1:03:36 PM Cashier ID: 1011
+
+Customer ID: 101163644 Customer Name: ESHUN EMMANUEL MR Receipt No: 1011-374797 Transaction Amount: 120 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/31/2018 2:41:10 PM Cashier ID: 1011
+
+Customer ID: 101089931 Customer Name:  AMOAH GEORGE Receipt No: 1011-68992 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/31/2018 3:43:59 PM Cashier ID: 1011
+

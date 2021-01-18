@@ -1,0 +1,4 @@
+Customer ID: 110045953 Customer Name: JOHN ATUY Receipt No: 10002-595232 Transaction Amount: 93 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/28/2018 11:55:27 AM Cashier ID: 10002
+
+Customer ID: 110073276 Customer Name: EMMANUEL YEBOAH Receipt No: 10002-903535 Transaction Amount: 125 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/28/2018 1:45:39 PM Cashier ID: 10002
+

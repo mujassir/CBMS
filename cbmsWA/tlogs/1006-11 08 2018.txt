@@ -1,0 +1,8 @@
+Customer ID: 102064520 Customer Name: K. GYAMFI ANTHONY Receipt No: 1006-223140 Transaction Amount: 80 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/11/2018 9:46:17 AM Cashier ID: 1006
+
+Customer ID: 102209833 Customer Name:  ASANTEWAA MARY Receipt No: 1006-910218 Transaction Amount: 45 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/11/2018 1:04:51 PM Cashier ID: 1006
+
+Customer ID: 102025452 Customer Name: APPIAH THOMAS Receipt No: 1006-88312 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/11/2018 2:10:45 PM Cashier ID: 1006
+
+Customer ID: 102152227 Customer Name: KUMA KWASI Receipt No: 1006-790464 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/11/2018 2:23:30 PM Cashier ID: 1006
+

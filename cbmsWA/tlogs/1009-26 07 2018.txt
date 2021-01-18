@@ -1,0 +1,12 @@
+Customer ID: 101008606 Customer Name: EDU. UNIT METHODIST  Receipt No: 1009-458453 Transaction Amount: 500 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 9:22:24 AM Cashier ID: 1009
+
+Customer ID: 101023237 Customer Name: KWABENA GYEKYE, Receipt No: 1009-702107 Transaction Amount: 64 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 11:27:56 AM Cashier ID: 1009
+
+Customer ID: 101153529 Customer Name: UNION CONGRESS TRADE  Receipt No: 1009-188588 Transaction Amount: 263 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 11:35:39 AM Cashier ID: 1009
+
+Customer ID: 101074322 Customer Name: NKRUMAH KWABENA Receipt No: 1009-603782 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 11:43:30 AM Cashier ID: 1009
+
+Customer ID: 101179736 Customer Name: CHARITY DANSO Receipt No: 1009-155468 Transaction Amount: 8 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 1:14:21 PM Cashier ID: 1009
+
+Customer ID: 101178290 Customer Name: KYERE ANDREWS Receipt No: 1009-981078 Transaction Amount: 600 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/26/2018 3:41:52 PM Cashier ID: 1009
+

@@ -1,0 +1,14 @@
+Customer ID: 101107284 Customer Name: ACTING MANAGER THE Receipt No: 1010-190507 Transaction Amount: 117 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 10:05:26 AM Cashier ID: 1010
+
+Customer ID: 101058966 Customer Name: ELIZABETH TAKYIWAA Receipt No: 1010-855463 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 10:21:41 AM Cashier ID: 1010
+
+Customer ID: 101123633 Customer Name: KWABENA AMPONSAH Receipt No: 1010-981843 Transaction Amount: 200 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 12:40:34 PM Cashier ID: 1010
+
+Customer ID: 101212778 Customer Name: AMPONSAH KWABENA Receipt No: 1010-138951 Transaction Amount: 1000 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 12:47:23 PM Cashier ID: 1010
+
+Customer ID: 101026609 Customer Name:  ADDO REGINA Receipt No: 1010-723228 Transaction Amount: 70 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 2:00:51 PM Cashier ID: 1010
+
+Customer ID: 101032433 Customer Name: AMOAH ENOCH  Receipt No: 1010-542651 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 3:53:03 PM Cashier ID: 1010
+
+Customer ID: 101190628 Customer Name: NKETIA AUGUSTINE Receipt No: 1010-800786 Transaction Amount: 17 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/16/2018 4:55:13 PM Cashier ID: 1010
+

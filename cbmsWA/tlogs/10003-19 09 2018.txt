@@ -1,0 +1,6 @@
+Customer ID: 110222924 Customer Name: YAKUBU YUSIF Receipt No: 10003-287656 Transaction Amount: 102 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/19/2018 3:28:12 PM Cashier ID: 10003
+
+Customer ID: 110222924 Customer Name: YAKUBU YUSIF Receipt No: 10003-911325 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/19/2018 3:29:58 PM Cashier ID: 10003
+
+Customer ID: 110222924 Customer Name: YAKUBU YUSIF Receipt No: 10003-730456 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/19/2018 3:31:04 PM Cashier ID: 10003
+

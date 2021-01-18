@@ -1,0 +1,26 @@
+Customer ID: 114184846 Customer Name: SALEM MUSA Receipt No: 02021-230637 Transaction Amount: 300 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 9:09:37 AM Cashier ID: 02021
+
+Customer ID: 114127762 Customer Name: ABDUL RAMAN IBRAHIM Receipt No: 02021-528703 Transaction Amount: 1500 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 9:44:08 AM Cashier ID: 02021
+
+Customer ID: 114072260 Customer Name: THOMAS ANSU Receipt No: 02021-354332 Transaction Amount: 700 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 9:46:17 AM Cashier ID: 02021
+
+Customer ID: 114012869 Customer Name: KWAKU DUAH KINGSLEY Receipt No: 02021-942914 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 10:35:03 AM Cashier ID: 02021
+
+Customer ID: 114051267 Customer Name: VICTORIA AMBONG Receipt No: 02021-872426 Transaction Amount: 3 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 10:51:03 AM Cashier ID: 02021
+
+Customer ID: 114050474 Customer Name: ELIZABETH ANIMA Receipt No: 02021-450757 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 10:59:13 AM Cashier ID: 02021
+
+Customer ID: 114022283 Customer Name: AMINA AFIA Receipt No: 02021-839105 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 11:26:49 AM Cashier ID: 02021
+
+Customer ID: 114061987 Customer Name: ENOCK ASARE Receipt No: 02021-918965 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 11:28:24 AM Cashier ID: 02021
+
+Customer ID: 114172672 Customer Name: KARIM INUSA Receipt No: 02021-943853 Transaction Amount: 100 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 11:45:52 AM Cashier ID: 02021
+
+Customer ID: 114191210 Customer Name: MATHEW YEBOAH Receipt No: 02021-570807 Transaction Amount: 17 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 12:38:43 PM Cashier ID: 02021
+
+Customer ID: 114030437 Customer Name: KETTEH SELORM WINFRED Receipt No: 02021-600857 Transaction Amount: 150 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 1:02:22 PM Cashier ID: 02021
+
+Customer ID: 114042360 Customer Name: JAMES ADDAI Receipt No: 02021-914479 Transaction Amount: 130 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 1:17:35 PM Cashier ID: 02021
+
+Customer ID: 114114801 Customer Name: ADDAE ABIGAIL Receipt No: 02021-793068 Transaction Amount: 65 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 8/1/2018 1:54:37 PM Cashier ID: 02021
+

@@ -1,0 +1,6 @@
+Customer ID: 101132266 Customer Name: CRISANTUS DERY Receipt No: 1010-502093 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 11:14:02 AM Cashier ID: 1010
+
+Customer ID: 101003224 Customer Name: J. D ASARE,  Receipt No: 1010-695363 Transaction Amount: 15 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 11:59:22 AM Cashier ID: 1010
+
+Customer ID: 101117519 Customer Name: ANTWI THERESA ONYINA Receipt No: 1010-367371 Transaction Amount: 100 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/22/2018 2:01:40 PM Cashier ID: 1010
+

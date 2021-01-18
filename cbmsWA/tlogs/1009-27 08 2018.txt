@@ -1,0 +1,4 @@
+Customer ID: 101194177 Customer Name: MICHAEL DAMOAH Receipt No: 1009-703374 Transaction Amount: 80 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 10:19:58 AM Cashier ID: 1009
+
+Customer ID: 101053565 Customer Name: COLLINS KYEREMEH  Receipt No: 1009-375646 Transaction Amount: 200 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/27/2018 4:20:10 PM Cashier ID: 1009
+

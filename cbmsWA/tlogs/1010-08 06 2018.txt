@@ -1,0 +1,20 @@
+Customer ID: 101044763 Customer Name: OFORI ANNYE ALFRED Receipt No: 1010-872103 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 9:21:18 AM Cashier ID: 1010
+
+Customer ID: 101171223 Customer Name: OFORI ANNYE ALFRED Receipt No: 1010-898988 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 9:22:26 AM Cashier ID: 1010
+
+Customer ID: 101027498 Customer Name: MUSAH SATA Receipt No: 1010-790884 Transaction Amount: 112 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 11:49:27 AM Cashier ID: 1010
+
+Customer ID: 101038472 Customer Name: ROBERT ADDANEY YAW Receipt No: 1010-154258 Transaction Amount: 40 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 12:01:57 PM Cashier ID: 1010
+
+Customer ID: 101106584 Customer Name: JOE JANTUAH GYAMFI Receipt No: 1010-731843 Transaction Amount: 277 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 1:31:11 PM Cashier ID: 1010
+
+Customer ID: 101114286 Customer Name: KUMI FRANCIS AMPONSAH Receipt No: 1010-460265 Transaction Amount: 106.5 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 2:32:56 PM Cashier ID: 1010
+
+Customer ID: 101067504 Customer Name: GYAMFI GEORGINA Receipt No: 1010-981925 Transaction Amount: 175 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 2:44:03 PM Cashier ID: 1010
+
+Customer ID: 101047581 Customer Name: AFOAKWA OHENE Receipt No: 1010-84483 Transaction Amount: 1330 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 3:26:48 PM Cashier ID: 1010
+
+Customer ID: 101006526 Customer Name:  FORIWAA MARGARET Receipt No: 1010-927020 Transaction Amount: 47 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 3:36:11 PM Cashier ID: 1010
+
+Customer ID: 108093627 Customer Name: FOFIE AFIA  Receipt No: 1010-438665 Transaction Amount: 170 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/8/2018 3:47:29 PM Cashier ID: 1010
+

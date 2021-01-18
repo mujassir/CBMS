@@ -1,0 +1,4 @@
+Customer ID: 101058136 Customer Name: OPPONG BEN Receipt No: 1010015-756671 Transaction Amount: 62 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/3/2018 1:09:44 PM Cashier ID: 1010015
+
+Customer ID: 101024482 Customer Name: COLLINS AMANKWA Receipt No: 1010015-618742 Transaction Amount: 300 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 7/3/2018 3:10:09 PM Cashier ID: 1010015
+

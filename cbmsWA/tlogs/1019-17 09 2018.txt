@@ -1,0 +1,10 @@
+Customer ID: 101151508 Customer Name: AGYEI JOHN ANANE Receipt No: 1019-679783 Transaction Amount: 38 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:49:40 AM Cashier ID: 1019
+
+Customer ID: 101147969 Customer Name: AGYEI JOHN ANANE Receipt No: 1019-514853 Transaction Amount: 32 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:51:57 AM Cashier ID: 1019
+
+Customer ID: 101157805 Customer Name: KWADWO SAMUEL KYERE Receipt No: 1019-711926 Transaction Amount: 35 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 8:53:34 AM Cashier ID: 1019
+
+Customer ID: 101202973 Customer Name: AGYEMAN KWASI BEDIAKO Receipt No: 1019-308716 Transaction Amount: 40 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 9:01:31 AM Cashier ID: 1019
+
+Customer ID: 101183634 Customer Name: AFRAKOMAH  ADWOA  Receipt No: 1019-284008 Transaction Amount: 100 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/17/2018 11:31:30 AM Cashier ID: 1019
+

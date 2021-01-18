@@ -1,0 +1,2 @@
+Customer ID: 114222418 Customer Name: OFFICE DISTRICT ASSEMBLY Receipt No: 001-929405 Transaction Amount: 10 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/15/2018 4:42:36 PM Cashier ID: 001
+

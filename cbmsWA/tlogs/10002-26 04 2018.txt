@@ -1,0 +1,6 @@
+Customer ID: 110212413 Customer Name: GYAN PATIENCE POMAA Receipt No: 10002-721612 Transaction Amount: 47 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/26/2018 4:25:10 PM Cashier ID: 10002
+
+Customer ID: 110035057 Customer Name:  DANIEL FOSU Receipt No: 10002-859845 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/26/2018 4:29:20 PM Cashier ID: 10002
+
+Customer ID: 110063637 Customer Name: OWUSU JAMES  Receipt No: 10002-591351 Transaction Amount: 270 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/26/2018 4:31:35 PM Cashier ID: 10002
+

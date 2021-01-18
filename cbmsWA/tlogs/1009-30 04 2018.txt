@@ -1,0 +1,30 @@
+Customer ID: 101137624 Customer Name: RABUKSON BUKARI STEPHEN Receipt No: 1009-601434 Transaction Amount: 350 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 10:40:38 AM Cashier ID: 1009
+
+Customer ID: 101140434 Customer Name: GYAMEAH MARGARET  Receipt No: 1009-598604 Transaction Amount: 20 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 10:55:41 AM Cashier ID: 1009
+
+Customer ID: 101140434 Customer Name: GYAMEAH MARGARET  Receipt No: 1009-304894 Transaction Amount: 30.4 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 11:05:17 AM Cashier ID: 1009
+
+Customer ID: 101054634 Customer Name: AMPONSAH KWABENA Receipt No: 1009-106656 Transaction Amount: 150 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 11:47:55 AM Cashier ID: 1009
+
+Customer ID: 101162233 Customer Name: PRIEST-IN-CHARGE THE Receipt No: 1009-555968 Transaction Amount: 290 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 11:50:25 AM Cashier ID: 1009
+
+Customer ID: 101093481 Customer Name: HIGHWAY  AUTHORITY GHANA Receipt No: 1009-878438 Transaction Amount: 35 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 12:02:43 PM Cashier ID: 1009
+
+Customer ID: 101146991 Customer Name: K. CHARLES AMANKWAH,  Receipt No: 1009-964062 Transaction Amount: 50 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 12:31:26 PM Cashier ID: 1009
+
+Customer ID: 101159758 Customer Name: CHARLES AMANKWAH  Receipt No: 1009-117089 Transaction Amount: 100 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 12:36:28 PM Cashier ID: 1009
+
+Customer ID: 101171736 Customer Name: SERWAA LUCY BONSU Receipt No: 1009-53268 Transaction Amount: 36 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 12:58:14 PM Cashier ID: 1009
+
+Customer ID: 101031509 Customer Name: APRAKU JOHN  Receipt No: 1009-935384 Transaction Amount: 70 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 1:03:06 PM Cashier ID: 1009
+
+Customer ID: 101088216 Customer Name: QUARSHIE PRINCE Receipt No: 1009-726264 Transaction Amount: 100 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 1:16:01 PM Cashier ID: 1009
+
+Customer ID: 101047154 Customer Name:  AMOABENG RANDOLF Receipt No: 1009-220180 Transaction Amount: 450 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 1:20:41 PM Cashier ID: 1009
+
+Customer ID: 101141360 Customer Name: AMOATENG MR&MRS Receipt No: 1009-352611 Transaction Amount: 100 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 3:54:43 PM Cashier ID: 1009
+
+Customer ID: 101022824 Customer Name: DANIEL BAIDOO Receipt No: 1009-432061 Transaction Amount: 150 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 3:57:38 PM Cashier ID: 1009
+
+Customer ID: 101203770 Customer Name: OTCHERR SERWAAH COMFORT Receipt No: 1009-778020 Transaction Amount: 150 Billing Date: 4/30/2018 12:00:00 AM Transaction Date: 4/30/2018 5:01:58 PM Cashier ID: 1009
+

@@ -1,0 +1,6 @@
+Customer ID: 101164689 Customer Name: NYAME  KWAKU Receipt No: 1010015-448781 Transaction Amount: 21 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 12:40:46 PM Cashier ID: 1010015
+
+Customer ID: 101207698 Customer Name: AGNES FOSUAH Receipt No: 1010015-829845 Transaction Amount: 35 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 1:57:48 PM Cashier ID: 1010015
+
+Customer ID: 101015744 Customer Name: APENTENG MR. Receipt No: 1010015-789662 Transaction Amount: 262 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/20/2018 3:29:18 PM Cashier ID: 1010015
+

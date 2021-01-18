@@ -1,0 +1,30 @@
+Customer ID: 101175311 Customer Name: SAMUEL ANTWI,  Receipt No: 10133-432534 Transaction Amount: 125 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 9:19:29 AM Cashier ID: 10133
+
+Customer ID: 101146915 Customer Name: BOAKYE KWASI Receipt No: 10133-168845 Transaction Amount: 95 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 9:22:42 AM Cashier ID: 10133
+
+Customer ID: 101042607 Customer Name: A OFOSUA DARTEY E. Receipt No: 10133-171120 Transaction Amount: 10 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 9:28:45 AM Cashier ID: 10133
+
+Customer ID: 101042607 Customer Name: A OFOSUA DARTEY E. Receipt No: 10133-828752 Transaction Amount: 400 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 9:34:36 AM Cashier ID: 10133
+
+Customer ID: 101076940 Customer Name: KAMKAM ELIZABETH  KAMKAM ELIZABETH  Receipt No: 10133-37626 Transaction Amount: 116 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 9:54:18 AM Cashier ID: 10133
+
+Customer ID: 101157109 Customer Name: GLADYS DERY Receipt No: 10133-771690 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 10:37:47 AM Cashier ID: 10133
+
+Customer ID: 101063863 Customer Name: KYERE KWASI Receipt No: 10133-407554 Transaction Amount: 91 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 10:43:25 AM Cashier ID: 10133
+
+Customer ID: 101122192 Customer Name: Frank Asamoah Receipt No: 10133-323563 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 11:30:47 AM Cashier ID: 10133
+
+Customer ID: 101203264 Customer Name: OBIRI YAW Receipt No: 10133-838788 Transaction Amount: 70 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 11:47:32 AM Cashier ID: 10133
+
+Customer ID: 101032019 Customer Name:  NSIAH KOFI Receipt No: 10133-571605 Transaction Amount: 40 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 11:58:55 AM Cashier ID: 10133
+
+Customer ID: 101063950 Customer Name: KWABENA YEBOAH  Receipt No: 10133-809881 Transaction Amount: 23 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 12:16:07 PM Cashier ID: 10133
+
+Customer ID: 101217664 Customer Name: AMAN KWAA JOSEPH Receipt No: 10133-713096 Transaction Amount: 35 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 12:42:50 PM Cashier ID: 10133
+
+Customer ID: 101177693 Customer Name: KASSIMU RAWUTH Receipt No: 10133-283668 Transaction Amount: 60 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 12:45:17 PM Cashier ID: 10133
+
+Customer ID: 101145506 Customer Name: NYARKO JOYCE AYIWA Receipt No: 10133-458008 Transaction Amount: 50 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 12:50:29 PM Cashier ID: 10133
+
+Customer ID: 101083212 Customer Name: ADOMA YAA  Receipt No: 10133-681235 Transaction Amount: 20 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/23/2018 1:58:41 PM Cashier ID: 10133
+

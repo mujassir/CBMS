@@ -1,0 +1,8 @@
+Customer ID: 106061612 Customer Name: BOFAH KWAKU Receipt No: 02020-938706 Transaction Amount: 140 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/25/2018 10:59:38 AM Cashier ID: 02020
+
+Customer ID: 106005644 Customer Name: AKWASI SARKODIE,  Receipt No: 02020-559897 Transaction Amount: 180 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/25/2018 12:29:22 PM Cashier ID: 02020
+
+Customer ID: 106030791 Customer Name: KWAME YEBOAH PAUL Receipt No: 02020-309697 Transaction Amount: 100 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/25/2018 12:52:50 PM Cashier ID: 02020
+
+Customer ID: 106115971 Customer Name: GBENU STEPHEN Receipt No: 02020-149514 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/25/2018 4:14:04 PM Cashier ID: 02020
+

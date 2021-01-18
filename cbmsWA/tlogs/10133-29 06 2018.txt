@@ -1,0 +1,18 @@
+Customer ID: 101003665 Customer Name: NKRUMAH YAW Receipt No: 10133-184870 Transaction Amount: 50 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 8:38:36 AM Cashier ID: 10133
+
+Customer ID: 101070665 Customer Name: DWOMO  AGYEMANG  BADU NANA Receipt No: 10133-54212 Transaction Amount: 120 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 8:57:04 AM Cashier ID: 10133
+
+Customer ID: 101147969 Customer Name: AGYEI JOHN ANANE Receipt No: 10133-769709 Transaction Amount: 31 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 9:43:40 AM Cashier ID: 10133
+
+Customer ID: 101151508 Customer Name: AGYEI JOHN ANANE Receipt No: 10133-393718 Transaction Amount: 35 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 9:44:57 AM Cashier ID: 10133
+
+Customer ID: 101088216 Customer Name: QUARSHIE PRINCE Receipt No: 10133-985166 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 10:38:25 AM Cashier ID: 10133
+
+Customer ID: 101100797 Customer Name: ACQUAH VERONICA Receipt No: 10133-129952 Transaction Amount: 189 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 12:52:53 PM Cashier ID: 10133
+
+Customer ID: 101200481 Customer Name: KNOX KWARTENG&NINA N KWARTENG ERIC Receipt No: 10133-394102 Transaction Amount: 100 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 2:01:58 PM Cashier ID: 10133
+
+Customer ID: 101114286 Customer Name: KUMI FRANCIS AMPONSAH Receipt No: 10133-441441 Transaction Amount: 42.6 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 2:34:54 PM Cashier ID: 10133
+
+Customer ID: 101155447 Customer Name: K. NARTEY EDWARD Receipt No: 10133-165248 Transaction Amount: 30 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/29/2018 3:08:51 PM Cashier ID: 10133
+

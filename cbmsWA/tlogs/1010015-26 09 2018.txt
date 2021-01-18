@@ -1,0 +1,4 @@
+Customer ID: 101072396 Customer Name:  AKOSUA BOATEMAA Receipt No: 1010015-988946 Transaction Amount: 45 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/26/2018 2:43:05 PM Cashier ID: 1010015
+
+Customer ID: 101174052 Customer Name: AMEYAW CHEREMEH KWASI  Receipt No: 1010015-224439 Transaction Amount: 185 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/26/2018 2:44:52 PM Cashier ID: 1010015
+

@@ -1,0 +1,4 @@
+Customer ID: 101001883 Customer Name: A. K. MARFO  Receipt No: 001-800511 Transaction Amount: 50 Billing Date: 2018-09-30 12:00:00 AM Transaction Date: 2019-01-19 12:01:49 PM Cashier ID: 001
+
+Customer ID: 101001883 Customer Name: A. K. MARFO  Receipt No: 001-387372 Transaction Amount: 150 Billing Date: 2018-09-30 12:00:00 AM Transaction Date: 2019-01-19 2:35:24 PM Cashier ID: 001
+

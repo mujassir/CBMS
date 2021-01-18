@@ -1,0 +1,8 @@
+Customer ID: 101214179 Customer Name: KWAME ASARE RICHARD Receipt No: 1010-454951 Transaction Amount: 250 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/11/2018 11:55:13 AM Cashier ID: 1010
+
+Customer ID: 101199677 Customer Name: KUSI BENJAMIN  Receipt No: 1010-169846 Transaction Amount: 200 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/11/2018 12:45:18 PM Cashier ID: 1010
+
+Customer ID: 101101925 Customer Name: AYIVARE WEDAM  Receipt No: 1010-400067 Transaction Amount: 40 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/11/2018 2:07:09 PM Cashier ID: 1010
+
+Customer ID: 101168457 Customer Name: DOMINIC (DR) AVOGO  Receipt No: 1010-105289 Transaction Amount: 863 Billing Date: 5/31/2018 12:00:00 AM Transaction Date: 5/11/2018 2:12:47 PM Cashier ID: 1010
+

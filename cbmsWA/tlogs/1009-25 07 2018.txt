@@ -1,0 +1,12 @@
+Customer ID: 101119273 Customer Name:  EVANS YEBOAH Receipt No: 1009-586760 Transaction Amount: 69 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 9:34:08 AM Cashier ID: 1009
+
+Customer ID: 101089183 Customer Name:  AGNES BIRAGO Receipt No: 1009-133313 Transaction Amount: 141 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 12:26:04 PM Cashier ID: 1009
+
+Customer ID: 101193201 Customer Name: FELICIA AKWAAH Receipt No: 1009-490354 Transaction Amount: 400 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 12:35:53 PM Cashier ID: 1009
+
+Customer ID: 101060388 Customer Name: P. K. GYAU Receipt No: 1009-308348 Transaction Amount: 200 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 12:37:34 PM Cashier ID: 1009
+
+Customer ID: 115039903 Customer Name: QUARTERS TEACHERS  Receipt No: 1009-511746 Transaction Amount: 63.4 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 4:03:05 PM Cashier ID: 1009
+
+Customer ID: 101128601 Customer Name: ATTAH KURFFIE GEORGE Receipt No: 1009-251734 Transaction Amount: 129 Billing Date: 7/31/2018 12:00:00 AM Transaction Date: 7/25/2018 4:12:37 PM Cashier ID: 1009
+

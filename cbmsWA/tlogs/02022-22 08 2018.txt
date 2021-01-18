@@ -1,0 +1,10 @@
+Customer ID: 114063313 Customer Name: OFORI ISAAC Receipt No: 02022-320928 Transaction Amount: 20 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/22/2018 8:05:46 AM Cashier ID: 02022
+
+Customer ID: 114030725 Customer Name: OSEI PRINCE Receipt No: 02022-491731 Transaction Amount: 17 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/22/2018 8:07:46 AM Cashier ID: 02022
+
+Customer ID: 114063679 Customer Name: BUKARI  SEIDU Receipt No: 02022-292639 Transaction Amount: 27 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/22/2018 10:45:32 AM Cashier ID: 02022
+
+Customer ID: 114134598 Customer Name: COM.CO.C.U ADABOMAN Receipt No: 02022-219283 Transaction Amount: 8000 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/22/2018 11:47:09 AM Cashier ID: 02022
+
+Customer ID: 114000489 Customer Name:  YEBOAHA JANET Receipt No: 02022-597560 Transaction Amount: 95 Billing Date: 8/31/2018 12:00:00 AM Transaction Date: 8/22/2018 11:52:26 AM Cashier ID: 02022
+

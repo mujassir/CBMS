@@ -1,0 +1,4 @@
+Customer ID: 109046759 Customer Name: JOSEPH AKOM  Receipt No: 102002-498113 Transaction Amount: 15 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 11:18:28 AM Cashier ID: 102002
+
+Customer ID: 109033562 Customer Name: KWABENA ATTA,  Receipt No: 102002-25721 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/7/2018 12:37:28 PM Cashier ID: 102002
+

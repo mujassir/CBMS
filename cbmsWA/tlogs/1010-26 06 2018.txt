@@ -1,0 +1,4 @@
+Customer ID: 101200076 Customer Name: COMM BOREHOLE FIAPRE Receipt No: 1010-852457 Transaction Amount: 350 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/26/2018 9:53:07 AM Cashier ID: 1010
+
+Customer ID: 101163309 Customer Name: KOFI ERIC ANTWI Receipt No: 1010-967700 Transaction Amount: 300 Billing Date: 6/30/2018 12:00:00 AM Transaction Date: 6/26/2018 2:37:54 PM Cashier ID: 1010
+

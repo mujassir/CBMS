@@ -1,0 +1,2 @@
+Customer ID: 101085169 Customer Name: BOAKYE OWUSU  Receipt No: 1010015-291512 Transaction Amount: 15 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 10/3/2018 8:58:46 AM Cashier ID: 1010015
+

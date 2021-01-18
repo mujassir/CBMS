@@ -1,0 +1,6 @@
+Customer ID: 110222932 Customer Name: VERONICA KONAMA Receipt No: 10003-48049 Transaction Amount: 112 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/24/2018 3:54:13 PM Cashier ID: 10003
+
+Customer ID: 110222932 Customer Name: VERONICA KONAMA Receipt No: 10003-159971 Transaction Amount: 30 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/24/2018 3:55:24 PM Cashier ID: 10003
+
+Customer ID: 110222932 Customer Name: VERONICA KONAMA Receipt No: 10003-171395 Transaction Amount: 10 Billing Date: 9/30/2018 12:00:00 AM Transaction Date: 9/24/2018 3:56:44 PM Cashier ID: 10003
+

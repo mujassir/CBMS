@@ -1,0 +1,150 @@
+Customer ID: 111188952 Customer Name: K KOTEY MARY Receipt No: 04550-722689 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:40:18 AM Cashier ID: 04550
+
+Customer ID: 111208434 Customer Name: GIDEON NTEM Receipt No: 04550-103303 Transaction Amount: 6 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:44:05 AM Cashier ID: 04550
+
+Customer ID: 111088157 Customer Name: K FELIX SIEH Receipt No: 04550-425536 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:44:53 AM Cashier ID: 04550
+
+Customer ID: 111192510 Customer Name: DANIEL MENSAH Receipt No: 04550-5411 Transaction Amount: 7 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:45:45 AM Cashier ID: 04550
+
+Customer ID: 111084225 Customer Name: MUNUFIE DAVID KOFI Receipt No: 04550-772466 Transaction Amount: 27 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:46:44 AM Cashier ID: 04550
+
+Customer ID: 111039471 Customer Name: PETER KWABENA NSIAH SAH Receipt No: 04550-284061 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 9:51:36 AM Cashier ID: 04550
+
+Customer ID: 111054905 Customer Name: MAAMAH ALI Receipt No: 04550-493123 Transaction Amount: 25.4 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:02:20 AM Cashier ID: 04550
+
+Customer ID: 111124933 Customer Name: MUSAH SULE Receipt No: 04550-451323 Transaction Amount: 195 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:14:34 AM Cashier ID: 04550
+
+Customer ID: 111096633 Customer Name: IBRAHIM SIAKA Receipt No: 04550-746231 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:18:27 AM Cashier ID: 04550
+
+Customer ID: 111188475 Customer Name: MUSAH DAUDA Receipt No: 04550-364446 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:26:49 AM Cashier ID: 04550
+
+Customer ID: 111159473 Customer Name: K. KUMA THOMAS Receipt No: 04550-95421 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:35:30 AM Cashier ID: 04550
+
+Customer ID: 111172546 Customer Name: SHIEPELE GABRIEL Receipt No: 04550-317038 Transaction Amount: 43 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:37:55 AM Cashier ID: 04550
+
+Customer ID: 111000184 Customer Name: ANDREWS BIO Receipt No: 04550-260627 Transaction Amount: 86 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:47:31 AM Cashier ID: 04550
+
+Customer ID: 111178234 Customer Name:  KOFI   ISAAC SIE Receipt No: 04550-844895 Transaction Amount: 31 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:48:56 AM Cashier ID: 04550
+
+Customer ID: 111201284 Customer Name: NIMO YEBOAH JOSEPH Receipt No: 04550-232847 Transaction Amount: 35 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 10:59:10 AM Cashier ID: 04550
+
+Customer ID: 111166379 Customer Name: AMPOMAH AUGUSTINA Receipt No: 04550-731941 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:15:08 AM Cashier ID: 04550
+
+Customer ID: 111032800 Customer Name: MANAGER THE  Receipt No: 04550-628053 Transaction Amount: 450 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:23:27 AM Cashier ID: 04550
+
+Customer ID: 111185753 Customer Name: SEIDU SALIFU Receipt No: 04550-508698 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:25:20 AM Cashier ID: 04550
+
+Customer ID: 111021259 Customer Name: JAMES NANA Receipt No: 04550-599707 Transaction Amount: 71 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:31:27 AM Cashier ID: 04550
+
+Customer ID: 111134192 Customer Name: LUCY KUSIWAA Receipt No: 04550-461539 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:32:20 AM Cashier ID: 04550
+
+Customer ID: 111030787 Customer Name: HEALTH SERVICE  GHANA Receipt No: 04550-169612 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:33:49 AM Cashier ID: 04550
+
+Customer ID: 111157031 Customer Name: PEYE PEPIE MICHAEL Receipt No: 04550-601435 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:36:39 AM Cashier ID: 04550
+
+Customer ID: 111222399 Customer Name: KWAKU ALEX DONKOR Receipt No: 04550-240631 Transaction Amount: 223 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:40:17 AM Cashier ID: 04550
+
+Customer ID: 111222399 Customer Name: KWAKU ALEX DONKOR Receipt No: 04550-599703 Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:41:27 AM Cashier ID: 04550
+
+Customer ID: 111010561 Customer Name: EMMANUEL KUMAH Receipt No: 04550-1878 Transaction Amount: 15 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:45:09 AM Cashier ID: 04550
+
+Customer ID: 111132996 Customer Name:  KOFI  ANANE MARTIN Receipt No: 04550-349803 Transaction Amount: 65 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 11:46:17 AM Cashier ID: 04550
+
+Customer ID: 111033216 Customer Name: WATARA IDDRISA Receipt No: 04550-47115 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:01:43 PM Cashier ID: 04550
+
+Customer ID: 111106920 Customer Name: PRESBY CH. TRINITY Receipt No: 04550-964827 Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:10:15 PM Cashier ID: 04550
+
+Customer ID: 111093631 Customer Name: KOFI SAMPSON BADU Receipt No: 04550-771557 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:11:12 PM Cashier ID: 04550
+
+Customer ID: 111133303 Customer Name: MAHAMA IBRAHIM Receipt No: 04550-206390 Transaction Amount: 12.5 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:28:19 PM Cashier ID: 04550
+
+Customer ID: 111176148 Customer Name:  KRAH  JOSEPH KWAME Receipt No: 04550-430655 Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:30:32 PM Cashier ID: 04550
+
+Customer ID: 111067903 Customer Name: ALHASSAN LOGOSINA Receipt No: 04550-574056 Transaction Amount: 54 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:32:08 PM Cashier ID: 04550
+
+Customer ID: 111180973 Customer Name: APREKU  AMADU Receipt No: 04550-260128 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:43:49 PM Cashier ID: 04550
+
+Customer ID: 111021497 Customer Name: ABENA AGYEIWA JOYCE  Receipt No: 04550-429986 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:48:00 PM Cashier ID: 04550
+
+Customer ID: 111030233 Customer Name:  CHURCH PRESBY Receipt No: 04550-635918 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:50:21 PM Cashier ID: 04550
+
+Customer ID: 111003620 Customer Name: CHURCH PRESBYTERIAN Receipt No: 04550-63062 Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:52:21 PM Cashier ID: 04550
+
+Customer ID: 111152266 Customer Name: PASTOR THE Receipt No: 04550-354676 Transaction Amount: 220 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:53:38 PM Cashier ID: 04550
+
+Customer ID: 111072479 Customer Name:  CHURCH PRESBY Receipt No: 04550-432858 Transaction Amount: 250 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 12:54:49 PM Cashier ID: 04550
+
+Customer ID: 111012677 Customer Name: DAUDA CHIEF Receipt No: 04550-236873 Transaction Amount: 53 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:22:00 PM Cashier ID: 04550
+
+Customer ID: 111131795 Customer Name: KINTOR AGARTHA Receipt No: 04550-358671 Transaction Amount: 61 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:28:21 PM Cashier ID: 04550
+
+Customer ID: 111099756 Customer Name: MARTIN AMOAKO  Receipt No: 04550-301833 Transaction Amount: 600 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:29:46 PM Cashier ID: 04550
+
+Customer ID: 111099692 Customer Name: KOFI ALEX SAH Receipt No: 04550-112556 Transaction Amount: 258 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:31:36 PM Cashier ID: 04550
+
+Customer ID: 111084760 Customer Name: K BAFFOUR ANTHONY Receipt No: 04550-459009 Transaction Amount: 7 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:36:14 PM Cashier ID: 04550
+
+Customer ID: 111091754 Customer Name: K BAFFOUR ANTHONY Receipt No: 04550-348131 Transaction Amount: 47 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:37:38 PM Cashier ID: 04550
+
+Customer ID: 111029460 Customer Name: KORNEH ALIMA Receipt No: 04550-942850 Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:41:18 PM Cashier ID: 04550
+
+Customer ID: 111205204 Customer Name: K FELIX PREMPEH Receipt No: 04550-595037 Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:48:54 PM Cashier ID: 04550
+
+Customer ID: 111083614 Customer Name: ADJEI BOATENG HILDA Receipt No: 04550-191920 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:52:03 PM Cashier ID: 04550
+
+Customer ID: 111046961 Customer Name: GRACE AMA Receipt No: 04550-249075 Transaction Amount: 620 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 1:58:44 PM Cashier ID: 04550
+
+Customer ID: 111168241 Customer Name: SEIDU MAMUNATU Receipt No: 04550-302516 Transaction Amount: 80 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:02:45 PM Cashier ID: 04550
+
+Customer ID: 111063128 Customer Name: OPERATOR KWABENA Receipt No: 04550-261087 Transaction Amount: 95 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:04:58 PM Cashier ID: 04550
+
+Customer ID: 111133561 Customer Name: YEBOAH YAW Receipt No: 04550-727159 Transaction Amount: 202 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:08:26 PM Cashier ID: 04550
+
+Customer ID: 111165089 Customer Name: ADANE SOLOMON  Receipt No: 04550-304360 Transaction Amount: 120 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:13:21 PM Cashier ID: 04550
+
+Customer ID: 111051986 Customer Name: TOTOMGBA HANNAH Receipt No: 04550-955276 Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:18:54 PM Cashier ID: 04550
+
+Customer ID: 111115539 Customer Name: ALI ISSIFU Receipt No: 04550-829689 Transaction Amount: 118 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:40:02 PM Cashier ID: 04550
+
+Customer ID: 111150489 Customer Name: ABENAA SAANTE MARY Receipt No: 04550-659029 Transaction Amount: 126 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:46:33 PM Cashier ID: 04550
+
+Customer ID: 111132500 Customer Name: ISSAH MORROW Receipt No: 04550-711381 Transaction Amount: 35 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:51:26 PM Cashier ID: 04550
+
+Customer ID: 111109618 Customer Name: ISAAC KWAKU Receipt No: 04550-319978 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:54:56 PM Cashier ID: 04550
+
+Customer ID: 111166034 Customer Name: KUMAH KWAME STEPHEN Receipt No: 04550-700402 Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 2:57:18 PM Cashier ID: 04550
+
+Customer ID: 111180376 Customer Name: AFFUL PETER Receipt No: 04550-54654 Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:00:18 PM Cashier ID: 04550
+
+Customer ID: 111062790 Customer Name: IBRAHIM SIAKA  Receipt No: 04550-378391 Transaction Amount: 82 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:07:08 PM Cashier ID: 04550
+
+Customer ID: 111217843 Customer Name: WALA MAHAMA  Receipt No: 04550-52363 Transaction Amount: 38 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:08:25 PM Cashier ID: 04550
+
+Customer ID: 111176874 Customer Name: WALA MAHAMA  Receipt No: 04550-777946 Transaction Amount: 22 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:09:28 PM Cashier ID: 04550
+
+Customer ID: 111162059 Customer Name: ADAMS SIAKA  Receipt No: 04550-559989 Transaction Amount: 235 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:11:02 PM Cashier ID: 04550
+
+Customer ID: 111126062 Customer Name: OBAH KWABENA DAVID Receipt No: 04550-466519 Transaction Amount: 75 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:29:15 PM Cashier ID: 04550
+
+Customer ID: 111183601 Customer Name: KWABENA  DAVID OBAH Receipt No: 04550-624185 Transaction Amount: 900 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:31:26 PM Cashier ID: 04550
+
+Customer ID: 111000098 Customer Name: OKRAH FRANCIS Receipt No: 04550-660435 Transaction Amount: 61.5 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:34:18 PM Cashier ID: 04550
+
+Customer ID: 111033648 Customer Name: BERTHA ANKAMAH Receipt No: 04550-193953 Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:35:28 PM Cashier ID: 04550
+
+Customer ID: 111181740 Customer Name: YAW KRAH MARTIN  Receipt No: 04550-143525 Transaction Amount: 14 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:49:48 PM Cashier ID: 04550
+
+Customer ID: 111088566 Customer Name: JOB NTOW NANA Receipt No: 04550-603845 Transaction Amount: 38 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:50:59 PM Cashier ID: 04550
+
+Customer ID: 111192006 Customer Name:  OBOUR KWAME Receipt No: 04550-150990 Transaction Amount: 17 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:52:15 PM Cashier ID: 04550
+
+Customer ID: 111011061 Customer Name: TAKYI POKU NANA Receipt No: 04550-103729 Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 3:53:18 PM Cashier ID: 04550
+
+Customer ID: 111135571 Customer Name: ISSAH ABDULAI Receipt No: 04550-246603 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 4:12:45 PM Cashier ID: 04550
+
+Customer ID: 111049308 Customer Name: KYEREWAA  HANNAH Receipt No: 04550-694254 Transaction Amount: 28 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 4:34:19 PM Cashier ID: 04550
+
+Customer ID: 111049308 Customer Name: KYEREWAA  HANNAH Receipt No: 04550-95440 Transaction Amount: 20 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 4:54:05 PM Cashier ID: 04550
+
+Customer ID: 111119517 Customer Name:  NSIAH JOHNSON Receipt No: 04550-587417 Transaction Amount: 1.6 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 4/10/2018 5:28:53 PM Cashier ID: 04550
+

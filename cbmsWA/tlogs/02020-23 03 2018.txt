@@ -1,0 +1,56 @@
+Customer ID: 106114878 Customer Name: EBENEZER OPARE Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 8:18:09 AM Cashier ID: 02020
+
+Customer ID: 106116068 Customer Name: KRAMO ALIDU Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:00:15 AM Cashier ID: 02020
+
+Customer ID: 106150537 Customer Name: BOATENG AKUAMOAH Transaction Amount: 188 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:08:32 AM Cashier ID: 02020
+
+Customer ID: 106091936 Customer Name: ABENA DENTAAH,  Transaction Amount: 6 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:41:14 AM Cashier ID: 02020
+
+Customer ID: 106175817 Customer Name: AFIA DUKU,  Transaction Amount: 42 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 9:42:38 AM Cashier ID: 02020
+
+Customer ID: 106217835 Customer Name: HEADMASTER THE Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:05:44 AM Cashier ID: 02020
+
+Customer ID: 106206560 Customer Name: K. NKRUMAH C.  Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:15:20 AM Cashier ID: 02020
+
+Customer ID: 106068034 Customer Name: ISABELLA  ADOMBIRE Transaction Amount: 100 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:18:05 AM Cashier ID: 02020
+
+Customer ID: 106060422 Customer Name: HANNAH DANKWA Transaction Amount: 13 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:28:29 AM Cashier ID: 02020
+
+Customer ID: 106145959 Customer Name: MOHAMMED ANAS Transaction Amount: 18 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 10:31:40 AM Cashier ID: 02020
+
+Customer ID: 107195392 Customer Name: YAW ADJEI Transaction Amount: 60 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:03:54 AM Cashier ID: 02020
+
+Customer ID: 106075355 Customer Name: APPIAH AKWASI Transaction Amount: 145 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:40:18 AM Cashier ID: 02020
+
+Customer ID: 106073331 Customer Name: BOAKYE  HAYFORD Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 11:48:08 AM Cashier ID: 02020
+
+Customer ID: 106211529 Customer Name: AHMED OWUSU IBRAHIM Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:09:47 PM Cashier ID: 02020
+
+Customer ID: 106200161 Customer Name: ERIC  KWADWO Transaction Amount: 50 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:10:56 PM Cashier ID: 02020
+
+Customer ID: 106174003 Customer Name: YAW GYAU NANA  Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:14:11 PM Cashier ID: 02020
+
+Customer ID: 106128759 Customer Name: ELIZABETH OPPONG,  Transaction Amount: 200 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:27:46 PM Cashier ID: 02020
+
+Customer ID: 106071269 Customer Name: ABENAA DAPAAH  Transaction Amount: 30 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 12:53:04 PM Cashier ID: 02020
+
+Customer ID: 106042079 Customer Name: ADADE K.OMARI  Transaction Amount: 44 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:05:05 PM Cashier ID: 02020
+
+Customer ID: 106198726 Customer Name: BONDI  KWADWO ITU  Transaction Amount: 37 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:27:32 PM Cashier ID: 02020
+
+Customer ID: 106015051 Customer Name: OWUSU ANSAH BISMARK Transaction Amount: 150 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:51:43 PM Cashier ID: 02020
+
+Customer ID: 106053149 Customer Name: AGYEMANG BADU GENEVIEVE Transaction Amount: 40 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 1:58:38 PM Cashier ID: 02020
+
+Customer ID: 106082658 Customer Name: OSEI ELIZABETH KWARTENG,  Transaction Amount: 206 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:20:14 PM Cashier ID: 02020
+
+Customer ID: 106154690 Customer Name: ASANTE FRANCIS Transaction Amount: 10 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:27:10 PM Cashier ID: 02020
+
+Customer ID: 106121422 Customer Name: DWOMO BEATRICE Transaction Amount: 200 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:39:14 PM Cashier ID: 02020
+
+Customer ID: 106112857 Customer Name: OSEI ADJEI EMMANUEL Transaction Amount: 27 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 2:42:43 PM Cashier ID: 02020
+
+Customer ID: 106168182 Customer Name:  AKORAH PETER Transaction Amount: 11 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 3:55:39 PM Cashier ID: 02020
+
+Customer ID: 106171788 Customer Name: ASARE CHRISTIANA  Transaction Amount: 12 Billing Date: 3/31/2018 12:00:00 AM Transaction Date: 3/23/2018 4:01:38 PM Cashier ID: 02020
+
